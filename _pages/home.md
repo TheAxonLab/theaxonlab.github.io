@@ -74,4 +74,5 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_chuv.svg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_snf.gif" style="width: 210px">
 </figure>
