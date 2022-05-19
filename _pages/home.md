@@ -36,7 +36,7 @@ of the healthy and diseased developmental trajectories of the human brain.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fmriprep-flowchart.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fmriprep-smoothing.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mriqc-carpetplot.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fmriprep-smoothing.png" alt="Slide 4" />
