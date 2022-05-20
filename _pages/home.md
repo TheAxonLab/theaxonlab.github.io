@@ -1,13 +1,11 @@
 ---
-title: "The Axon Laboratory"
+title: "The Axonlab :: Welcome"
 layout: homelay
-excerpt: "AxonLab at CHUV."
+excerpt: "Welcome to the Axonlab!"
 sitemap: false
 permalink: /
 ---
 
-The Axon Laboratory is a research group at the Department of Radiology of
-the [Centre hospitalier universitaire vaudois (CHUV)](https://www.lausanneuniversityhospital.com/home).
 We investigate the neuroimaging workflow to map out the brain's connectivity networks,
 characterize the reliability, sensitivity and specificity of these methodologies (from
 acquisition to formalization of network information) and apply them in the understanding
@@ -63,14 +61,18 @@ of the healthy and diseased developmental trajectories of the human brain.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To this end, we develop computational methods to extract structural and functional connectivity from a variety of MRI (magnetic resonance image) techniques and corresponding physiolgical information.
+In particular, we use anatomical MR schemes (e.g., T1-weighted and T2-weighted), diffusion MRI for the structural connectivity, and BOLD (blood-oxygen-level-dependent) MRI for the functional connectivity.
+We engage in open science and support community tooling.
+In particular, The Axonlab is deeply involved in the development of the [*NeuroImaging PREProcessing toolS (NiPreps)*](https://nipreps.org).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Department of Radiology of the Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/rad/rad-home).
 
+<!--
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+-->
 
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH (RF1MH121867, PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_chuv.svg" style="width: 210px">

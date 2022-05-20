@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Axon Lab
+title: The Axonlab
 email: theaxonlab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Axon Lab --
-  Mapping the brain's networks.
+  The Axonlab --
+  Mapping brain networks
 baseurl: "/"
 url: "https://www.axonlab.org"
 
