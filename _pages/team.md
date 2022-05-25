@@ -44,18 +44,18 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
   {% if member.links %}
   <p>
-      {% for link_key, link_target in member.links %}
-      <a href="{{ link_target }}" target="_blank">
-        {% if link_key == "scholar" %}
+      {% for link in member.links %}
+      <a href="{{ link[1] }}" target="_blank">
+        {% if link[0] == "scholar" %}
         Google Scholar
-        {% elif link_key == "orcid" %}
+        {% elif link[0] == "orcid" %}
         ORCID
-        {% elif link_key == "publons" %}
+        {% elif link[0] == "publons" %}
         Publons
         {% else %}
         Other
         {% endif %}  
-      </a>
+      </a>{% if not forloop.last %} | {% endif %}
       {% endfor %}
   </p>
   {% endif %}
