@@ -45,18 +45,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.links %}
   <p>
       {% for link in member.links %}
-      <a href="{{ link[1] }}" target="_blank">
-        {% case link[0] %}
-        {% when 'scholar' %}
-        Google Scholar
-        {% when 'orcid' %}
-        ORCID
-        {% when 'publons' %}
-        Publons
-        {% else %}
-        Other
-        {% endcase %}  
-      </a>{% unless forloop.last %} | {% endunless %}
+      {{ link }}{% unless forloop.last %} | {% endunless %}
       {% endfor %}
   </p>
   {% endif %}
