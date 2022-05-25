@@ -1,10 +1,11 @@
 - name: Oscar Esteban
   photo: OscarEsteban-300x300.jpg
-  email: theaxonlab@gmail.com
+  email: oscar.esteban@unil.ch
   number_educ: 2
   education1: Postdoc (2015-2020) Stanford University (CA, US)
-  education2: BEng. + MSc. (2008), MSc. (2009), PhD. (2015) Technical University of Madrid (Madrid, Spain)
-  info: |
+  education2: BEng. + MSc. (2009), MSc. (2010), PhD. (2015) Technical University of Madrid (Madrid, Spain)
+  title: Research and Teaching Ambizione FNS Fellow
+  bio: |
     Oscar Esteban is a Research and Teaching Ambizione FNS Fellow at the Service of
     Radiology of the Lausanne University Hospital (CHUV) and the University of Lausanne.
     Oscar's research aims at pushing the boundaries of human and nonhuman neuroimaging
@@ -25,3 +26,12 @@
     [Google Scholar](https://scholar.google.ch/citations?user=sipSQH8AAAAJ&hl=en) |
     [ORCID](https://orcid.org/0000-0001-8435-6191) |
     [Publons](https://publons.com/researcher/311253)
+
+- name: Céline Provins
+  title: Ph.D. Student (2021 - currently)
+  number_educ: 1
+  education1: M.Sc. EPFL (Lausanne, Switzerland)
+
+- name: Victor Issa-Garcia
+  title: Ph.D. Student (2022 - currently)
+  number_educ: 0
