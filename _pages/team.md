@@ -46,15 +46,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <p>
       {% for link in member.links %}
       <a href="{{ link[1] }}" target="_blank">
-        {% if link[0] == "scholar" %}
+        {% case link[0] %}
+        {% when 'scholar' %}
         Google Scholar
-        {% elif link[0] == "orcid" %}
+        {% when 'orcid' %}
         ORCID
-        {% elif link[0] == "publons" %}
+        {% when 'publons' %}
         Publons
         {% else %}
         Other
-        {% endif %}  
+        {% endcase %}  
       </a>{% if not forloop.last %} | {% endif %}
       {% endfor %}
   </p>
