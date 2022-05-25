@@ -56,7 +56,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
         {% else %}
         Other
         {% endcase %}  
-      </a>{% if not forloop.last %} | {% endif %}
+      </a>{% unless forloop.last %} | {% endunless %}
       {% endfor %}
   </p>
   {% endif %}
