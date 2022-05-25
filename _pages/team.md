@@ -30,20 +30,20 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
   <p>email: <{{ member.email }}></p>
 
-  {% if member.education %}
-  <ul style="overflow: hidden">
-  {% for edu_item in member.education %}
-  <li> {{ edu_item }} </li>
-  {% endfor %}
-  </ul>
+  {% if member.links %}
+  <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
   {% endif %}
 
   {% if member.bio %}
   <p>{{ member.bio }}</p>
   {% endif %}
 
-  {% if member.links %}
-  <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
+  {% if member.education %}
+  <ul style="overflow: hidden">
+  {% for edu_item in member.education %}
+  <li> {{ edu_item }} </li>
+  {% endfor %}
+  </ul>
   {% endif %}
 </div>
 
