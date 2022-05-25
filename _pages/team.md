@@ -29,40 +29,35 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <p><i>{{ member.title }}</i></p>
   {% endif %}
   <p>email: <{{ member.email }}></p>
+
+  {% if member.education %}
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% for edu_item in member.education %}
+  <li> {{ edu_item }} </li>
+  {% endfor %}
   </ul>
+  {% endif %}
+
   {% if member.bio %}
   <p>{{ member.bio }}</p>
+  {% endif %}
+
+  {% if member.links %}
+  <p>
+      {% for link_key, link_target in member.links %}
+      <a href="{{ link_target }}" target="_blank">
+        {% if link_key == "scholar" %}
+        Google Scholar
+        {% elif link_key == "orcid" %}
+        ORCID
+        {% elif link_key == "publons" %}
+        Publons
+        {% else %}
+        Other
+        {% endif %}  
+      </a>
+      {% endfor %}
+  </p>
   {% endif %}
 </div>
 
