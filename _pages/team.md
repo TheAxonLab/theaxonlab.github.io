@@ -43,11 +43,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   {% if member.links %}
-  <p>
-      {% for link in member.links %}
-      {{ link }}{% unless forloop.last %} | {% endunless %}
-      {% endfor %}
-  </p>
+  <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
   {% endif %}
 </div>
 
