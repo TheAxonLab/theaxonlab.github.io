@@ -72,4 +72,4 @@ We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Depa
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 -->
 
-The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH (RF1MH121867, PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
+The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH ([RF1MH121867](https://reporter.nih.gov/project-details/10260312), PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
