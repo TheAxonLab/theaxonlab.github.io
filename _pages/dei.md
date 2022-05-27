@@ -15,7 +15,7 @@ Multicultural and intercultural awareness and competencies are key leadership sk
 We would like to use your preferred language when addressing you, so please let us know if your preferred name (or the pronunciation of that name) differs from what we are using and we ask that each of you let us know your preferred gender pronouns.
 Your suggestions on how to incorporate diversity into the lab in a meaningful way are appreciated and encouraged.
 
-As part of the scientific landscape, *The Axon Lab* engages in the dissemination system through publication, which has continually reflected the broader DEI concerns in the form of widespread citation inequity [1].
+As part of the scientific landscape, *The Axon Lab* engages in the dissemination system through publication, which has continually reflected the broader DEI concerns in the form of widespread citation inequity<sup>[1]</sup>.
 *The Axon Lab* is committed to counterbalancing those biases in their dissemination activity, and to taking actions toward ensuring our scientific outcomes contribute to closing the visibility gap that citation practices impose on women, black and indigenous people of color, and other minorities underrepresented within the literature.
 
 ## Openness
@@ -24,7 +24,7 @@ All data and materials (mostly formalized as software) are to be made openly ava
 Beyond the maximal access principle, *The Axon Lab* abides by [the pledge of the NiPreps Community regarding software licensing](https://www.nipreps.org/community/licensing/).
 
 ## Gender bias
-Gender bias in science faculty [2], and more generally, in academia [3], is a perhaps more pressing facet of this problem that requires immediate action.
+Gender bias in science faculty<sup>[2]</sup>, and more generally, in academia<sup>[3]</sup>, is a perhaps more pressing facet of this problem that requires immediate action.
 Beyond the internal Code of Conduct and DEI statement that stipulates how DEI is to be embraced by the lab members, *The Axon Lab* engages in affirmative action toward recruiting new personnel.
 *The Axon Lab* will enthusiastically encourage applications from women, BIPOC, and other minorities.
 To ensure the reception of a sufficiently diverse pool of candidates, search processes will remain open until a pre-specified minimal number of applications from underrepresented minorities.

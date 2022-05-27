@@ -73,8 +73,3 @@ We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Depa
 -->
 
 The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH (RF1MH121867, PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_chuv.svg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_snf.gif" style="width: 210px">
-</figure>
