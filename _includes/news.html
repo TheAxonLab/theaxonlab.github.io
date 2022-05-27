@@ -7,7 +7,9 @@
 {% for article in site.data.news limit:9 %}
 <p>
 <em>{{ article.headline }}</em> ({{ article.date }})</p>
+{% unless forloop.last %}
 <hr style="margin-top: 5px; margin-bottom: 8px;" />
+{% endunless %}
 {% endfor %}
 
 </div>

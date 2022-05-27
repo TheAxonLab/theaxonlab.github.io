@@ -30,7 +30,60 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.title %}
   <p><i>{{ member.title }}</i></p>
   {% endif %}
+  {% if member.email %}
   <p>email: <{{ member.email }}></p>
+  {% endif %}
+
+  {% if member.links %}
+  <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
+  {% endif %}
+
+  {% if member.bio %}
+  <p>{{ member.bio }}</p>
+  {% endif %}
+
+  {% if member.education %}
+  <ul style="overflow: hidden">
+  {% for edu_item in member.education %}
+  <li> {{ edu_item }} </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+## Our closest collaborators
+
+{% assign number_printed = 0 %}
+{% for member in site.data.collaborators %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  {% if member.title %}
+  <p><i>{{ member.title }}</i></p>
+  {% endif %}
+  {% if member.email %}
+  <p>email: <{{ member.email }}></p>
+  {% endif %}
 
   {% if member.links %}
   <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>

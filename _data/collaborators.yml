@@ -1,0 +1,21 @@
+- name: Eilidh E. MacNicol
+  photo: macnicol.jpg
+  email: eilidh.macnicol@kcl.ac.uk
+  education:
+    - Ph.D. (2016-2021) King's College London (London, UK)
+    - M.Sc. (2015) King's College London (London, UK)
+    - B.Sc. (2013) University of Glasgow (Glasgow, UK)
+  title: Postdoctoral Research Associate @ KCL
+  bio: |
+    My PhD research used MRI to identify changes in brain networks related to healthy ageing.
+    During this time, I realised my enthusiasm for solving data analysis problems and developing resources
+    for image processing and analysis.
+    In particular, I am interested in extending processing tools developed for human data to be species
+    agnostic, and supporting open science and reproducibility in the preclinical MRI community.
+    I continue to apply network-based analysis methods to MRI data with the aim of modelling brain changes over time.
+
+  links:
+    - '[Website](https://eilidhmacnicol.github.io/)'
+    - '[Google Scholar](https://scholar.google.com/citations?user=ryZps3QAAAAJ)'
+    - '[ORCID](https://orcid.org/0000-0003-3715-7012)'
+    - '[Twitter](https://twitter.com/eilidhmacnicol)'
