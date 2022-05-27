@@ -9,7 +9,9 @@
     Céline will be presenting in London (ISMRM'22) and Glasgow (OHBM'22) her work on [fMRI QC](https://doi.org/10.31219/osf.io/hz52v) and [consequences of defacing](https://doi.org/10.31219/osf.io/8mcyz), respectively.
 
 - date: Jul 19, 2021
-  headline: "The [*NiPreps* project](https://www.nipreps.org) has received a 3-year R01 to continue development of the ecosystem!"
+  headline: |
+    The <a href="https://www.nipreps.org"><em>NiPreps</em> project</a> has received a 3-year R01 to continue development of the ecosystem!
+
   body: |
     As [previously announced](https://twitter.com/russpoldrack/status/1417184583028658204) by Prof. Poldrack, we have
     received support from the NIMH to continue *NiPreps*.

@@ -1,12 +1,10 @@
 
 <div class="well">
-<h4>News</h4>
+<h4>Latest News</h4>
 
 {% for article in site.data.news limit:9 %}
-{{ article.date }}
-<p>{{ article.headline }}</p>
+<p>{{ article.headline }} ({{ article.date }})</p>
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-    </div>
+<p>Previous: <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a></p>
+</div>
