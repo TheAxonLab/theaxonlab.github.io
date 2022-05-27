@@ -3,7 +3,7 @@ title: "AxonLab :: DEI Statement"
 layout: textlay
 excerpt: "AxonLab -- Diversity, Equity, and Inclusion Statement"
 sitemap: false
-permalink: /research/
+permalink: /dei/
 ---
 
 # Diversity, Equity, and Inclusion Statement
