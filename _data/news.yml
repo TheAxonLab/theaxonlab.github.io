@@ -1,3 +1,25 @@
-- date: 1. March 2020
-  headline: "The website is up!"
+- date: Jun 15, 2022
+  headline: "Welcome Victor!"
+  body: |
+    **Victor Issa García**, M.D., M.Sc., has joined *The AxonLab* to start a Ph.D. program on cross-species computational neuroanatomy.
 
+- date: Feb 1, 2022
+  headline: "Two abstracts accepted by ISMRM'22 and OHBM'22 - Congratulations Céline!"
+  body: |
+    Céline will be presenting in London (ISMRM'22) and Glasgow (OHBM'22) her work on [fMRI QC](https://doi.org/10.31219/osf.io/hz52v) and [consequences of defacing](https://doi.org/10.31219/osf.io/8mcyz), respectively.
+
+- date: Jul 19, 2021
+  headline: "The [*NiPreps* project](https://www.nipreps.org) has received a 3-year R01 to continue development of the ecosystem!"
+  body: |
+    As [previously announced](https://twitter.com/russpoldrack/status/1417184583028658204) by Prof. Poldrack, we have
+    received support from the NIMH to continue *NiPreps*.
+
+- date: Jan 4, 2021
+  headline: "Welcome Céline!"
+  body: |
+    **Céline Provins**, M.Sc., has joined *The AxonLab* to start a Ph.D. program on MRI reliability and networks.
+
+- date: March 1, 2020
+  headline: "The website is up!"
+  body: |
+    Reusing code from the Allan Lab (thanks!), we have set up this website.
