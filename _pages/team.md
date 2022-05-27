@@ -63,7 +63,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 ## DEI Statement
-Please check our [diversity, equity, and inclusiveness statement](dei).
+Please check our [diversity, equity, and inclusiveness statement](../dei).
 
 ## Contact
 
@@ -73,13 +73,13 @@ Please check our [diversity, equity, and inclusiveness statement](dei).
 </div>
 
 Our offices are located in the center of Lausanne, on the 4th floor of [Rue Centrale 7](https://goo.gl/maps/CHgoqQK18h3b1AFC6).
-
 *For post contact, please address us at*:
 
 <div class="well" style="margin-left: 460px">
+Oscar Esteban<br />
 Service de radiodiagnostic et radiologie interventionnelle<br />
 RC07/04/040<br />
 Rue Bugnon 21<br />
-CH-1010 Lausanne (Switzerland)
+CH-1011 Lausanne (Switzerland)
 </div>
 </div>
