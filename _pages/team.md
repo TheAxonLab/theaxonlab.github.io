@@ -62,6 +62,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+## DEI Statement
+Please check our [diversity, equity, and inclusiveness statement](dei).
+
 ## Contact
 
 <div class="row">
