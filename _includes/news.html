@@ -3,8 +3,9 @@
 <h4>Latest News</h4>
 
 {% for article in site.data.news limit:9 %}
-<p style="border-bottom: 1px #ccc">
+<p>
 <em>{{ article.headline }}</em> ({{ article.date }})</p>
+<hr style="margin-top: 5px; margin-bottom: 8px;" />
 {% endfor %}
 
 <p>Previous: <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a></p>
