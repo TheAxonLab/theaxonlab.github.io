@@ -1,6 +1,8 @@
 
 <div class="well">
 <h4>Latest News</h4>
+<p>(Find out more at the <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a>.)</p>
+<hr style="margin-top: 22px; margin-bottom: 8px;" />
 
 {% for article in site.data.news limit:9 %}
 <p>
@@ -8,5 +10,4 @@
 <hr style="margin-top: 5px; margin-bottom: 8px;" />
 {% endfor %}
 
-<p>Previous: <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a></p>
 </div>
