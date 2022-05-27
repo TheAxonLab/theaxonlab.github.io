@@ -71,10 +71,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 Our offices are located in the center of Lausanne, on the 4th floor of [Rue Centrale 7](https://goo.gl/maps/CHgoqQK18h3b1AFC6).
 
-
 *For post contact, please address us at*:
 
-<div class="well">
+<div class="well" style="margin-left: 460px">
 Service de radiodiagnostic et radiologie interventionnelle<br />
 RC07/04/040<br />
 Rue Bugnon 21<br />
