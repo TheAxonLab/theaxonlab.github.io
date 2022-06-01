@@ -33,7 +33,26 @@
   email: celine.provins@unil.ch
   title: Ph.D. Student (2021 - currently)
   education:
-    - M.Sc. EPFL (Lausanne, Switzerland)
+    - M.Sc. (2018-2020) EPFL (Lausanne, Switzerland)
+    - 1 year exchange Uppsala University (Sweden)
+    - B.Sc. (2015-2017) EPFL (Lausanne, Switzerland)
+  bio: |
+    Céline's background is in Physics.
+    In her master's, she gained plenty of experience in MRI research by
+    contributing to four projects, ranging from semi-automatic segmentation of knee calcifications
+    to analyzing recurrent brain co-activation patterns using clustering.
+    In her PhD, she is working 
+    on standardizing the quality control and the preprocessing of both structural and functional 
+    MRI data.
+    In particular, she is contributing to the development of easy-to-use toolboxes that automatize those processes. 
+    Examples of such toolboxes are [*MRIQC*](https://mriqc.readthedocs.io/) and [*fMRIPrep*](https://fmriprep.org).
+    She is also interested in supporting open science and reproducibility of MRI research.
+    Her further goal is to determine the optimal preprocessing flow by performing tests on one densely-acquired patient. 
+    This will enable to focus on the methodological variability by removing inter-subject variability.
+    On a third step, 
+    she will engage in bridging structure and function into a single framework and apply the methodology 
+    developed to the study of the integrative role of the Thalamus.
+
   links:
     - '[ORCID](https://orcid.org/0000-0002-1668-9629)'
 
