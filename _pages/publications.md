@@ -18,13 +18,17 @@ permalink: /publications/
   {% if number_printed == 0 %}
   <tr style="font-size: small">
     <th>Citation</th>
-    <th style="width: 200px;">Cited by*</th>
+    <th>Cited by*</th>
   </tr>
   {% endif %}
   {% for entry in year.Items %}
   <tr>
     <td>
-      {{ entry.Citation }} doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>
+      {{ entry.Citation }}
+      doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA %}{% else %} (OA){% endif %}.
+      {% if entry.OA %}
+      <a href="{{ entry.OA }}">OA</a>.
+      {% endif %}
     </td>
     <td style="text-align:right">
       {{ entry.Citations }}

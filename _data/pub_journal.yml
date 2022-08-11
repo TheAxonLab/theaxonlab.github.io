@@ -1,8 +1,8 @@
 - Year: 2022
   Items:
   - Citations: 8
-    DOI: 10.1101/2021.02.10.430678
-    OA URL: https://doi.org/10.1101/2021.02.10.430678
+    DOI: 10.21203/rs.3.rs-264855
+    OA: https://doi.org/10.1101/2021.02.10.430678
     Citation: >-
       Ciric, R., Thompson, W. H., Lorenz, R., Goncalves, M., MacNicol, E., Markiewicz, C. J.,
       … Esteban, O. (2021). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
@@ -17,7 +17,7 @@
   - Citations: 1
     DOI: 10.1038/s41592-022-01458-7
     Year: 2022
-    OA URL: https://doi.org/10.1101/2021.05.20.444998
+    OA: https://doi.org/10.1101/2021.05.20.444998
     Citation: >-
       Adebimpe, A., Bertolero, M., Dolui, S., Cieslak, M., Murtha, K., Baller, E. B.,
       … the ALLFTD Consortium. (2022, June). ASLPrep: a platform for processing of arterial
@@ -64,7 +64,7 @@
   - Citations: 40
     DOI: 10.1038/s41596-020-0327-3
     Year: 2020
-    OA URL: https://doi.org/10.1101/694364
+    OA: https://doi.org/10.1101/694364
     Citation: >-
       Esteban, O., Ciric, R., Finc, K., Blair, R. W., Markiewicz, C. J., Moodie, C.
       A., … Gorgolewski, K. J. (2020). Analysis of task-based functional MRI
@@ -81,7 +81,7 @@
       Data</i>.
   - Citations: 1153
     DOI: 10.1038/s41592-018-0235-4
-    OA URL: https://doi.org/10.1101/306951
+    OA: https://doi.org/10.1101/306951
     Year: 2018
     Citation: >-
       Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe,
@@ -97,7 +97,7 @@
   - Citations: 13
     DOI: 10.1016/j.neuroimage.2016.05.011
     Year: 2016
-    OA URL: http://www2.die.upm.es/im/papers/Neuroimage2016.pdf
+    OA: http://www2.die.upm.es/im/papers/Neuroimage2016.pdf
     Citation: >-
       Esteban, O., Zosso, D., Daducci, A., Bach-Cuadra, M., Ledesma-Carbayo, M. J.,
       Thiran, J.-P., & Santos, A. (2016). Surface-driven registration method
