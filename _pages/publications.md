@@ -10,19 +10,18 @@ permalink: /publications/
 
 ## Journal publications
 
-<table>
-  <tr>
-    <th>Citation</th>
-    <th style="width: 200px">Cited by</th>
-  </tr>
-</table>
-
 {% assign number_printed = 0 %}
 {% for year in site.data.pub_journal %}
 
-<p style="font-weight: bold">{{ year.Year }}</p>
+<p style="font-weight: bold; border-bottom: 1px solid #888;">{{ year.Year }}</p>
 
 <table>
+  {% if number_printed == 0 %}
+  <tr>
+    <th>Citation</th>
+    <th>Cited by*</th>
+  </tr>
+  {% endif %}
   {% for entry in year.Items %}
   <tr>
     <td>
@@ -34,4 +33,7 @@ permalink: /publications/
   </tr>
   {% endfor %}
 </table>
+{% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
+
+\* Number of citing references extracted from Google Scholar on Aug 11, 2022.
