@@ -1,0 +1,104 @@
+- Year: 2022
+  Items:
+  - Citations: 8
+    DOI: 10.1101/2021.02.10.430678
+    OA URL: https://doi.org/10.1101/2021.02.10.430678
+    Citation: >-
+      Ciric, R., Thompson, W. H., Lorenz, R., Goncalves, M., MacNicol, E., Markiewicz, C. J.,
+      … Esteban, O. (2021). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
+      <i>Nature Portfolio</i> (AIP).
+  - Citations: 2
+    DOI: 10.3389/fninf.2021.669049
+    Year: 2022
+    Citation: >-
+      MacNicol, E., Wright, P., Kim, E., Brusini, I., Esteban, O., Simmons, C., … Cash,
+      D. (2022). Age-Specific Adult Rat Brain MRI Templates and Tissue Probability
+      Maps. <i>Frontiers in Neuroinformatics</i>.
+  - Citations: 1
+    DOI: 10.1038/s41592-022-01458-7
+    Year: 2022
+    OA URL: https://doi.org/10.1101/2021.05.20.444998
+    Citation: >-
+      Adebimpe, A., Bertolero, M., Dolui, S., Cieslak, M., Murtha, K., Baller, E. B.,
+      … the ALLFTD Consortium. (2022, June). ASLPrep: a platform for processing of arterial
+      spin labeled MRI and quantification of regional brain perfusion. <i>Nature Methods</i>.
+- Year: 2021
+  Items:
+  - Citations: 46
+    DOI: 10.7554/eLife.71774
+    Year: 2021
+    Citation: >-
+      Markiewicz, C. J., Gorgolewski, K. J., Feingold, F., Blair, R., Halchenko, Y.
+      O., Miller, E., … Poldrack, R. (2021). The OpenNeuro resource for
+      sharing of neuroscience data. <i>eLife</i>.
+  - Citations: 1
+    DOI: 10.21105/joss.03459
+    Year: 2021
+    Citation: >-
+      Goncalves, M., Markiewicz, C., Moia, S., Ghosh, S., Poldrack, R., & Esteban, O.
+      (2021). NiTransforms: A Python tool to read, represent, manipulate,
+      and apply dimensional spatial transforms. <i>Journal of Open Source Software</i>.
+  - Citations: 1
+    DOI: 10.1016/j.bpsc.2020.12.002
+    Year: 2021
+    Citation: >-
+      Rodrigue, A. L., Mastrovito, D., Esteban, O., Durnez, J., Koenis, M. M. G., Janssen,
+      R., … Glahn, D. C. (2021). Searching for Imaging Biomarkers of Psychotic
+      Dysconnectivity. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>.
+  - Citations: 13
+    DOI: 10.1016/j.neuron.2021.04.001
+    Year: 2021
+    Citation: >-
+      Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y.-F.,
+      … Zuo, X.-N. (2021). Brainhack: Developing a culture of open, inclusive,
+      community-driven neuroscience. <i>Neuron</i>.
+  - Citations: 10
+    DOI: 10.1093/gigascience/giab051
+    Year: 2021
+    Citation: >-
+      Levitis, E., Gould van Praag, C., Gau, R., Heunis, S., DuPre, E.,
+      … Maumet, C. (2021). Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective,
+      <i>GigaScience</i>, Volume 10, Issue 8, August 2021, giab051.
+- Year: 2020
+  Items:
+  - Citations: 40
+    DOI: 10.1038/s41596-020-0327-3
+    Year: 2020
+    OA URL: https://doi.org/10.1101/694364
+    Citation: >-
+      Esteban, O., Ciric, R., Finc, K., Blair, R. W., Markiewicz, C. J., Moodie, C.
+      A., … Gorgolewski, K. J. (2020). Analysis of task-based functional MRI
+      data preprocessed with fMRIPrep. <i>Nature Protocols</i>.
+- Year: Before 2020
+  Items:
+  - Citations: 27
+    DOI: 10.1038/s41597-019-0035-4
+    Year: 2019
+    Citation: >-
+      Esteban, O., Blair, R. W., Nielson, D. M., Varada, J. C., Marrett, S., Thomas,
+      A. G., … Gorgolewski, K. J. (2019). Crowdsourced MRI quality metrics
+      and expert quality annotations for training of humans and machines. <i>Scientific
+      Data</i>.
+  - Citations: 1153
+    DOI: 10.1038/s41592-018-0235-4
+    OA URL: https://doi.org/10.1101/306951
+    Year: 2018
+    Citation: >-
+      Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe,
+      A., … Gorgolewski, K. J. (2018). fMRIPrep: a robust preprocessing
+      pipeline for functional MRI. <i>Nature Methods</i>
+  - Citations: 418
+    DOI: 10.1371/journal.pone.0184661
+    Year: 2017
+    Citation: >-
+      Esteban, O., Birman, D., Schaer, M., Koyejo, O. O., Poldrack, R. A., & Gorgolewski,
+      K. J. (2017). MRIQC: Advancing the automatic prediction of image
+      quality in MRI from unseen sites. <i>Plos One</i>.
+  - Citations: 13
+    DOI: 10.1016/j.neuroimage.2016.05.011
+    Year: 2016
+    OA URL: http://www2.die.upm.es/im/papers/Neuroimage2016.pdf
+    Citation: >-
+      Esteban, O., Zosso, D., Daducci, A., Bach-Cuadra, M., Ledesma-Carbayo, M. J.,
+      Thiran, J.-P., & Santos, A. (2016). Surface-driven registration method
+      for the structure-informed segmentation of diffusion MR images. <i>NeuroImage</i>.

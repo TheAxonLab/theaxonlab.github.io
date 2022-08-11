@@ -91,3 +91,21 @@ firstp {
     margin-right: 30px;
 }
 
+
+/* Publications */
+#publications tr:nth-child(even) {background: #888}
+
+#publications td {
+  padding-top:20px;
+  padding-bottom:20px;   
+}
+
+#publications td:first-child {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#publications th:first-child {
+  padding-left: 10px;
+  padding-right: 10px;
+}
