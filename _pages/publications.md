@@ -13,13 +13,12 @@ permalink: /publications/
 {% assign number_printed = 0 %}
 {% for year in site.data.pub_journal %}
 
-<p style="font-weight: bold; border-bottom: 1px solid #888;">{{ year.Year }}</p>
-
+<p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>
 <table>
   {% if number_printed == 0 %}
-  <tr>
+  <tr style="font-size: small">
     <th>Citation</th>
-    <th>Cited by*</th>
+    <th style="width: 200px;">Cited by*</th>
   </tr>
   {% endif %}
   {% for entry in year.Items %}
