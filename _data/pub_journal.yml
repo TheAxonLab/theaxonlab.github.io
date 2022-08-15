@@ -71,6 +71,14 @@
       data preprocessed with fMRIPrep. <i>Nature Protocols</i>.
 - Year: Before 2020
   Items:
+  - Citations: 1153
+    DOI: 10.1038/s41592-018-0235-4
+    OA: https://doi.org/10.1101/306951
+    Year: 2019
+    Citation: >-
+      Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe,
+      A., … Gorgolewski, K. J. (2019). fMRIPrep: a robust preprocessing
+      pipeline for functional MRI. <i>Nature Methods</i>
   - Citations: 27
     DOI: 10.1038/s41597-019-0035-4
     Year: 2019
@@ -79,14 +87,6 @@
       A. G., … Gorgolewski, K. J. (2019). Crowdsourced MRI quality metrics
       and expert quality annotations for training of humans and machines. <i>Scientific
       Data</i>.
-  - Citations: 1153
-    DOI: 10.1038/s41592-018-0235-4
-    OA: https://doi.org/10.1101/306951
-    Year: 2018
-    Citation: >-
-      Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe,
-      A., … Gorgolewski, K. J. (2018). fMRIPrep: a robust preprocessing
-      pipeline for functional MRI. <i>Nature Methods</i>
   - Citations: 418
     DOI: 10.1371/journal.pone.0184661
     Year: 2017
