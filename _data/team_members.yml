@@ -55,27 +55,3 @@
 
   links:
     - '[ORCID](https://orcid.org/0000-0002-1668-9629)'
-
-- name: Victor Issa-Garcia
-  photo: Issa-Garcia.jpg
-  email: vei2102@columbia.edu
-  title: Ph.D. Student (2022 - currently)
-  education:
-    - M.D. (2012-2020) Tecnologico de Monterrey (Monterrey, NL, Mexico)
-    - M.Sc. (2016-2018) Columbia University (New York, NY, USA)
-    - B.A. (2012-2016) Tecnologico de Monterrey (Monterrey, NL, Mexico)
-  links:
-    - '[ORCID](https://orcid.org/0000-0002-9596-988X)'
-  bio: |
-    Victor has first-hand experience in some molecular biology techniques (ELISA,
-    RNA-seq analysis, qRT-PCR, 2D protein gels, cell and bacterial culture,
-    mice colony management, immunofluorescence) and in some modalities of neuroimaging
-    (T1w-MRI, fMRI, DWI, EEG, FDG-PET) in laboratories in Mexico, USA, Quebec/Canada
-    and Germany. He has a passion for data analysis using programming languages (Bash, R,
-    Matlab, Python).
-    The research project he works on involves contributing to open-source software
-    Neuroimaging Preprocessing Tools (NiPreps [www.nipreps.org](https://www.nipreps.org)),
-    in particular the tool TemplateFlow ([www.templateflow.org](https://www.templateflow.org/)),
-    which is a programmatically accessible repository of neuroimaging templates envisioning to
-    develop a registration framework to estimate and store spatial mappings accross all
-    templates.
