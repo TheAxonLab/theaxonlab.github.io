@@ -1,5 +1,7 @@
 - date: Sep 08, 2022
-  headline: "[Join the AxonLab](https://recrutement.chuv.ch/vacancy/software-developer-for-radiology-department-272565.html) as a Python developer!"
+  headline: |
+    <a href="https://recrutement.chuv.ch/vacancy/software-developer-for-radiology-department-272565.html">Join <em>The AxonLab</em></a>
+    as a Python developer!
   body: |
     A new 1yr (extensible to 2yr) position
     ([link](https://recrutement.chuv.ch/vacancy/software-developer-for-radiology-department-272565.html))
