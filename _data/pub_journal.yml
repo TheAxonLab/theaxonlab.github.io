@@ -7,6 +7,12 @@
       Ciric, R., Thompson, W. H., Lorenz, R., Goncalves, M., MacNicol, E., Markiewicz, C. J.,
       … Esteban, O. (2021). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
       <i>Nature Portfolio</i> (AIP).
+  - Citations: 4
+    DOI: 10.1016/j.neuroimage.2022.119623
+    Citation: >-
+      Niso, G., Botvinik-Nezer, R., Appelhoff, S., Vega, A. D. L., Esteban, O., Etzel,
+      J. A., … Rieger, J. W. (2022). Open and reproducible neuroimaging:
+      from study inception to publication. <i>NeuroImage</i>.
   - Citations: 2
     DOI: 10.3389/fninf.2021.669049
     Year: 2022
@@ -20,7 +26,7 @@
     OA: https://doi.org/10.1101/2021.05.20.444998
     Citation: >-
       Adebimpe, A., Bertolero, M., Dolui, S., Cieslak, M., Murtha, K., Baller, E. B.,
-      … the ALLFTD Consortium. (2022, June). ASLPrep: a platform for processing of arterial
+      … the ALLFTD Consortium. (2022). ASLPrep: a platform for processing of arterial
       spin labeled MRI and quantification of regional brain perfusion. <i>Nature Methods</i>.
 - Year: 2021
   Items:
