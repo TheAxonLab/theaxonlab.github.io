@@ -29,7 +29,7 @@ acquisition to formalization of network information) and apply them in the under
 of the healthy and diseased developmental trajectories of the human brain.
 
 <!-- Carousel -->
-<div id="home-carousel" class="carousel slide col-sm-8 ms-me-auto" data-bs-ride="carousel">
+<div id="home-carousel" class="carousel slide col-sm-7 ms-me-auto" data-bs-ride="carousel">
 <div class="carousel-indicators">
 <button type="button" data-bs-target="#home-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
 <button type="button" data-bs-target="#home-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
