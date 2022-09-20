@@ -8,7 +8,6 @@ permalink: /
 
 # Welcome to the Axonlab
 
-<div class="clearfix">
 <div id="newsid" class="float-md-end col-sm-4" style="display:block" >
 <div class="well">
 <h4>Latest News</h4>
@@ -21,7 +20,6 @@ permalink: /
 <hr style="margin-top: 5px; margin-bottom: 8px;" />
 {% endunless %}
 {% endfor %}
-</div>
 </div>
 </div>
 
