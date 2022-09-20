@@ -1,1506 +1,331 @@
-- Authors:
-  - Provins, Céline
-  - Alemán-Gómez, Yasser
-  - Cleusix, Martine
-  - Jenni, Raoul
-  - Richiardi, Jonas
-  - Hagmann, Patric
-  - Esteban, Oscar
-  Title: Defacing biases manual and automated quality assessments of structural MRI
-    with MRIQC
-  Publication: 28th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Glasgow, Scotland, UK
-  DOI: 10.31219/osf.io/8mcyz
-  Volume:
-  Pages: WTh566
-  Year: 2022
-  URL:
-  OA: false
-  Preprint: true
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{provins_defacing_2022,
-    	author = {Céline Provins, and Yasser Alemán-Gómez, and Martine Cleusix, and Raoul Jenni, and Jonas Richiardi, and Patric Hagmann, and Oscar Esteban},
-    	title = {{Defacing} biases manual and automated quality assessments of structural {MRI} with {MRIQC}},
-    	year = {2022},
-    	address = {Glasgow, Scotland, UK},
-    	pages = {WTh566},
-    	doi = {10.31219/osf.io/8mcyz},
-    	booktitle = {28th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Provins, C.,  …  Esteban, O. (2022).
-    Defacing biases manual and automated quality assessments of structural MRI with MRIQC.
-    <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh566.
-    Glasgow, Scotland, UK.
-    doi:<a href="https://doi.org/10.31219/osf.io/8mcyz">10.31219/osf.io/8mcyz</a>.
-- Authors:
-  - Di Noto, Tommaso
-  - Marie, Guillaume
-  - Tourbier, Sebastien
-  - Alemán-Gómez, Yasser
-  - Esteban, Oscar
-  - Saliou, Guillaume
-  - Cuadra, Meritxell Bach
-  - Hagmann, Patric
-  - Richiardi, Jonas
-  Title: Weak labels for deep-learning-based detection of brain aneurysms from MR
-    angiography scans
-  Publication: Medical Imaging with Deep Learning
-  Conference: MIDL
-  Place: Zurich, Switzerland
-  DOI:
-  Volume:
-  Pages:
-  Year: 2022
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{di noto_weak_2022,
-    	author = {Tommaso Di Noto, and Guillaume Marie, and Sebastien Tourbier, and Yasser Alemán-Gómez, and Oscar Esteban, and Guillaume Saliou, and Meritxell Bach Cuadra, and Patric Hagmann, and Jonas Richiardi},
-    	title = {{Weak} labels for deep-learning-based detection of brain aneurysms from {MR} angiography scans},
-    	year = {2022},
-    	address = {Zurich, Switzerland},
-    	booktitle = {{Medical} {Imaging} with {Deep} {Learning} ({MIDL})}
-    }
-  Citation (APA): |-
-    Di Noto, T.,  …  Richiardi, J. (2022).
-    Weak labels for deep-learning-based detection of brain aneurysms from MR angiography scans.
-    <i>Medical Imaging with Deep Learning (MIDL)</i>.
-    Zurich, Switzerland.
-- Authors:
-  - Provins, Céline
-  - Markiewicz, Christopher J
-  - Ciric, Rastko
-  - Goncalves, Mathias
-  - Caballero-Gaudes, César
-  - Poldrack, Russell
-  - Hagmann, Patric
-  - Esteban, Oscar
-  Title: Quality control and nuisance regression of fMRI, looking out where signal
-    should not be found
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 31
-  Conference: ISMRM
-  Place: London, England, UK
-  DOI: 10.31219/osf.io/hz52v
-  Volume:
-  Pages: '2683'
-  Year: 2022
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{provins_quality_2022,
-    	author = {Céline Provins, and Christopher J Markiewicz, and Rastko Ciric, and Mathias Goncalves, and César Caballero-Gaudes, and Russell Poldrack, and Patric Hagmann, and Oscar Esteban},
-    	title = {{Quality} control and nuisance regression of {fMRI,} looking out where signal should not be found},
-    	year = {2022},
-    	address = {London, England, UK},
-    	pages = {2683},
-    	doi = {10.31219/osf.io/hz52v},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 31 ({ISMRM})}
-    }
-  Citation (APA): |-
-    Provins, C.,  …  Esteban, O. (2022).
-    Quality control and nuisance regression of fMRI, looking out where signal should not be found.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 2683.
-    London, England, UK.
-    doi:<a href="https://doi.org/10.31219/osf.io/hz52v">10.31219/osf.io/hz52v</a>.
-- Authors:
-  - Veraart, Jelle
-  - Christiaens, Daan
-  - Dai, Erpeng
-  - Edwards, Luke J.
-  - Golkov, Vladimir
-  - Mohammadi, Siawoosh
-  - Schilling, Kurt G.
-  - Aarabi, Mohammad Hadi
-  - Ades-Aron, Benjamin
-  - Adluru, Nagesh
-  - Ahmad, Sahar
-  - Aja-Fernandez, Santiago
-  - Alexander, Andrew L.
-  - Andersson, Mariam
-  - Ansorena, Elixabete
-  - Attar, Fakhereh Movahedian
-  - Attye, Arnaud
-  - Aydogan, Dogu Baran
-  - Baete, Steven H.
-  - Basile, Gianpaolo Antonio
-  - Bertò, Giulia
-  - Beyh, Ahmad
-  - Cacciola, Alberto
-  - Chamberland, Maxime
-  - Calamante, Fernando
-  - Chen, Jenny
-  - Chen, Jian
-  - Chong, Shin Tai
-  - Coelho, Santiago
-  - Concha, Luis
-  - Coronado-Leija, Ricardo
-  - Cottaar, Michiel
-  - Cremers, Daniel
-  - David, Szabolcs
-  - Luca, Alberto De
-  - Dell'Acqua, Flavio
-  - Dhollander, Thijs
-  - Druzgal, Jason
-  - Dyrby, Tim B.
-  - Enedino, Hernández-Torres
-  - Esteban, Oscar
-  - Fieremans, Els
-  - Fonville, Leon
-  - Fricke, Björn
-  - Froeling, Martijn
-  - Galea, Ian
-  - Girard, Gabriel
-  - Grussu, Francesco
-  - Hsu, Chin-Chin Heather
-  - Hsu, Yung-Chin
-  - Huynh, Khoi
-  - Inglese, Matilde
-  - Johansen-berg, Heide
-  - Jones, Derek K
-  - Kamiya, Kouhei
-  - Kelly, Claire
-  - Khan, Ahmad Raza
-  - Khan, Ali
-  - Kung, Yi-Chia
-  - Lazari, Alberto
-  - Leemans, Alexander
-  - Mancini, Laura
-  - Maximov, Ivan I.
-  - Merisaari, Harri
-  - Molendowska, Malwina
-  - Newman, Benjamin T.
-  - Noseworthy, Michael D.
-  - Novikov, Dmitry S.
-  - Perez-Lopez, Raquel
-  - Pestili, Franco
-  - Pieciak, Tomasz
-  - Pizzolato, Marco
-  - Planchuelo-Gómez, Álvaro
-  - Polak, Paul
-  - Raven, Erika P.
-  - Rios-Carrillo, Ricardo
-  - Sairanen, Viljami
-  - Schiavi, Simona
-  - Seow, Pohchoo
-  - Shastin, Dmitri
-  - Shih, Yao-Chia
-  - Soustelle, Lucas
-  - Sun, Yue
-  - Tabelow, Karsten
-  - Tax, Chantal MW
-  - Theaud, Guillaume
-  - Vos, Sjoerd B.
-  - Wade, Ryckie G.
-  - Wang, Li
-  - Wang, Limei
-  - Welton, Thomas
-  - Westlye, Lars T.
-  - Winzeck, Stefan
-  - Yang, Joseph Yuan-Mou
-  - Yap, Pew-Thian
-  - Zou, Yukai
-  - McNab, Jennifer A.
-  - Landman, Bennett A.
-  - Weiskopf, Nikolaus
-  - Descoteaux, Maxime
-  Title: A data-driven variability assessment of brain diffusion MRI preprocessing
-    pipelines
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 31
-  Conference: ISMRM
-  Place: London, England, UK
-  DOI:
-  Volume:
-  Pages: '4983'
-  Year: 2022
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{veraart_adata-driven_2022,
-    	author = {Jelle Veraart, and Daan Christiaens, and Erpeng Dai, and Luke J. Edwards, and Vladimir Golkov, and Siawoosh Mohammadi, and Kurt G. Schilling, and Mohammad Hadi Aarabi, and Benjamin Ades-Aron, and Nagesh Adluru, and Sahar Ahmad, and Santiago Aja-Fernandez, and Andrew L. Alexander, and Mariam Andersson, and Elixabete Ansorena, and Fakhereh Movahedian Attar, and Arnaud Attye, and Dogu Baran Aydogan, and Steven H. Baete, and Gianpaolo Antonio Basile, and Giulia Bertò, and Ahmad Beyh, and Alberto Cacciola, and Maxime Chamberland, and Fernando Calamante, and Jenny Chen, and Jian Chen, and Shin Tai Chong, and Santiago Coelho, and Luis Concha, and Ricardo Coronado-Leija, and Michiel Cottaar, and Daniel Cremers, and Szabolcs David, and Alberto De Luca, and Flavio Dell'Acqua, and Thijs Dhollander, and Jason Druzgal, and Tim B. Dyrby, and Hernández-Torres Enedino, and Oscar Esteban, and Els Fieremans, and Leon Fonville, and Björn Fricke, and Martijn Froeling, and Ian Galea, and Gabriel Girard, and Francesco Grussu, and Chin-Chin Heather Hsu, and Yung-Chin Hsu, and Khoi Huynh, and Matilde Inglese, and Heide Johansen-berg, and Derek K Jones, and Kouhei Kamiya, and Claire Kelly, and Ahmad Raza Khan, and Ali Khan, and Yi-Chia Kung, and Alberto Lazari, and Alexander Leemans, and Laura Mancini, and Ivan I. Maximov, and Harri Merisaari, and Malwina Molendowska, and Benjamin T. Newman, and Michael D. Noseworthy, and Dmitry S. Novikov, and Raquel Perez-Lopez, and Franco Pestili, and Tomasz Pieciak, and Marco Pizzolato, and Álvaro Planchuelo-Gómez, and Paul Polak, and Erika P. Raven, and Ricardo Rios-Carrillo, and Viljami Sairanen, and Simona Schiavi, and Pohchoo Seow, and Dmitri Shastin, and Yao-Chia Shih, and Lucas Soustelle, and Yue Sun, and Karsten Tabelow, and Chantal MW Tax, and Guillaume Theaud, and Sjoerd B. Vos, and Ryckie G. Wade, and Li Wang, and Limei Wang, and Thomas Welton, and Lars T. Westlye, and Stefan Winzeck, and Joseph Yuan-Mou Yang, and Pew-Thian Yap, and Yukai Zou, and Jennifer A. McNab, and Bennett A. Landman, and Nikolaus Weiskopf, and Maxime Descoteaux},
-    	title = {{A} data-driven variability assessment of brain diffusion {MRI} preprocessing pipelines},
-    	year = {2022},
-    	address = {London, England, UK},
-    	pages = {4983},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 31 ({ISMRM})}
-    }
-  Citation (APA): |-
-    Veraart, J.,  …  Descoteaux, M. (2022).
-    A data-driven variability assessment of brain diffusion MRI preprocessing pipelines.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 4983.
-    London, England, UK.
-- Authors:
-  - Esteban, Oscar
-  - Adebimpe, Azeez
-  - Markiewicz, Christopher J
-  - Goncalves, Mathias
-  - Blair, Ross W
-  - Cieslak, Matthew
-  - Naveau, Mikaël
-  - Sitek, Kevin R
-  - Sneve, Markus H
-  - Provins, Céline
-  Title: The Bermuda Triangle of d-and f-MRI sailors-software for susceptibility distortions
-    (SDCFlows)
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI: 10.31219/osf.io/gy8nt
-  Volume:
-  Pages: '1653'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: true
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_thebermuda_2021,
-    	author = {Oscar Esteban, and Azeez Adebimpe, and Christopher J Markiewicz, and Mathias Goncalves, and Ross W Blair, and Matthew Cieslak, and Mikaël Naveau, and Kevin R Sitek, and Markus H Sneve, and Céline Provins},
-    	title = {{The} {Bermuda} {Triangle} of d-and {f-MRI} sailors-software for susceptibility distortions {(SDCFlows)}},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {1653},
-    	doi = {10.31219/osf.io/gy8nt},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Provins, C. (2021).
-    The Bermuda Triangle of d-and f-MRI sailors-software for susceptibility distortions (SDCFlows).
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1653.
-    (Virtual Meeting).
-    doi:<a href="https://doi.org/10.31219/osf.io/gy8nt">10.31219/osf.io/gy8nt</a>.
-- Authors:
-  - Markiewicz, Christopher
-  - Blair, Ross
-  - Bottenhorn, Katherine
-  - Chen, Gang
-  - de la Vega, Alejandro
-  - DuPre, Elizabeth
-  - Esteban, Oscar
-  - Ghosh, Satrajit
-  - Lee, John
-  - Maumet, Camille
-  Title: BIDS Statistical Models - An implementation-independent representation of
-    General Linear Models
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '1207'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: true
-  OA URL: https://www.hal.inserm.fr/inserm-03478963
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{markiewicz_bids_2021,
-    	author = {Christopher Markiewicz, and Ross Blair, and Katherine Bottenhorn, and Gang Chen, and Alejandro de la Vega, and Elizabeth DuPre, and Oscar Esteban, and Satrajit Ghosh, and John Lee, and Camille Maumet},
-    	title = {{BIDS} {Statistical} {Models} - {An} implementation-independent representation of {General} {Linear} {Models}},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {1207},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Markiewicz, C.,  …  Maumet, C. (2021).
-    BIDS Statistical Models - An implementation-independent representation of General Linear Models.
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1207.
-    (Virtual Meeting).
-    <a href="https://www.hal.inserm.fr/inserm-03478963">OA</a>.
-- Authors:
-  - Adebimpe, Azeez
-  - Bertolero, Maxwell
-  - Dolui, Sudipto
-  - Cieslak, Matthew
-  - Murtha, Kristin
-  - Baller, Erica B
-  - Butler, Ellyn R
-  - Cook, Phil
-  - Colcombe, Stanley
-  - Covitz, Sydney
-  Title: 'ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled
-    MRI'
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '1814'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{adebimpe_aslprep:_2021,
-    	author = {Azeez Adebimpe, and Maxwell Bertolero, and Sudipto Dolui, and Matthew Cieslak, and Kristin Murtha, and Erica B Baller, and Ellyn R Butler, and Phil Cook, and Stanley Colcombe, and Sydney Covitz},
-    	title = {{ASLPrep:} {A} {Generalizable} {Workflow} for {Processing} of {Arterial} {Spin} {Labeled} {MRI}},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {1814},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Adebimpe, A.,  …  Covitz, S. (2021).
-    ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled MRI.
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1814.
-    (Virtual Meeting).
-- Authors:
-  - Milham, Michael
-  - Ai, Lei
-  - Li, Xinhui
-  - Giavasis, Steve
-  - Jin, Hecheng
-  - Franco, Alexandre
-  - Vogelstein, Joshua
-  - Craddock, Cameron
-  - Xu, Ting
-  - Esteban, Oscar
-  Title: Putting pipeline implementation-related variation into perspective for functional
-    connectomics
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '2405'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{milham_putting_2021,
-    	author = {Michael Milham, and Lei Ai, and Xinhui Li, and Steve Giavasis, and Hecheng Jin, and Alexandre Franco, and Joshua Vogelstein, and Cameron Craddock, and Ting Xu, and Oscar Esteban},
-    	title = {{Putting} pipeline implementation-related variation into perspective for functional connectomics},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {2405},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Milham, M.,  …  Esteban, O. (2021).
-    Putting pipeline implementation-related variation into perspective for functional connectomics.
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2405.
-    (Virtual Meeting).
-- Authors:
-  - Goncalves, Mathias
-  - Markiewicz, Christopher
-  - Styner, Martin
-  - Moore, Lucille
-  - Snider, Kathy
-  - Earl, Eric
-  - Smyser, Christopher
-  - Zollei, Lilla
-  - Poldrack, Russell A
-  - Esteban, Oscar
-  Title: 'NiBabies: A robust preprocessing workflow tailored for neonate and infant
-    MRI'
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '2452'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{goncalves_nibabies:_2021,
-    	author = {Mathias Goncalves, and Christopher Markiewicz, and Martin Styner, and Lucille Moore, and Kathy Snider, and Eric Earl, and Christopher Smyser, and Lilla Zollei, and Russell A Poldrack, and Oscar Esteban},
-    	title = {{NiBabies:} {A} robust preprocessing workflow tailored for neonate and infant {MRI}},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {2452},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Goncalves, M.,  …  Esteban, O. (2021).
-    NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI.
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2452.
-    (Virtual Meeting).
-- Authors:
-  - Jarecka, Dorota
-  - Markiewicz, Christopher J
-  - Goncalves, Mathias
-  - Lo, Nicole
-  - Kaczmarzyk, Jakub
-  - Wang, Hao-Ting
-  - Wigger, Jeffrey
-  - Dayan, Michael
-  - Esteban, Oscar
-  - Ghosh, Satrajit
-  Title: 'Nipype 2.0: A new ecosystem for neuroimaging workflows'
-  Publication: 27th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '2796'
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{jarecka_nipype_2021,
-    	author = {Dorota Jarecka, and Christopher J Markiewicz, and Mathias Goncalves, and Nicole Lo, and Jakub Kaczmarzyk, and Hao-Ting Wang, and Jeffrey Wigger, and Michael Dayan, and Oscar Esteban, and Satrajit Ghosh},
-    	title = {{Nipype} 2.0: {A} new ecosystem for neuroimaging workflows},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {2796},
-    	booktitle = {27th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Jarecka, D.,  …  Ghosh, S. (2021).
-    Nipype 2.0: A new ecosystem for neuroimaging workflows.
-    <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2796.
-    (Virtual Meeting).
-- Authors:
-  - MacNicol, Eilidh
-  - Ciric, Rastko
-  - Kim, Eugene
-  - DiCenso, Davide
-  - Cash, Diana
-  - Poldrack, Russell
-  - Esteban, Oscar
-  Title: Atlas-based brain extraction is robust across rat MRI studies
-  Publication: IEEE 18th International Symposium on Biomedical Imaging
-  Conference: ISBI
-  Place: Nice, France
-  DOI: 10.1109/ISBI48211.2021.9433884
-  Volume:
-  Pages: 312-315
-  Year: 2021
-  URL:
-  OA: false
-  Preprint: true
-  OA URL: https://doi.org/10.31219/osf.io/sqxef
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{macnicol_atlas-based_2021,
-    	author = {Eilidh MacNicol, and Rastko Ciric, and Eugene Kim, and Davide DiCenso, and Diana Cash, and Russell Poldrack, and Oscar Esteban},
-    	title = {{Atlas-based} brain extraction is robust across rat {MRI} studies},
-    	year = {2021},
-    	address = {Nice, France},
-    	pages = {312-315},
-    	doi = {10.1109/ISBI48211.2021.9433884},
-    	booktitle = {{IEEE} 18th {International} {Symposium} on {Biomedical} {Imaging} ({ISBI})}
-    }
-  Citation (APA): |-
-    MacNicol, E.,  …  Esteban, O. (2021).
-    Atlas-based brain extraction is robust across rat MRI studies.
-    <i>IEEE 18th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 312-315.
-    Nice, France.
-    doi:<a href="https://doi.org/10.1109/ISBI48211.2021.9433884">10.1109/ISBI48211.2021.9433884</a>.
-    <a href="https://doi.org/10.31219/osf.io/sqxef">OA</a>.
-- Authors:
-  - Joseph, Michael J
-  - Pisner, Derek
-  - Richie-Halford, Adam
-  - Lerma-Usabiaga, Garikoitz
-  - Mansour, Salim
-  - Kent, James D.
-  - Keshavan, Anisha
-  - Cieslak, Matthew
-  - Dickie, Erin W
-  - Tourbier, Sebastien
-  - Voineskos, Aristotle N
-  - Satterthwaite, Theodore D
-  - Poldrack, Russell A
-  - Veraart, Jelle
-  - Rokem, Ariel
-  - Esteban, Oscar
-  Title: 'dMRIPrep: a robust preprocessing pipeline for diffusion MRI'
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 30
-  Conference: ISMRM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '2473'
-  Year: 2021
-  URL: https://archive.ismrm.org/2021/2473.html
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{joseph_dmriprep:_2021,
-    	author = {Michael J Joseph, and Derek Pisner, and Adam Richie-Halford, and Garikoitz Lerma-Usabiaga, and Salim Mansour, and James D. Kent, and Anisha Keshavan, and Matthew Cieslak, and Erin W Dickie, and Sebastien Tourbier, and Aristotle N Voineskos, and Theodore D Satterthwaite, and Russell A Poldrack, and Jelle Veraart, and Ariel Rokem, and Oscar Esteban},
-    	title = {{dMRIPrep:} a robust preprocessing pipeline for diffusion {MRI}},
-    	year = {2021},
-    	address = {(Virtual Meeting)},
-    	pages = {2473},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 30 ({ISMRM})},
-    	note = {https://archive.ismrm.org/2021/2473.html}
-    }
-  Citation (APA): |-
-    Joseph, M. J.,  …  Esteban, O. (2021).
-    dMRIPrep: a robust preprocessing pipeline for diffusion MRI.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 30 (ISMRM)</i>, pp. 2473.
-    (Virtual Meeting).
-    <a href="https://archive.ismrm.org/2021/2473.html">URL</a>.
-- Authors:
-  - Esteban, Oscar
-  - Wright, Jessey
-  - Markiewicz, Christopher J
-  - Thompson, William Hedley
-  - Goncalves, Mathias
-  - Ciric, Rastko
-  - Blair, Ross W
-  - Feingold, Franklin
-  - Rokem, Ariel
-  - Ghosh, Satrajit
-  Title: 'NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep'
-  Publication: 26th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI: 10.31219/osf.io/ujxp6
-  Volume:
-  Pages: '1960'
-  Year: 2020
-  URL:
-  OA: false
-  Preprint: true
-  OA URL: https://doi.org/10.31219/osf.io/ujxp6
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_nipreps:_2020,
-    	author = {Oscar Esteban, and Jessey Wright, and Christopher J Markiewicz, and William Hedley Thompson, and Mathias Goncalves, and Rastko Ciric, and Ross W Blair, and Franklin Feingold, and Ariel Rokem, and Satrajit Ghosh},
-    	title = {{NiPreps:} enabling the division of labor in neuroimaging beyond {fMRIPrep}},
-    	year = {2020},
-    	address = {(Virtual Meeting)},
-    	pages = {1960},
-    	doi = {10.31219/osf.io/ujxp6},
-    	booktitle = {26th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Ghosh, S. (2020).
-    NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep.
-    <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1960.
-    (Virtual Meeting).
-    doi:<a href="https://doi.org/10.31219/osf.io/ujxp6">10.31219/osf.io/ujxp6</a>.
-- Authors:
-  - Markiewicz, Christopher J
-  - Calhoun, Vince
-  - Dickie, Erin
-  - Duff, Eugene
-  - Dupre, Elizabeth
-  - Esteban, Oscar
-  - Feingold, Franklin
-  - Ghosh, Satrajit
-  - Halchenko, Yaroslav
-  - Harms, Michael
-  Title: BIDS Derivatives – Standardization of Processing Results in Brain Imaging
-  Publication: 26th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI: 10.5281/zenodo.3941040
-  Volume:
-  Pages: '1895'
-  Year: 2020
-  URL:
-  OA: false
-  Preprint: true
-  OA URL: https://doi.org/10.5281/zenodo.3941040
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{markiewicz_bids_2020,
-    	author = {Christopher J Markiewicz, and Vince Calhoun, and Erin Dickie, and Eugene Duff, and Elizabeth Dupre, and Oscar Esteban, and Franklin Feingold, and Satrajit Ghosh, and Yaroslav Halchenko, and Michael Harms},
-    	title = {{BIDS} {Derivatives} – {Standardization} of {Processing} {Results} in {Brain} {Imaging}},
-    	year = {2020},
-    	address = {(Virtual Meeting)},
-    	pages = {1895},
-    	doi = {10.5281/zenodo.3941040},
-    	booktitle = {26th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Markiewicz, C. J.,  …  Harms, M. (2020).
-    BIDS Derivatives – Standardization of Processing Results in Brain Imaging.
-    <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1895.
-    (Virtual Meeting).
-    doi:<a href="https://doi.org/10.5281/zenodo.3941040">10.5281/zenodo.3941040</a>.
-- Authors:
-  - Goncalves, Mathias
-  - Markiewicz, Christopher
-  - Finc, Karolina
-  - Poldrack, Russell A
-  - Esteban, Oscar
-  Title: 'FMRIPrep: extending the scanner to produce ready-for-analysis fMRI data'
-  Publication: 26th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: (Virtual Meeting)
-  DOI:
-  Volume:
-  Pages: '1961'
-  Year: 2020
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{goncalves_fmriprep:_2020,
-    	author = {Mathias Goncalves, and Christopher Markiewicz, and Karolina Finc, and Russell A Poldrack, and Oscar Esteban},
-    	title = {{FMRIPrep:} extending the scanner to produce ready-for-analysis {fMRI} data},
-    	year = {2020},
-    	address = {(Virtual Meeting)},
-    	pages = {1961},
-    	booktitle = {26th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Goncalves, M.,  …  Esteban, O. (2020).
-    FMRIPrep: extending the scanner to produce ready-for-analysis fMRI data.
-    <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1961.
-    (Virtual Meeting).
-- Authors:
-  - Esteban, Oscar
-  - Goncalves, Mathias
-  - Markiewicz, Christopher J
-  - Ghosh, Satrajit S
-  - Poldrack, RA
-  Title: Software tool to read, represent, manipulate, and apply n-dimensional spatial
-    transforms
-  Publication: IEEE 17th International Symposium on Biomedical Imaging
-  Conference: ISBI
-  Place: Iowa City, IA, USA
-  DOI: 10.1109/ISBI45749.2020.9098466
-  Volume:
-  Pages: 709-712
-  Year: 2020
-  URL:
-  OA: false
-  Preprint: true
-  OA URL: https://doi.org/10.31219/osf.io/8aq7b
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_software_2020,
-    	author = {Oscar Esteban, and Mathias Goncalves, and Christopher J Markiewicz, and Satrajit S Ghosh, and RA Poldrack},
-    	title = {{Software} tool to read, represent, manipulate, and apply n-dimensional spatial transforms},
-    	year = {2020},
-    	address = {Iowa City, IA, USA},
-    	pages = {709-712},
-    	doi = {10.1109/ISBI45749.2020.9098466},
-    	booktitle = {{IEEE} 17th {International} {Symposium} on {Biomedical} {Imaging} ({ISBI})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Poldrack, R. (2020).
-    Software tool to read, represent, manipulate, and apply n-dimensional spatial transforms.
-    <i>IEEE 17th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 709-712.
-    Iowa City, IA, USA.
-    doi:<a href="https://doi.org/10.1109/ISBI45749.2020.9098466">10.1109/ISBI45749.2020.9098466</a>.
-    <a href="https://doi.org/10.31219/osf.io/8aq7b">OA</a>.
-- Authors:
-  - Jarecka, Dorota
-  - Goncalves, Mathias
-  - Markiewicz, Christopher J
-  - Esteban, Oscar
-  - Lo, Nicole
-  - Kaczmarzyk, Jakub
-  - Ghosh, Satrajit
-  Title: Pydra-a flexible and lightweight dataflow engine for scientific analyses
-  Publication: Proceedings of the 19th Python in Science Conference
-  Conference: SciPy
-  Place: Austin, TX, USA
-  DOI: 10.25080/Majora-342d178e-012
-  Volume:
-  Pages: 132-139
-  Year: 2020
-  URL:
-  OA: true
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{jarecka_pydra-a_2020,
-    	author = {Dorota Jarecka, and Mathias Goncalves, and Christopher J Markiewicz, and Oscar Esteban, and Nicole Lo, and Jakub Kaczmarzyk, and Satrajit Ghosh},
-    	title = {{Pydra-a} flexible and lightweight dataflow engine for scientific analyses},
-    	year = {2020},
-    	address = {Austin, TX, USA},
-    	pages = {132-139},
-    	doi = {10.25080/Majora-342d178e-012},
-    	booktitle = {{Proceedings} of the 19th {Python} in {Science} {Conference} ({SciPy})}
-    }
-  Citation (APA): |-
-    Jarecka, D.,  …  Ghosh, S. (2020).
-    Pydra-a flexible and lightweight dataflow engine for scientific analyses.
-    <i>Proceedings of the 19th Python in Science Conference (SciPy)</i>, pp. 132-139.
-    Austin, TX, USA.
-    doi:<a href="https://doi.org/10.25080/Majora-342d178e-012">10.25080/Majora-342d178e-012</a>.
-- Authors:
-  - Esteban, Oscar
-  - Ciric, Rastko
-  - Markiewicz, Christopher J
-  - Halchenko, Yaroslav
-  - Goncalves, Mathias
-  - Ghosh, Satrajit
-  - Poldrack, Russell A
-  - Gorgolewski, Krzysztof
-  Title: 'TemplateFlow: a 4D standard space of neuroimaging standard spaces'
-  Publication: 25th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Roma, Italy
-  DOI:
-  Volume:
-  Pages: W571
-  Year: 2019
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: https://www.templateflow.org/assets/poster-templateflow.png
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_templateflow:_2019,
-    	author = {Oscar Esteban, and Rastko Ciric, and Christopher J Markiewicz, and Yaroslav Halchenko, and Mathias Goncalves, and Satrajit Ghosh, and Russell A Poldrack, and Krzysztof Gorgolewski},
-    	title = {{TemplateFlow:} a {4D} standard space of neuroimaging standard spaces},
-    	year = {2019},
-    	address = {Roma, Italy},
-    	pages = {W571},
-    	booktitle = {25th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. (2019).
-    TemplateFlow: a 4D standard space of neuroimaging standard spaces.
-    <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. W571.
-    Roma, Italy.
-    <a href="https://www.templateflow.org/assets/poster-templateflow.png">OA</a>.
-- Authors:
-  - Nielson, Dylan
-  - Zheng, Charles
-  - Esteban, Oscar
-  - Gorgolewski, Krzysztof
-  - Halchenko, Yaroslav
-  - Ghosh, Satrajit
-  - Bandettini, Peter
-  - Thomas, Adam
-  Title: Distributions of image quality metrics in MRIQC Web-API
-  Publication: 25th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Roma, Italy
-  DOI:
-  Volume:
-  Pages: W586
-  Year: 2019
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: https://doi.org/10.5281/zenodo.3366302
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{nielson_distributions_2019,
-    	author = {Dylan Nielson, and Charles Zheng, and Oscar Esteban, and Krzysztof Gorgolewski, and Yaroslav Halchenko, and Satrajit Ghosh, and Peter Bandettini, and Adam Thomas},
-    	title = {{Distributions} of image quality metrics in {MRIQC} {Web-API}},
-    	year = {2019},
-    	address = {Roma, Italy},
-    	pages = {W586},
-    	booktitle = {25th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Nielson, D.,  …  Thomas, A. (2019).
-    Distributions of image quality metrics in MRIQC Web-API.
-    <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. W586.
-    Roma, Italy.
-    <a href="https://doi.org/10.5281/zenodo.3366302">OA</a>.
-- Authors:
-  - Esteban, Oscar
-  - Ciric, Rastko
-  - Markiewicz, Christopher J
-  - Poldrack, Russell A
-  - Gorgolewski, Krzysztof
-  Title: Spatial normalization in fMRIPrep
-  Publication: 25th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Roma, Italy
-  DOI:
-  Volume:
-  Pages: Th587
-  Year: 2019
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_spatial_2019,
-    	author = {Oscar Esteban, and Rastko Ciric, and Christopher J Markiewicz, and Russell A Poldrack, and Krzysztof Gorgolewski},
-    	title = {{Spatial} normalization in {fMRIPrep}},
-    	year = {2019},
-    	address = {Roma, Italy},
-    	pages = {Th587},
-    	booktitle = {25th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. (2019).
-    Spatial normalization in fMRIPrep.
-    <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. Th587.
-    Roma, Italy.
-- Authors:
-  - Esteban, Oscar
-  - Ciric, Rastko
-  - Markiewicz, Christopher J
-  - Halchenko, Yaroslav
-  - Goncalves, Mathias
-  - Ghosh, Satrajit
-  - Poldrack, Russell A
-  - Gorgolewski, Krzysztof
-  Title: 'TemplateFlow: Standardizing standard 3D spaces in neuroimaging'
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 27
-  Conference: ISMRM
-  Place: Montréal, QC, Canada
-  DOI:
-  Volume:
-  Pages: '2452'
-  Year: 2019
-  URL: https://archive.ismrm.org/2019/2452.html
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_templateflow:_2019,
-    	author = {Oscar Esteban, and Rastko Ciric, and Christopher J Markiewicz, and Yaroslav Halchenko, and Mathias Goncalves, and Satrajit Ghosh, and Russell A Poldrack, and Krzysztof Gorgolewski},
-    	title = {{TemplateFlow:} {Standardizing} standard {3D} spaces in neuroimaging},
-    	year = {2019},
-    	address = {Montréal, QC, Canada},
-    	pages = {2452},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 27 ({ISMRM})},
-    	note = {https://archive.ismrm.org/2019/2452.html}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. (2019).
-    TemplateFlow: Standardizing standard 3D spaces in neuroimaging.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 27 (ISMRM)</i>, pp. 2452.
-    Montréal, QC, Canada.
-    <a href="https://archive.ismrm.org/2019/2452.html">URL</a>.
-- Authors:
-  - Yarkoni, Tal
-  - De la Vega, Alejandro
-  - DuPre, Elizabeth
-  - Esteban, Oscar
-  - Halchenko, Yaroslav
-  - Hanke, Michael
-  - Hayot-Sasson, Valerie
-  - Ivanov, Alexander
-  - Kiar, Gregory
-  - Markiewicz, Christopher McNamara, Quinten
-  Title: 'PyBIDS: Python tools for manipulation and analysis of BIDS datasets'
-  Publication: 24th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Singapore, Singapore
-  DOI:
-  Volume:
-  Pages: '2011'
-  Year: 2018
-  URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=3300
-  OA: false
-  Preprint: false
-  OA URL: http://haxbylab.dartmouth.edu/publications/YVD+OHBM18.pdf
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{yarkoni_pybids:_2018,
-    	author = {Tal Yarkoni, and Alejandro De la Vega, and Elizabeth DuPre, and Oscar Esteban, and Yaroslav Halchenko, and Michael Hanke, and Valerie Hayot-Sasson, and Alexander Ivanov, and Gregory Kiar, and Quinten  Christopher McNamara Markiewicz},
-    	title = {{PyBIDS:} {Python} tools for manipulation and analysis of {BIDS} datasets},
-    	year = {2018},
-    	address = {Singapore, Singapore},
-    	pages = {2011},
-    	booktitle = {24th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})},
-    	note = {https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=3300}
-    }
-  Citation (APA): |-
-    Yarkoni, T.,  …  Markiewicz, C. M. Q. (2018).
-    PyBIDS: Python tools for manipulation and analysis of BIDS datasets.
-    <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2011.
-    Singapore, Singapore.
-    <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=3300">URL</a><a href="http://haxbylab.dartmouth.edu/publications/YVD+OHBM18.pdf">OA</a>.
-- Authors:
-  - Markiewicz, Christopher
-  - Esteban, Oscar
-  - Blair, Ross
-  - Ma, Feilong
-  - Kent, James
-  - Heinsfeld, Anibal
-  - Goncalves, Mathias
-  - Poldrack, Russell
-  - Gorgolewski, Krzysztof
-  Title: 'FMRIprep: Building a Robust Preprocessing Pipeline for fMRI'
-  Publication: 24th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Singapore, Singapore
-  DOI:
-  Volume:
-  Pages: '2035'
-  Year: 2018
-  URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{markiewicz_fmriprep:_2018,
-    	author = {Christopher Markiewicz, and Oscar Esteban, and Ross Blair, and Feilong Ma, and James Kent, and Anibal Heinsfeld, and Mathias Goncalves, and Russell Poldrack, and Krzysztof Gorgolewski},
-    	title = {{FMRIprep:} {Building} a {Robust} {Preprocessing} {Pipeline} for {fMRI}},
-    	year = {2018},
-    	address = {Singapore, Singapore},
-    	pages = {2035},
-    	booktitle = {24th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})},
-    	note = {https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321}
-    }
-  Citation (APA): |-
-    Markiewicz, C.,  …  Gorgolewski, K. (2018).
-    FMRIprep: Building a Robust Preprocessing Pipeline for fMRI.
-    <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2035.
-    Singapore, Singapore.
-    <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321">URL</a>.
-- Authors:
-  - Nielson, Dylan
-  - Reynolds, Richard
-  - Esteban, Oscar
-  - Keshavan, Anisha
-  - Lee, John
-  - Gorgolewski, Krzysztof
-  - Thomas, Adam
-  - Cox, Robert
-  Title: AFNI preprocessing BIDS App with in browser quality control
-  Publication: 24th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Singapore, Singapore
-  DOI:
-  Volume:
-  Pages: '2034'
-  Year: 2018
-  URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{nielson_afni_2018,
-    	author = {Dylan Nielson, and Richard Reynolds, and Oscar Esteban, and Anisha Keshavan, and John Lee, and Krzysztof Gorgolewski, and Adam Thomas, and Robert Cox},
-    	title = {{AFNI} preprocessing {BIDS} {App} with in browser quality control},
-    	year = {2018},
-    	address = {Singapore, Singapore},
-    	pages = {2034},
-    	booktitle = {24th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})},
-    	note = {https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179}
-    }
-  Citation (APA): |-
-    Nielson, D.,  …  Cox, R. (2018).
-    AFNI preprocessing BIDS App with in browser quality control.
-    <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2034.
-    Singapore, Singapore.
-    <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179">URL</a>.
-- Authors:
-  - DuPre, Elizabeth
-  - Kundu, Prantik
-  - Esteban, Oscar
-  - Spreng, R. Nathan
-  Title: Introducing a BIDS-compliant multi-echo fMRI preprocessing pipeline
-  Publication: 24th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Singapore, Singapore
-  DOI:
-  Volume:
-  Pages: '2051'
-  Year: 2018
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{dupre_introducing_2018,
-    	author = {Elizabeth DuPre, and Prantik Kundu, and Oscar Esteban, and R. Nathan Spreng},
-    	title = {{Introducing} a {BIDS-compliant} multi-echo {fMRI} preprocessing pipeline},
-    	year = {2018},
-    	address = {Singapore, Singapore},
-    	pages = {2051},
-    	booktitle = {24th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})}
-    }
-  Citation (APA): |-
-    DuPre, E.,  …  Spreng, R. N. (2018).
-    Introducing a BIDS-compliant multi-echo fMRI preprocessing pipeline.
-    <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2051.
-    Singapore, Singapore.
-- Authors:
-  - Esteban, Oscar
-  - Poldrack, Russell A
-  - Gorgolewski, Krzysztof J
-  Title: Improving out-of-sample prediction of quality of MRIQC
-  Publication: Intravascular Imaging and Computer Assisted Stenting and Large-Scale
-    Annotation of Biomedical Data and Expert Label Synthesis
-  Conference: LABELS
-  Place: Granada, Spain
-  DOI: 10.1007/978-3-030-01364-6
-  Volume: '11043'
-  Pages: 190-199
-  Year: 2018
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: https://labels.tue-image.nl/wp-content/uploads/2018/09/PM-03.pdf
-  Publisher: Lecture Notes in Computer Science
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_improving_2018,
-    	author = {Oscar Esteban, and Russell A Poldrack, and Krzysztof J Gorgolewski},
-    	title = {{Improving} out-of-sample prediction of quality of {MRIQC}},
-    	year = {2018},
-    	address = {Granada, Spain},
-    	pages = {190-199},
-    	doi = {10.1007/978-3-030-01364-6},
-    	booktitle = {{Intravascular} {Imaging} and {Computer} {Assisted} {Stenting} and {Large-Scale} {Annotation} of {Biomedical} {Data} and {Expert} {Label} {Synthesis} ({LABELS})},
-    	publisher = {{Lecture} {Notes} in {Computer} {Science}}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. J. (2018).
-    Improving out-of-sample prediction of quality of MRIQC.
-    <i>Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis (LABELS)</i>, vol. 11043, pp. 190-199.
-    Granada, Spain.
-    doi:<a href="https://doi.org/10.1007/978-3-030-01364-6">10.1007/978-3-030-01364-6</a>.
-    <a href="https://labels.tue-image.nl/wp-content/uploads/2018/09/PM-03.pdf">OA</a>.
-- Authors:
-  - Esteban, Oscar
-  - Blair, Ross W
-  - Nielson, Dylan
-  - Varada, Jan
-  - Marrett, Sean
-  - Thomas, Adam
-  - Poldrack, Russell
-  - Gorgolewski, Krzysztof Jacek
-  Title: 'MRIQC Web-API: Crowdsourcing image quality metrics and expert quality ratings
-    of structural and functional MRI'
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 26
-  Conference: ISMRM
-  Place: Paris, France
-  DOI: 10.1101/216671
-  Volume:
-  Pages: '3416'
-  Year: 2018
-  URL: https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html
-  OA: false
-  Preprint: true
-  OA URL: https://doi.org/10.1101/216671
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_mriqc_2018,
-    	author = {Oscar Esteban, and Ross W Blair, and Dylan Nielson, and Jan Varada, and Sean Marrett, and Adam Thomas, and Russell Poldrack, and Krzysztof Jacek Gorgolewski},
-    	title = {{MRIQC} {Web-API:} {Crowdsourcing} image quality metrics and expert quality ratings of structural and functional {MRI}},
-    	year = {2018},
-    	address = {Paris, France},
-    	pages = {3416},
-    	doi = {10.1101/216671},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 26 ({ISMRM})},
-    	note = {https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. J. (2018).
-    MRIQC Web-API: Crowdsourcing image quality metrics and expert quality ratings of structural and functional MRI.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 26 (ISMRM)</i>, pp. 3416.
-    Paris, France.
-    doi:<a href="https://doi.org/10.1101/216671">10.1101/216671</a>.
-    <a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html">URL</a>.
-- Authors:
-  - Gorgolewski, Krzysztof
-  - Esteban, Oscar
-  - Schaefer, Gunnar
-  - Wandell, Brian
-  - Poldrack, Russell
-  Title: OpenNeuro - a free online platform for sharing and analysis of neuroimaging
-    data
-  Publication: 23th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Vancouver, BC, Canada
-  DOI: 10.7490/f1000research.1114354.1
-  Volume:
-  Pages: '3395'
-  Year: 2017
-  URL: https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395
-  OA: false
-  Preprint: true
-  OA URL: https://f1000research.com/posters/6-1055
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{gorgolewski_openneuro_2017,
-    	author = {Krzysztof Gorgolewski, and Oscar Esteban, and Gunnar Schaefer, and Brian Wandell, and Russell Poldrack},
-    	title = {{OpenNeuro} - a free online platform for sharing and analysis of neuroimaging data},
-    	year = {2017},
-    	address = {Vancouver, BC, Canada},
-    	pages = {3395},
-    	doi = {10.7490/f1000research.1114354.1},
-    	booktitle = {23th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})},
-    	note = {https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395}
-    }
-  Citation (APA): |-
-    Gorgolewski, K.,  …  Poldrack, R. (2017).
-    OpenNeuro - a free online platform for sharing and analysis of neuroimaging data.
-    <i>23th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 3395.
-    Vancouver, BC, Canada.
-    doi:<a href="https://doi.org/10.7490/f1000research.1114354.1">10.7490/f1000research.1114354.1</a>.
-    <a href="https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395">URL</a><a href="https://f1000research.com/posters/6-1055">OA</a>.
-- Authors:
-  - Esteban, Oscar
-  - Gorgolewski, Krzysztof
-  - Blair, Ross
-  - Berleant, Shoshana
-  - Moodie, Craig
-  - Poldrack, Russell
-  Title: 'FMRIprep: a robust preprocessing pipeline for task-based and resting-state
-    fMRI data'
-  Publication: 23th Annual Meeting of the Organization for Human Brain Mapping
-  Conference: OHBM
-  Place: Vancouver, BC, Canada
-  DOI: 10.7490/f1000research.1114420.1
-  Volume:
-  Pages: '4111'
-  Year: 2017
-  URL: https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111
-  OA: false
-  Preprint: true
-  OA URL: https://f1000research.com/posters/6-1129
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_fmriprep:_2017,
-    	author = {Oscar Esteban, and Krzysztof Gorgolewski, and Ross Blair, and Shoshana Berleant, and Craig Moodie, and Russell Poldrack},
-    	title = {{FMRIprep:} a robust preprocessing pipeline for task-based and resting-state {fMRI} data},
-    	year = {2017},
-    	address = {Vancouver, BC, Canada},
-    	pages = {4111},
-    	doi = {10.7490/f1000research.1114420.1},
-    	booktitle = {23th {Annual} {Meeting} of the {Organization} for {Human} {Brain} {Mapping} ({OHBM})},
-    	note = {https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Poldrack, R. (2017).
-    FMRIprep: a robust preprocessing pipeline for task-based and resting-state fMRI data.
-    <i>23th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 4111.
-    Vancouver, BC, Canada.
-    doi:<a href="https://doi.org/10.7490/f1000research.1114420.1">10.7490/f1000research.1114420.1</a>.
-    <a href="https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111">URL</a><a href="https://f1000research.com/posters/6-1129">OA</a>.
-- Authors:
-  - Esteban, Oscar
-  - Moodie, Craig A
-  - Triplett, William
-  - Poldrack, Russell A
-  - Gorgolewski, Krzysztof J
-  Title: 'MRIQC: automated assessment and quality reporting of MRI scans'
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 25
-  Conference: ISMRM
-  Place: Honolulu, HI, USA
-  DOI: 10.7490/f1000research.1114419.1
-  Volume:
-  Pages: '3809'
-  Year: 2017
-  URL: http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html
-  OA: false
-  Preprint: true
-  OA URL: https://f1000research.com/posters/6-1128
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_mriqc:_2017,
-    	author = {Oscar Esteban, and Craig A Moodie, and William Triplett, and Russell A Poldrack, and Krzysztof J Gorgolewski},
-    	title = {{MRIQC:} automated assessment and quality reporting of {MRI} scans},
-    	year = {2017},
-    	address = {Honolulu, HI, USA},
-    	pages = {3809},
-    	doi = {10.7490/f1000research.1114419.1},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 25 ({ISMRM})},
-    	note = {http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Gorgolewski, K. J. (2017).
-    MRIQC: automated assessment and quality reporting of MRI scans.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 25 (ISMRM)</i>, pp. 3809.
-    Honolulu, HI, USA.
-    doi:<a href="https://doi.org/10.7490/f1000research.1114419.1">10.7490/f1000research.1114419.1</a>.
-    <a href="http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html">URL</a><a href="https://f1000research.com/posters/6-1128">OA</a>.
-- Authors:
-  - Esteban, Oscar
-  - Daducci, Alessandro
-  - Caruyer, Emmanuel
-  - O'Brien, Kieran
-  - Ledesma-Carbayo, María J
-  - Bach-Cuadra, Meritxell
-  - Santos, Andrés
-  Title: Simulation-based evaluation of susceptibility distortion correction methods
-    in diffusion MRI for connectivity analysis
-  Publication: IEEE 11th International Symposium on Biomedical Imaging
-  Conference: ISBI
-  Place: Beijing, China
-  DOI: 10.1109/ISBI.2014.6867976
-  Volume:
-  Pages: 738-741
-  Year: 2014
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: http://www2.die.upm.es/im/papers/ISBI_2014.pdf
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_simulation-based_2014,
-    	author = {Oscar Esteban, and Alessandro Daducci, and Emmanuel Caruyer, and Kieran O'Brien, and María J Ledesma-Carbayo, and Meritxell Bach-Cuadra, and Andrés Santos},
-    	title = {{Simulation-based} evaluation of susceptibility distortion correction methods in diffusion {MRI} for connectivity analysis},
-    	year = {2014},
-    	address = {Beijing, China},
-    	pages = {738-741},
-    	doi = {10.1109/ISBI.2014.6867976},
-    	booktitle = {{IEEE} 11th {International} {Symposium} on {Biomedical} {Imaging} ({ISBI})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Santos, A. (2014).
-    Simulation-based evaluation of susceptibility distortion correction methods in diffusion MRI for connectivity analysis.
-    <i>IEEE 11th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 738-741.
-    Beijing, China.
-    doi:<a href="https://doi.org/10.1109/ISBI.2014.6867976">10.1109/ISBI.2014.6867976</a>.
-    <a href="http://www2.die.upm.es/im/papers/ISBI_2014.pdf">OA</a>.
-- Authors:
-  - Ninerola, A
-  - Marti, B
-  - Esteban, Oscar
-  - Planes, X
-  - Frangi, AF
-  - Ledesma-Carbayo, María Jesús
-  - Santos, A
-  - Cot, A
-  - Lomeña, F
-  - Pavia, J
-  Title: 'QuantiDOPA: A Quantification Software for Dopaminergic Neurotransmission
-    SPECT'
-  Publication: XIII Mediterranean Conference on Medical and Biological Engineering
-    and Computing 2013
-  Conference: MEDICON
-  Place: Sevilla, Spain
-  DOI:
-  Volume:
-  Pages: 443-446
-  Year: 2014
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: http://www2.die.upm.es/im/papers/Medicon2013.pdf
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{ninerola_quantidopa:_2014,
-    	author = {A Ninerola, and B Marti, and Oscar Esteban, and X Planes, and AF Frangi, and María Jesús Ledesma-Carbayo, and A Santos, and A Cot, and F Lomeña, and J Pavia},
-    	title = {{QuantiDOPA:} {A} {Quantification} {Software} for {Dopaminergic} {Neurotransmission} {SPECT}},
-    	year = {2014},
-    	address = {Sevilla, Spain},
-    	pages = {443-446},
-    	booktitle = {{XIII} {Mediterranean} {Conference} on {Medical} and {Biological} {Engineering} and {Computing} 2013 ({MEDICON})}
-    }
-  Citation (APA): |-
-    Ninerola, A.,  …  Pavia, J. (2014).
-    QuantiDOPA: A Quantification Software for Dopaminergic Neurotransmission SPECT.
-    <i>XIII Mediterranean Conference on Medical and Biological Engineering and Computing 2013 (MEDICON)</i>, pp. 443-446.
-    Sevilla, Spain.
-    <a href="http://www2.die.upm.es/im/papers/Medicon2013.pdf">OA</a>.
-- Authors:
-  - Cuadra, Meritxell Bach
-  - Gelin, Sebastien
-  - Roche, Alexis
-  - Esteban, Oscar
-  - Kober, Tobias
-  - Marques, Jose
-  - Granziera, Cristina
-  - Krüger, Gunnar
-  Title: 'Classical segmentation methods on novel MR imaging: a study of brain tissue
-    segmentation of MP2RAGE vs MPRAGE'
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 21
-  Conference: ISMRM
-  Place: Salt Lake City, UT, USA
-  DOI:
-  Volume:
-  Pages: '948'
-  Year: 2013
-  URL: https://archive.ismrm.org/2013/0948.html
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{cuadra_classical_2013,
-    	author = {Meritxell Bach Cuadra, and Sebastien Gelin, and Alexis Roche, and Oscar Esteban, and Tobias Kober, and Jose Marques, and Cristina Granziera, and Gunnar Krüger},
-    	title = {{Classical} segmentation methods on novel {MR} imaging: a study of brain tissue segmentation of {MP2RAGE} vs {MPRAGE}},
-    	year = {2013},
-    	address = {Salt Lake City, UT, USA},
-    	pages = {948},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 21 ({ISMRM})},
-    	note = {https://archive.ismrm.org/2013/0948.html}
-    }
-  Citation (APA): |-
-    Cuadra, M. B.,  …  Krüger, G. (2013).
-    Classical segmentation methods on novel MR imaging: a study of brain tissue segmentation of MP2RAGE vs MPRAGE.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 21 (ISMRM)</i>, pp. 948.
-    Salt Lake City, UT, USA.
-    <a href="https://archive.ismrm.org/2013/0948.html">URL</a>.
-- Authors:
-  - Esteban, Oscar
-  - Gorthi, Subrahmanyam
-  - Wollny, Gert
-  - Daducci, Alessandro
-  - Ledesma-Carbayo, María Jesús
-  - Santos, Andrés
-  - Thiran, Jean-Philippe
-  - Bach Cuadra, Meritxell
-  Title: Brain tissue segmentation on diffusion weighted magnetic resonance data
-  Publication: IEEE 9th International Symposium on Biomedical Imaging
-  Conference: ISBI
-  Place: Barcelona, Spain
-  DOI:
-  Volume:
-  Pages:
-  Year: 2012
-  URL:
-  OA: false
-  Preprint: false
-  OA URL: https://oa.upm.es/22221/1/isbi2012_v2.pdf
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{esteban_brain_2012,
-    	author = {Oscar Esteban, and Subrahmanyam Gorthi, and Gert Wollny, and Alessandro Daducci, and María Jesús Ledesma-Carbayo, and Andrés Santos, and Jean-Philippe Thiran, and Meritxell Bach Cuadra},
-    	title = {{Brain} tissue segmentation on diffusion weighted magnetic resonance data},
-    	year = {2012},
-    	address = {Barcelona, Spain},
-    	booktitle = {{IEEE} 9th {International} {Symposium} on {Biomedical} {Imaging} ({ISBI})}
-    }
-  Citation (APA): |-
-    Esteban, O.,  …  Bach Cuadra, M. (2012).
-    Brain tissue segmentation on diffusion weighted magnetic resonance data.
-    <i>IEEE 9th International Symposium on Biomedical Imaging (ISBI)</i>.
-    Barcelona, Spain.
-    <a href="https://oa.upm.es/22221/1/isbi2012_v2.pdf">OA</a>.
-- Authors:
-  - Kober, Tobias
-  - Roche, Alexis
-  - Esteban, Oscar
-  - Gorthi, Subrahmanyam
-  - Ribes, Delphine
-  - Bach Cuadra, Meritxell
-  - Meuli, Reto
-  - Krueger, Gunnar
-  Title: Atlas-free brain tissue segmentation using a single T1-weighted MRI acquisition
-  Publication: Proc. Intl. Soc. Mag. Reson. Med. 20
-  Conference: ISMRM
-  Place: Melbourne, Australia
-  DOI:
-  Volume:
-  Pages: '753'
-  Year: 2012
-  URL: https://archive.ismrm.org/2012/0753.html
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher:
-  Description: ''
-  Bibtex: |-
-    @inproceedings{kober_atlas-free_2012,
-    	author = {Tobias Kober, and Alexis Roche, and Oscar Esteban, and Subrahmanyam Gorthi, and Delphine Ribes, and Meritxell Bach Cuadra, and Reto Meuli, and Gunnar Krueger},
-    	title = {{Atlas-free} brain tissue segmentation using a single {T1-weighted} {MRI} acquisition},
-    	year = {2012},
-    	address = {Melbourne, Australia},
-    	pages = {753},
-    	booktitle = {{Proc.} {Intl.} {Soc.} {Mag.} {Reson.} {Med.} 20 ({ISMRM})},
-    	note = {https://archive.ismrm.org/2012/0753.html}
-    }
-  Citation (APA): |-
-    Kober, T.,  …  Krueger, G. (2012).
-    Atlas-free brain tissue segmentation using a single T1-weighted MRI acquisition.
-    <i>Proc. Intl. Soc. Mag. Reson. Med. 20 (ISMRM)</i>, pp. 753.
-    Melbourne, Australia.
-    <a href="https://archive.ismrm.org/2012/0753.html">URL</a>.
-- Authors:
-  - Marti, B
-  - Esteban, O
-  - Planes, X
-  - Omedas, P
-  - Wollny, G
-  - Cot, A
-  - Setoain, X
-  - Frangi, A
-  - Ledesma-Carbayo, M
-  - Pavia, J
-  Title: 'FocusDET: A software tool to locate epileptogenic foci in intractable partial
-    epilepsy'
-  Publication: Annual Congress of the European Association of Nuclear Medicine
-  Conference: EANM
-  Place: Barcelona, Spain
-  DOI: 10.1007/s00259-009-1230-x
-  Volume:
-  Pages: S284-S284
-  Year: 2009
-  URL:
-  OA: false
-  Preprint: false
-  OA URL:
-  Publisher: European Journal of Nuclear Medicine and Molecular Imaging
-  Description: ''
-  Bibtex: |-
-    @inproceedings{marti_focusdet:_2009,
-    	author = {B Marti, and O Esteban, and X Planes, and P Omedas, and G Wollny, and A Cot, and X Setoain, and A Frangi, and M Ledesma-Carbayo, and J Pavia},
-    	title = {{FocusDET:} {A} software tool to locate epileptogenic foci in intractable partial epilepsy},
-    	year = {2009},
-    	address = {Barcelona, Spain},
-    	pages = {S284-S284},
-    	doi = {10.1007/s00259-009-1230-x},
-    	booktitle = {{Annual} {Congress} of the {European} {Association} of {Nuclear} {Medicine} ({EANM})},
-    	publisher = {{European} {Journal} of {Nuclear} {Medicine} and {Molecular} {Imaging}}
-    }
-  Citation (APA): |-
-    Marti, B.,  …  Pavia, J. (2009).
-    FocusDET: A software tool to locate epileptogenic foci in intractable partial epilepsy.
-    <i>Annual Congress of the European Association of Nuclear Medicine (EANM)</i>, pp. S284-S284.
-    Barcelona, Spain.
-    doi:<a href="https://doi.org/10.1007/s00259-009-1230-x">10.1007/s00259-009-1230-x</a>.
+- Year: 2022
+  Items:
+  - DOI: 10.31219/osf.io/8mcyz
+    URL:
+    OA URL:
+    Citation: |-
+      Provins, C.,  …  Esteban, O. (2022).
+      Defacing biases manual and automated quality assessments of structural MRI with MRIQC.
+      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh566.
+      Glasgow, Scotland, UK.
+      doi:<a href="https://doi.org/10.31219/osf.io/8mcyz">10.31219/osf.io/8mcyz</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Di Noto, T.,  …  Richiardi, J. (2022).
+      Weak labels for deep-learning-based detection of brain aneurysms from MR angiography scans.
+      <i>Medical Imaging with Deep Learning (MIDL)</i>.
+      Zurich, Switzerland.
+  - DOI: 10.31219/osf.io/hz52v
+    URL:
+    OA URL:
+    Citation: |-
+      Provins, C.,  …  Esteban, O. (2022).
+      Quality control and nuisance regression of fMRI, looking out where signal should not be found.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 2683.
+      London, England, UK.
+      doi:<a href="https://doi.org/10.31219/osf.io/hz52v">10.31219/osf.io/hz52v</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Veraart, J.,  …  Descoteaux, M. (2022).
+      A data-driven variability assessment of brain diffusion MRI preprocessing pipelines.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 4983.
+      London, England, UK.
+- Year: 2021
+  Items:
+  - DOI: 10.31219/osf.io/gy8nt
+    URL:
+    OA URL:
+    Citation: |-
+      Esteban, O.,  …  Provins, C. (2021).
+      The Bermuda Triangle of d-and f-MRI sailors-software for susceptibility distortions (SDCFlows).
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1653.
+      (Virtual Meeting).
+      doi:<a href="https://doi.org/10.31219/osf.io/gy8nt">10.31219/osf.io/gy8nt</a>.
+  - DOI:
+    URL:
+    OA URL: https://www.hal.inserm.fr/inserm-03478963
+    Citation: |-
+      Markiewicz, C.,  …  Maumet, C. (2021).
+      BIDS Statistical Models - An implementation-independent representation of General Linear Models.
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1207.
+      (Virtual Meeting).
+      <a href="https://www.hal.inserm.fr/inserm-03478963">OA</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Adebimpe, A.,  …  Covitz, S. (2021).
+      ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled MRI.
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1814.
+      (Virtual Meeting).
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Milham, M.,  …  Esteban, O. (2021).
+      Putting pipeline implementation-related variation into perspective for functional connectomics.
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2405.
+      (Virtual Meeting).
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Goncalves, M.,  …  Esteban, O. (2021).
+      NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI.
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2452.
+      (Virtual Meeting).
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Jarecka, D.,  …  Ghosh, S. (2021).
+      Nipype 2.0: A new ecosystem for neuroimaging workflows.
+      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2796.
+      (Virtual Meeting).
+  - DOI: 10.1109/ISBI48211.2021.9433884
+    URL:
+    OA URL: https://doi.org/10.31219/osf.io/sqxef
+    Citation: |-
+      MacNicol, E.,  …  Esteban, O. (2021).
+      Atlas-based brain extraction is robust across rat MRI studies.
+      <i>IEEE 18th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 312-315.
+      Nice, France.
+      doi:<a href="https://doi.org/10.1109/ISBI48211.2021.9433884">10.1109/ISBI48211.2021.9433884</a>.
+      <a href="https://doi.org/10.31219/osf.io/sqxef">OA</a>.
+  - DOI:
+    URL: https://archive.ismrm.org/2021/2473.html
+    OA URL:
+    Citation: |-
+      Joseph, M. J.,  …  Esteban, O. (2021).
+      dMRIPrep: a robust preprocessing pipeline for diffusion MRI.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 30 (ISMRM)</i>, pp. 2473.
+      (Virtual Meeting).
+      <a href="https://archive.ismrm.org/2021/2473.html">URL</a>.
+- Year: 2020
+  Items:
+  - DOI: 10.31219/osf.io/ujxp6
+    URL:
+    OA URL: https://doi.org/10.31219/osf.io/ujxp6
+    Citation: |-
+      Esteban, O.,  …  Ghosh, S. (2020).
+      NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep.
+      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1960.
+      (Virtual Meeting).
+      doi:<a href="https://doi.org/10.31219/osf.io/ujxp6">10.31219/osf.io/ujxp6</a>.
+  - DOI: 10.5281/zenodo.3941040
+    URL:
+    OA URL: https://doi.org/10.5281/zenodo.3941040
+    Citation: |-
+      Markiewicz, C. J.,  …  Harms, M. (2020).
+      BIDS Derivatives – Standardization of Processing Results in Brain Imaging.
+      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1895.
+      (Virtual Meeting).
+      doi:<a href="https://doi.org/10.5281/zenodo.3941040">10.5281/zenodo.3941040</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Goncalves, M.,  …  Esteban, O. (2020).
+      FMRIPrep: extending the scanner to produce ready-for-analysis fMRI data.
+      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1961.
+      (Virtual Meeting).
+  - DOI: 10.1109/ISBI45749.2020.9098466
+    URL:
+    OA URL: https://doi.org/10.31219/osf.io/8aq7b
+    Citation: |-
+      Esteban, O.,  …  Poldrack, R. (2020).
+      Software tool to read, represent, manipulate, and apply n-dimensional spatial transforms.
+      <i>IEEE 17th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 709-712.
+      Iowa City, IA, USA.
+      doi:<a href="https://doi.org/10.1109/ISBI45749.2020.9098466">10.1109/ISBI45749.2020.9098466</a>.
+      <a href="https://doi.org/10.31219/osf.io/8aq7b">OA</a>.
+  - DOI: 10.25080/Majora-342d178e-012
+    URL:
+    OA URL:
+    Citation: |-
+      Jarecka, D.,  …  Ghosh, S. (2020).
+      Pydra-a flexible and lightweight dataflow engine for scientific analyses.
+      <i>Proceedings of the 19th Python in Science Conference (SciPy)</i>, pp. 132-139.
+      Austin, TX, USA.
+      doi:<a href="https://doi.org/10.25080/Majora-342d178e-012">10.25080/Majora-342d178e-012</a>.
+- Year: Before 2020
+  Items:
+  - DOI:
+    URL:
+    OA URL: https://www.templateflow.org/assets/poster-templateflow.png
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. (2019).
+      TemplateFlow: a 4D standard space of neuroimaging standard spaces.
+      <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. W571.
+      Roma, Italy.
+      <a href="https://www.templateflow.org/assets/poster-templateflow.png">OA</a>.
+  - DOI:
+    URL:
+    OA URL: https://doi.org/10.5281/zenodo.3366302
+    Citation: |-
+      Nielson, D.,  …  Thomas, A. (2019).
+      Distributions of image quality metrics in MRIQC Web-API.
+      <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. W586.
+      Roma, Italy.
+      <a href="https://doi.org/10.5281/zenodo.3366302">OA</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. (2019).
+      Spatial normalization in fMRIPrep.
+      <i>25th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. Th587.
+      Roma, Italy.
+  - DOI:
+    URL: https://archive.ismrm.org/2019/2452.html
+    OA URL:
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. (2019).
+      TemplateFlow: Standardizing standard 3D spaces in neuroimaging.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 27 (ISMRM)</i>, pp. 2452.
+      Montréal, QC, Canada.
+      <a href="https://archive.ismrm.org/2019/2452.html">URL</a>.
+  - DOI:
+    URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=3300
+    OA URL: http://haxbylab.dartmouth.edu/publications/YVD+OHBM18.pdf
+    Citation: |-
+      Yarkoni, T.,  …  Markiewicz, C. M. Q. (2018).
+      PyBIDS: Python tools for manipulation and analysis of BIDS datasets.
+      <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2011.
+      Singapore, Singapore.
+      <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=3300">URL</a><a href="http://haxbylab.dartmouth.edu/publications/YVD+OHBM18.pdf">OA</a>.
+  - DOI:
+    URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321
+    OA URL:
+    Citation: |-
+      Markiewicz, C.,  …  Gorgolewski, K. (2018).
+      FMRIprep: Building a Robust Preprocessing Pipeline for fMRI.
+      <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2035.
+      Singapore, Singapore.
+      <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321">URL</a>.
+  - DOI:
+    URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179
+    OA URL:
+    Citation: |-
+      Nielson, D.,  …  Cox, R. (2018).
+      AFNI preprocessing BIDS App with in browser quality control.
+      <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2034.
+      Singapore, Singapore.
+      <a href="https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179">URL</a>.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      DuPre, E.,  …  Spreng, R. N. (2018).
+      Introducing a BIDS-compliant multi-echo fMRI preprocessing pipeline.
+      <i>24th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2051.
+      Singapore, Singapore.
+  - DOI: 10.1007/978-3-030-01364-6
+    URL:
+    OA URL: https://labels.tue-image.nl/wp-content/uploads/2018/09/PM-03.pdf
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. J. (2018).
+      Improving out-of-sample prediction of quality of MRIQC.
+      <i>Intravascular Imaging and Computer Assisted Stenting and Large-Scale Annotation of Biomedical Data and Expert Label Synthesis (LABELS)</i>, vol. 11043, pp. 190-199.
+      Granada, Spain.
+      doi:<a href="https://doi.org/10.1007/978-3-030-01364-6">10.1007/978-3-030-01364-6</a>.
+      <a href="https://labels.tue-image.nl/wp-content/uploads/2018/09/PM-03.pdf">OA</a>.
+  - DOI: 10.1101/216671
+    URL: https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html
+    OA URL: https://doi.org/10.1101/216671
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. J. (2018).
+      MRIQC Web-API: Crowdsourcing image quality metrics and expert quality ratings of structural and functional MRI.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 26 (ISMRM)</i>, pp. 3416.
+      Paris, France.
+      doi:<a href="https://doi.org/10.1101/216671">10.1101/216671</a>.
+      <a href="https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html">URL</a>.
+  - DOI: 10.7490/f1000research.1114354.1
+    URL: https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395
+    OA URL: https://f1000research.com/posters/6-1055
+    Citation: |-
+      Gorgolewski, K.,  …  Poldrack, R. (2017).
+      OpenNeuro - a free online platform for sharing and analysis of neuroimaging data.
+      <i>23th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 3395.
+      Vancouver, BC, Canada.
+      doi:<a href="https://doi.org/10.7490/f1000research.1114354.1">10.7490/f1000research.1114354.1</a>.
+      <a href="https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395">URL</a><a href="https://f1000research.com/posters/6-1055">OA</a>.
+  - DOI: 10.7490/f1000research.1114420.1
+    URL: https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111
+    OA URL: https://f1000research.com/posters/6-1129
+    Citation: |-
+      Esteban, O.,  …  Poldrack, R. (2017).
+      FMRIprep: a robust preprocessing pipeline for task-based and resting-state fMRI data.
+      <i>23th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 4111.
+      Vancouver, BC, Canada.
+      doi:<a href="https://doi.org/10.7490/f1000research.1114420.1">10.7490/f1000research.1114420.1</a>.
+      <a href="https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111">URL</a><a href="https://f1000research.com/posters/6-1129">OA</a>.
+  - DOI: 10.7490/f1000research.1114419.1
+    URL: http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html
+    OA URL: https://f1000research.com/posters/6-1128
+    Citation: |-
+      Esteban, O.,  …  Gorgolewski, K. J. (2017).
+      MRIQC: automated assessment and quality reporting of MRI scans.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 25 (ISMRM)</i>, pp. 3809.
+      Honolulu, HI, USA.
+      doi:<a href="https://doi.org/10.7490/f1000research.1114419.1">10.7490/f1000research.1114419.1</a>.
+      <a href="http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html">URL</a><a href="https://f1000research.com/posters/6-1128">OA</a>.
+  - DOI: 10.1109/ISBI.2014.6867976
+    URL:
+    OA URL: http://www2.die.upm.es/im/papers/ISBI_2014.pdf
+    Citation: |-
+      Esteban, O.,  …  Santos, A. (2014).
+      Simulation-based evaluation of susceptibility distortion correction methods in diffusion MRI for connectivity analysis.
+      <i>IEEE 11th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 738-741.
+      Beijing, China.
+      doi:<a href="https://doi.org/10.1109/ISBI.2014.6867976">10.1109/ISBI.2014.6867976</a>.
+      <a href="http://www2.die.upm.es/im/papers/ISBI_2014.pdf">OA</a>.
+  - DOI:
+    URL:
+    OA URL: http://www2.die.upm.es/im/papers/Medicon2013.pdf
+    Citation: |-
+      Ninerola, A.,  …  Pavia, J. (2014).
+      QuantiDOPA: A Quantification Software for Dopaminergic Neurotransmission SPECT.
+      <i>XIII Mediterranean Conference on Medical and Biological Engineering and Computing 2013 (MEDICON)</i>, pp. 443-446.
+      Sevilla, Spain.
+      <a href="http://www2.die.upm.es/im/papers/Medicon2013.pdf">OA</a>.
+  - DOI:
+    URL: https://archive.ismrm.org/2013/0948.html
+    OA URL:
+    Citation: |-
+      Cuadra, M. B.,  …  Krüger, G. (2013).
+      Classical segmentation methods on novel MR imaging: a study of brain tissue segmentation of MP2RAGE vs MPRAGE.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 21 (ISMRM)</i>, pp. 948.
+      Salt Lake City, UT, USA.
+      <a href="https://archive.ismrm.org/2013/0948.html">URL</a>.
+  - DOI:
+    URL:
+    OA URL: https://oa.upm.es/22221/1/isbi2012_v2.pdf
+    Citation: |-
+      Esteban, O.,  …  Bach Cuadra, M. (2012).
+      Brain tissue segmentation on diffusion weighted magnetic resonance data.
+      <i>IEEE 9th International Symposium on Biomedical Imaging (ISBI)</i>.
+      Barcelona, Spain.
+      <a href="https://oa.upm.es/22221/1/isbi2012_v2.pdf">OA</a>.
+  - DOI:
+    URL: https://archive.ismrm.org/2012/0753.html
+    OA URL:
+    Citation: |-
+      Kober, T.,  …  Krueger, G. (2012).
+      Atlas-free brain tissue segmentation using a single T1-weighted MRI acquisition.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. 20 (ISMRM)</i>, pp. 753.
+      Melbourne, Australia.
+      <a href="https://archive.ismrm.org/2012/0753.html">URL</a>.
+  - DOI: 10.1007/s00259-009-1230-x
+    URL:
+    OA URL:
+    Citation: |-
+      Marti, B.,  …  Pavia, J. (2009).
+      FocusDET: A software tool to locate epileptogenic foci in intractable partial epilepsy.
+      <i>Annual Congress of the European Association of Nuclear Medicine (EANM)</i>, pp. S284-S284.
+      Barcelona, Spain.
+      doi:<a href="https://doi.org/10.1007/s00259-009-1230-x">10.1007/s00259-009-1230-x</a>.
