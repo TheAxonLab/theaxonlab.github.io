@@ -8,8 +8,8 @@ permalink: /
 
 # Welcome to the Axonlab
 
-<div id="newsid" class="float-md-end col-sm-4 bg-light" style="display:block" >
-<div class="well">
+<div id="newsid" class="float-md-end col-sm-4" style="display:block" >
+<div class="bg-light border">
 <h4>Latest News</h4>
 <p>(Find out more at the <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a>.)</p>
 <hr style="margin-top: 22px; margin-bottom: 8px;" />
