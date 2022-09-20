@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+<div id="homeid" class="col-sm-8">
+<h1>Welcome to the Axonlab</h1>
 We investigate the neuroimaging workflow to map out the brain's connectivity networks,
 characterize the reliability, sensitivity and specificity of these methodologies (from
 acquisition to formalization of network information) and apply them in the understanding
@@ -73,3 +75,20 @@ We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Depa
 -->
 
 The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH ([RF1MH121867](https://reporter.nih.gov/project-details/10260312), PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
+</div>
+
+<div id="newsid" class="col-sm-4" >
+<div class="well">
+<h4>Latest News</h4>
+<p>(Find out more at the <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a>.)</p>
+<hr style="margin-top: 22px; margin-bottom: 8px;" />
+
+{% for article in site.data.news limit:9 %}
+<p>
+<em>{{ article.headline }}</em> ({{ article.date }})</p>
+{% unless forloop.last %}
+<hr style="margin-top: 5px; margin-bottom: 8px;" />
+{% endunless %}
+{% endfor %}
+</div>
+</div>
