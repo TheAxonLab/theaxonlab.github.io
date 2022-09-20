@@ -83,6 +83,6 @@ permalink: /publications/
       </div>
     </div>
   </div>
-
+</div>
 
 \* Number of citing references extracted from Google Scholar on Aug 11, 2022.
