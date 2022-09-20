@@ -40,3 +40,31 @@ permalink: /publications/
 {% endfor %}
 
 \* Number of citing references extracted from Google Scholar on Aug 11, 2022.
+
+
+## Conference communications
+
+{% assign number_printed = 0 %}
+{% for year in site.data.pub_conference %}
+
+<p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>
+<table>
+  {% if number_printed == 0 %}
+  <tr style="font-size: small">
+    <th>Citation</th>
+    <th>Cited by*</th>
+  </tr>
+  {% endif %}
+  {% for entry in year.Items %}
+  <tr>
+    <td>
+      {{ entry.Citation }}
+    </td>
+    <td style="text-align:right">
+      n/a
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+{% assign number_printed = number_printed | plus: 1 %}
+{% endfor %}
