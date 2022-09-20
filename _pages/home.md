@@ -1,6 +1,6 @@
 ---
 title: "The Axonlab :: Welcome"
-layout: homelay
+layout: default
 excerpt: "Welcome to the Axonlab!"
 sitemap: false
 permalink: /
@@ -77,7 +77,7 @@ We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Depa
 The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH ([RF1MH121867](https://reporter.nih.gov/project-details/10260312), PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
 </div>
 
-<div id="newsid" class="col-sm-4" >
+<div id="newsid" class="float-md-end col-sm-4" >
 <div class="well">
 <h4>Latest News</h4>
 <p>(Find out more at the <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">news page</a>.)</p>
