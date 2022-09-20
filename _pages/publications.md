@@ -15,7 +15,7 @@ permalink: /publications/
         Journal publications
       </button>
     </h2>
-    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionPublications">
+    <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionPublications">
       <div class="accordion-body">
       {% assign number_printed = 0 %}
       {% for year in site.data.pub_journal %}
