@@ -1,3 +1,8 @@
+- date: Sep 16, 2022
+  headline: "Céline passed her mid-thesis exam, congrats!"
+  body: |
+    Céline passed the exam with flying colors.
+
 - date: Sep 08, 2022
   headline: |
     <a href="https://recrutement.chuv.ch/vacancy/software-developer-for-radiology-department-272565.html">Join <em>The AxonLab</em></a> as a Python developer!
@@ -5,11 +10,6 @@
     A new 1yr (extensible to 2yr) position
     ([link](https://recrutement.chuv.ch/vacancy/software-developer-for-radiology-department-272565.html))
     is available to push the [*NiPreps* project](https://nipreps.org) forward.
-
-- date: Jun 15, 2022
-  headline: "Welcome Victor!"
-  body: |
-    **Victor Issa García**, M.D., M.Sc., has joined *The AxonLab* to start a Ph.D. program on cross-species computational neuroanatomy.
 
 - date: Feb 1, 2022
   headline: "Two abstracts accepted by ISMRM'22 and OHBM'22 - Congratulations Céline!"
