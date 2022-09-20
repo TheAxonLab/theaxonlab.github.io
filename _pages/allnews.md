@@ -1,6 +1,6 @@
 ---
 title: "AxonLab :: News"
-layout: textlay
+layout: default
 excerpt: "AxonLab -- News and announcements"
 sitemap: false
 permalink: /allnews.html

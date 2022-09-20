@@ -1,6 +1,6 @@
 ---
 title: "AxonLab :: About us"
-layout: gridlay
+layout: default
 excerpt: "AxonLab -- Team members"
 sitemap: false
 permalink: /team/

@@ -1,6 +1,6 @@
 ---
 title: "AxonLab :: DEI Statement"
-layout: textlay
+layout: default
 excerpt: "AxonLab -- Diversity, Equity, and Inclusion Statement"
 sitemap: false
 permalink: /dei/
