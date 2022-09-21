@@ -10,8 +10,8 @@ permalink: /publications/
 
 <div class="accordion accordion-flush" id="accordionPublications">
 <div class="accordion-item">
-<h2 class="accordion-header fs-2" id="flush-headingOne">
-<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+<h2 class="accordion-header" id="flush-headingOne">
+<button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
 Journal publications
 </button>
 </h2>
@@ -54,8 +54,8 @@ doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA 
 </div>
 
 <div class="accordion-item">
-<h2 class="accordion-header fs-2" id="flush-headingTwo">
-<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+<h2 class="accordion-header" id="flush-headingTwo">
+<button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
 Conference communications
 </button>
 </h2>
