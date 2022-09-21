@@ -25,30 +25,39 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  {% if member.title %}
-  <p><i>{{ member.title }}</i></p>
-  {% endif %}
-  {% if member.email %}
-  <p>email: <{{ member.email }}></p>
-  {% endif %}
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded-start" alt="{{ member.name }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ member.name }}</h5>
+        {% if member.title %}
+        <p class="card-text">{{ member.title }}</p>
+        {% endif %}
+        {% if member.email %}
+        <p class="card-text">email: <{{ member.email }}></p>
+        {% endif %}
+        {% if member.links %}
+        <p class="card-text"><small>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</small></p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
 
-  {% if member.links %}
-  <p>{% for link in member.links %}{{ link }}{% unless forloop.last %} | {% endunless %}{% endfor %}</p>
-  {% endif %}
+{% if member.bio %}
+<p>{{ member.bio }}</p>
+{% endif %}
 
-  {% if member.bio %}
-  <p>{{ member.bio }}</p>
-  {% endif %}
-
-  {% if member.education %}
-  <ul style="overflow: hidden">
-  {% for edu_item in member.education %}
-  <li> {{ edu_item }} </li>
-  {% endfor %}
-  </ul>
-  {% endif %}
+{% if member.education %}
+<ul style="overflow: hidden">
+{% for edu_item in member.education %}
+<li> {{ edu_item }} </li>
+{% endfor %}
+</ul>
+{% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
