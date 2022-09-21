@@ -1,17 +1,17 @@
 ---
-title: "AxonLab :: Publications"
+title: "AxonLab :: Scientific outcomes and publications"
 layout: default
-excerpt: "AxonLab -- Publications"
+excerpt: "AxonLab -- Scientific outcomes and publications"
 sitemap: false
 permalink: /publications/
 ---
 
-# Publications
+# Scientific outcomes
 
 <div class="accordion accordion-flush" id="accordionPublications">
 <div class="accordion-item">
 <h2 class="accordion-header" id="flush-headingOne">
-<button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+<button class="accordion-button collapsed fs-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
 Journal publications
 </button>
 </h2>
@@ -55,7 +55,7 @@ doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA 
 
 <div class="accordion-item">
 <h2 class="accordion-header" id="flush-headingTwo">
-<button class="accordion-button collapsed fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+<button class="accordion-button collapsed fs-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
 Conference communications
 </button>
 </h2>
