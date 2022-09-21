@@ -20,13 +20,15 @@ Journal publications
 {% assign number_printed = 0 %}
 {% for year in site.data.pub_journal %}
 <p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>      
-<table>
+<table class="table table-striped table-hover table-borderless table-sm">
+<caption>Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
 {% if number_printed == 0 %}
 <tr style="font-size: small">
 <th>Citation</th>
 <th>Cited by*</th>
 </tr>
 {% endif %}
+<tbody class="table-group-divider">
 {% for entry in year.Items %}
 <tr>
 <td>
@@ -41,6 +43,7 @@ doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA 
 </td>
 </tr>
 {% endfor %}
+</tbody>
 </table>
 {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
@@ -60,13 +63,15 @@ Conference communications
 {% for year in site.data.pub_conference %}
 
 <p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>
-<table>
+<table class="table table-striped table-hover table-borderless table-sm">
+<caption>Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
 {% if number_printed == 0 %}
 <tr style="font-size: small">
 <th>Citation</th>
 <th>Cited by*</th>
 </tr>
 {% endif %}
+<tbody class="table-group-divider">
 {% for entry in year.Items %}
 <tr>
 <td>
@@ -77,6 +82,7 @@ n/a
 </td>
 </tr>
 {% endfor %}
+</tbody>
 </table>
 {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
@@ -84,5 +90,3 @@ n/a
 </div>
 </div>
 </div>
-
-\* Number of citing references extracted from Google Scholar on Aug 11, 2022.
