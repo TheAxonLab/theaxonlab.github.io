@@ -25,7 +25,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<div class="card mb-3">
+
+<!-- Card -->
+<div class="card mb-3 border-transparent">
 <div class="row g-0">
 <div class="col-md-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded-start" alt="{{ member.name }}">
@@ -34,7 +36,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="card-body">
 <h5 class="card-title">{{ member.name }}</h5>
 {% if member.title %}
-<p class="card-text">{{ member.title }}</p>
+<h6 class="card-subtitle mb-2 text-muted">{{ member.title }}</h6>
 {% endif %}
 {% if member.email %}
 <p class="card-text">email: <{{ member.email }}></p>
