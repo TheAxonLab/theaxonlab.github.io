@@ -21,7 +21,7 @@ Journal publications
 <p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>      
 <table class="table table-striped table-hover table-borderless table-sm">
 {% if forloop.last %}
-<caption>Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
+<caption>\* Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
 {% endif %}
 {% if forloop.first %}
 <thead>
