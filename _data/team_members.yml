@@ -55,3 +55,21 @@
 
   links:
     - '[ORCID](https://orcid.org/0000-0002-1668-9629)'
+
+- name: Elodie Savary
+  photo: photo_esavary300x300.png
+  email: elodie.savary@outlook.com
+  title: Developer 
+  education:
+    - PhD. (2022) EPFL (Lausanne, Switzerland)
+    - M.Sc. (2018) EPFL (Lausanne, Switzerland)
+    - B.Sc. (2016) EPFL (Lausanne, Switzerland)
+  bio: |
+    My background is in Astrophysics. During my PhD, I developed deep-learning tools to classify, segment and generate images.
+    Besides the machine learning components, my PhD research also included a significant amount of image processing.
+    I will contribute to the implementation of preprocessing tools to improve computational reproducibility and reduce methodological variability in MRI research.
+    In addition to this, I am strongly committed to promoting open science.
+
+  links:
+    - '[Google Scholar](https://scholar.google.com/citations?user=2eOoXSoAAAAJ&hl=en)'
+    - '[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-3896-6906)'
