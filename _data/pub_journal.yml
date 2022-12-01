@@ -1,26 +1,32 @@
 - Year: 2022
   Items:
-  - Citations: 8
-    DOI: 10.21203/rs.3.rs-264855
-    OA: https://doi.org/10.1101/2021.02.10.430678
+  - Citations: 12
+    DOI: 10.1038/s41592-022-01681-2
     Citation: >-
       Ciric, R., Thompson, W. H., Lorenz, R., Goncalves, M., MacNicol, E., Markiewicz, C. J.,
-      … Esteban, O. (2021). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
-      <i>Nature Portfolio</i> (AIP).
-  - Citations: 4
+      … Esteban, O. (2022). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
+      <i>Nature Methods</i>.
+  - Citations: 6
     DOI: 10.1016/j.neuroimage.2022.119623
     Citation: >-
       Niso, G., Botvinik-Nezer, R., Appelhoff, S., Vega, A. D. L., Esteban, O., Etzel,
       J. A., … Rieger, J. W. (2022). Open and reproducible neuroimaging:
       from study inception to publication. <i>NeuroImage</i>.
-  - Citations: 2
+  - Citations: 4
     DOI: 10.3389/fninf.2021.669049
     Year: 2022
     Citation: >-
       MacNicol, E., Wright, P., Kim, E., Brusini, I., Esteban, O., Simmons, C., … Cash,
       D. (2022). Age-Specific Adult Rat Brain MRI Templates and Tissue Probability
       Maps. <i>Frontiers in Neuroinformatics</i>.
-  - Citations: 1
+  - Citations: 3
+    DOI: 10.1007/s12021-022-09597-0
+    Year: 2022
+    Citation: >-
+      Di Noto, T., Marie, G., Tourbier, S., Alemán-Gómez, S., Esteban, O., Saliou, G., … Richiardi, J.
+      Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels,
+      and Anatomical Knowledge <i>Neuroinformatics</i>.
+  - Citations: 2
     DOI: 10.1038/s41592-022-01458-7
     Year: 2022
     OA: https://doi.org/10.1101/2021.05.20.444998
@@ -30,7 +36,7 @@
       spin labeled MRI and quantification of regional brain perfusion. <i>Nature Methods</i>.
 - Year: 2021
   Items:
-  - Citations: 46
+  - Citations: 62
     DOI: 10.7554/eLife.71774
     Year: 2021
     Citation: >-
@@ -51,14 +57,14 @@
       Rodrigue, A. L., Mastrovito, D., Esteban, O., Durnez, J., Koenis, M. M. G., Janssen,
       R., … Glahn, D. C. (2021). Searching for Imaging Biomarkers of Psychotic
       Dysconnectivity. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>.
-  - Citations: 13
+  - Citations: 14
     DOI: 10.1016/j.neuron.2021.04.001
     Year: 2021
     Citation: >-
       Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y.-F.,
       … Zuo, X.-N. (2021). Brainhack: Developing a culture of open, inclusive,
       community-driven neuroscience. <i>Neuron</i>.
-  - Citations: 10
+  - Citations: 13
     DOI: 10.1093/gigascience/giab051
     Year: 2021
     Citation: >-
@@ -67,7 +73,7 @@
       <i>GigaScience</i>, Volume 10, Issue 8, August 2021, giab051.
 - Year: 2020
   Items:
-  - Citations: 40
+  - Citations: 44
     DOI: 10.1038/s41596-020-0327-3
     Year: 2020
     OA: https://doi.org/10.1101/694364
@@ -77,7 +83,7 @@
       data preprocessed with fMRIPrep. <i>Nature Protocols</i>.
 - Year: Before 2020
   Items:
-  - Citations: 1153
+  - Citations: 1333
     DOI: 10.1038/s41592-018-0235-4
     OA: https://doi.org/10.1101/306951
     Year: 2019
@@ -85,7 +91,7 @@
       Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe,
       A., … Gorgolewski, K. J. (2019). fMRIPrep: a robust preprocessing
       pipeline for functional MRI. <i>Nature Methods</i>
-  - Citations: 27
+  - Citations: 35
     DOI: 10.1038/s41597-019-0035-4
     Year: 2019
     Citation: >-
@@ -93,7 +99,7 @@
       A. G., … Gorgolewski, K. J. (2019). Crowdsourced MRI quality metrics
       and expert quality annotations for training of humans and machines. <i>Scientific
       Data</i>.
-  - Citations: 418
+  - Citations: 465
     DOI: 10.1371/journal.pone.0184661
     Year: 2017
     Citation: >-
