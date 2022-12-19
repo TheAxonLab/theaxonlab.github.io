@@ -25,7 +25,7 @@
     Citation: >-
       Di Noto, T., Marie, G., Tourbier, S., Alemán-Gómez, S., Esteban, O., Saliou, G., … Richiardi, J.
       Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels,
-      and Anatomical Knowledge <i>Neuroinformatics</i>.
+      and Anatomical Knowledge. <i>Neuroinformatics</i>.
   - Citations: 2
     DOI: 10.1038/s41592-022-01458-7
     Year: 2022
@@ -34,6 +34,13 @@
       Adebimpe, A., Bertolero, M., Dolui, S., Cieslak, M., Murtha, K., Baller, E. B.,
       … the ALLFTD Consortium. (2022). ASLPrep: a platform for processing of arterial
       spin labeled MRI and quantification of regional brain perfusion. <i>Nature Methods</i>.
+  - Citations: 0
+    DOI: 10.3389/fnimg.2022.1073734
+    Year: 2022
+    Citation (APA): |-
+      Provins, C. … Esteban, O. (2022). Quality Control in functional MRI studies with MRIQC and fMRIPrep.
+      <i>Frontiers in Neuroinformatics</i> (Accepted).
+    
 - Year: 2021
   Items:
   - Citations: 62
