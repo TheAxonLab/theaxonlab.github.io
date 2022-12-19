@@ -2,6 +2,12 @@
   headline: "New paper alert!"
   body: |
     Céline just got the acceptance notice corresponding of her latest [quality control paper](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1073734/).
+
+- date: Dec 1, 2022
+  headline: "The <em>TemplateFlow</em> paper is out!
+  body: |
+    Our open-access paper is now available at [*Nature Methods*](https://doi.org/10.1038/s41592-022-01681-2).
+    Don't miss [the corresponding *Research Briefing*](https://doi.org/10.1038/s41592-022-01682-1) entitled "Harnessing the multiverse of neuroimaging standard references."
     
 - date: Dec 1, 2022
   headline: "Welcome Elodie!"
