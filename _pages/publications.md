@@ -6,19 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Scientific outcomes
-
-<table class="table table-striped table-hover table-borderless table-sm">
-<thead>
-<tr style="font-size: small">
-<th>Citation</th>
-<th>Cited by*</th>
-</tr>
-</thead>
-<tbody>
-<caption>* Number of citing references extracted from Google Scholar on Jan 4, 2023.</caption>
-</tbody>
-</table>
+# Scientific outputs
+Below we list the most outstanding communications our lab has produced, next to the number of citations if applicable.
+Number of citing references extracted from Google Scholar on Jan 4, 2023.
   
 <div class="accordion accordion-flush" id="accordionPublications">
 <div class="accordion-item">
