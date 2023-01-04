@@ -8,6 +8,18 @@ permalink: /publications/
 
 # Scientific outcomes
 
+<table class="table table-striped table-hover table-borderless table-sm">
+<thead>
+<tr style="font-size: small">
+<th>Citation</th>
+<th>Cited by*</th>
+</tr>
+</thead>
+<tbody>
+<caption>* Number of citing references extracted from Google Scholar on Jan 4, 2023.</caption>
+</tbody>
+</table>
+  
 <div class="accordion accordion-flush" id="accordionPublications">
 <div class="accordion-item">
 <h2 class="accordion-header" id="flush-headingOne">
@@ -18,22 +30,11 @@ Journal publications
 <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionPublications">
 <div class="accordion-body">
 {% for year in site.data.pub_journal %}
-<p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>      
+<p style="font-weight: bold; padding: 30px 0 0">{{ year.Year }}</p>      
 <table class="table table-striped table-hover table-borderless table-sm">
-{% if forloop.last %}
-<caption>* Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
-{% endif %}
-{% if forloop.first %}
-<thead>
-<tr style="font-size: small">
-<th>Citation</th>
-<th>Cited by*</th>
-</tr>
-</thead>
-{% endif %}
-<tbody>
+<tbody class="table-group-divider">
 {% for entry in year.Items %}
-<tr>
+<tr class="small">
 <td>
 {{ entry.Citation }}
 doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA %}{% else %} (OA){% endif %}.
@@ -62,24 +63,11 @@ Conference communications
 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionPublications">
 <div class="accordion-body">
 {% for year in site.data.pub_conference %}
-<p style="font-weight: bold; border-bottom: 1px solid #888; padding: 30px 0 0">{{ year.Year }}</p>
+<p style="font-weight: bold; padding: 30px 0 0">{{ year.Year }}</p>
 <table class="table table-striped table-hover table-borderless table-sm">
-<!--
-{% if forloop.last %}
-<caption>Number of citing references extracted from Google Scholar on Aug 11, 2022.</caption>
-{% endif %}
--->
-{% if forloop.first %}
-<thead>
-<tr style="font-size: small">
-<th>Citation</th>
-<th>Cited by*</th>
-</tr>
-</thead>
-{% endif %}
 <tbody class="table-group-divider">
 {% for entry in year.Items %}
-<tr>
+<tr class="small">
 <td>
 {{ entry.Citation }}
 </td>
