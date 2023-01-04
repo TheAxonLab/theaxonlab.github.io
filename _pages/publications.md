@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 # Scientific outputs
+
 Below we list the most outstanding communications our lab has produced, next to the number of citations if applicable.
 Number of citing references extracted from Google Scholar on Jan 4, 2023.
   
