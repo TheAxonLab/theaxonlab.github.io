@@ -1,3 +1,53 @@
+- Year: 2023
+  Items:
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Provins, C.,  …  Esteban, O. (2023).
+      Assessment of B1 field dynamics of rats BOLD fMRI using the wavelet transform.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Provins, C.,  …  Esteban, O. (2023).
+      Signal-to-noise ratio estimates predict head motion presence in T1-weighted MRI.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Goncalves, M.,  …  Fair, D. A. (2023).
+      They grow up so fast - Augmenting the NiBabies infant MRI workflow.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Savary, E.,  …  Esteban, O. (2023).
+      Q’kay: a manager for the quality assessment of large neuroimaging studies.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Alemán-Gómez, Y.,  …  Hagmann, P. (2023).
+      CHIMERA:An open source framework for combining multiple parcellations.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Lajous, H.,  …  Bach-Cuadra, M. (2023).
+      Minimizing the Need for Clinical MRI Data in Supervised Fetal Brain Tissue Segmentation.
+      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, vol. (submitted).
+      Montréal, Canada.
 - Year: 2022
   Items:
   - DOI: 10.31219/osf.io/8mcyz
@@ -34,7 +84,7 @@
       A data-driven variability assessment of brain diffusion MRI preprocessing pipelines.
       <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 4983.
       London, England, UK.
-- Year: 2021
+- Year: Before 2022
   Items:
   - DOI: 10.31219/osf.io/gy8nt
     URL:
@@ -114,8 +164,6 @@
       <i>Proc. Intl. Soc. Mag. Reson. Med. 30 (ISMRM)</i>, pp. 2655.
       (Virtual Meeting).
       <a href="https://archive.ismrm.org/2021/2655.html">URL</a>.
-- Year: 2020
-  Items:
   - DOI: 10.31219/osf.io/ujxp6
     URL:
     OA URL: https://doi.org/10.31219/osf.io/ujxp6
@@ -161,8 +209,6 @@
       <i>Proceedings of the 19th Python in Science Conference (SciPy)</i>, pp. 132-139.
       Austin, TX, USA.
       doi:<a href="https://doi.org/10.25080/Majora-342d178e-012">10.25080/Majora-342d178e-012</a>.
-- Year: Before 2022
-  Items:
   - DOI:
     URL:
     OA URL: https://www.templateflow.org/assets/poster-templateflow.png
