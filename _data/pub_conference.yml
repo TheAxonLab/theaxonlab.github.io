@@ -99,11 +99,35 @@
   - DOI:
     URL:
     OA URL:
+    Citation: |-      
+      Markiewicz, C. J.,  …  You, X. (2022).
+      Standardizing support for multi-echo fMRI data across the NiPreps ecosystem.
+      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh563.
+      Glasgow, Scotland, UK.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Ciric, R.,  …  Poldrack, R. A. (2022).
+      Across the multiverse: differentiable programming for deep connectivity pipeline optimisation.
+      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh556.
+      Glasgow, Scotland, UK.
+  - DOI:
+    URL:
+    OA URL:
     Citation: |-
       Veraart, J.,  …  Descoteaux, M. (2022).
       A data-driven variability assessment of brain diffusion MRI preprocessing pipelines.
       <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 4983.
       London, England, UK.
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Li, X.,  …  Milham, M. P. (2022).
+      Moving beyond processing and analysis-related variation in neuroscience.
+      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh877.
+      Glasgow, Scotland, UK.
 - Year: Before 2022
   Items:
   - DOI: 10.31219/osf.io/gy8nt
