@@ -74,3 +74,33 @@ n/a
 </div>
 </div>
 </div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="flush-headingThree">
+<button class="accordion-button collapsed fs-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+Other outputs
+</button>
+</h2>
+<div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionPublications">
+<div class="accordion-body">
+{% for year in site.data.pub_other %}
+<p style="font-weight: bold; padding: 30px 0 0">{{ year.Year }}</p>
+<table class="table table-striped table-hover table-borderless table-sm">
+<tbody class="table-group-divider">
+{% for entry in year.Items %}
+<tr class="small">
+<td>
+[{{ entry.Type }}] {{ entry.Citation }}
+</td>
+<td style="text-align:right">
+n/a
+</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+{% endfor %}
+</div>
+</div>
+</div>
+</div>
