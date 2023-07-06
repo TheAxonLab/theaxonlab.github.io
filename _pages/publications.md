@@ -73,7 +73,6 @@ n/a
 </div>
 </div>
 </div>
-</div>
 
 <div class="accordion-item">
 <h2 class="accordion-header" id="flush-headingThree">
@@ -90,10 +89,10 @@ Other outputs
 {% for entry in year.Items %}
 <tr class="small">
 <td>
-[{{ entry.Type }}] {{ entry.Citation }}
+{{ entry.Type }}
 </td>
-<td style="text-align:right">
-n/a
+<td>
+{{ entry.Citation }}
 </td>
 </tr>
 {% endfor %}
@@ -103,4 +102,6 @@ n/a
 </div>
 </div>
 </div>
+
+<!-- Close accordion -->
 </div>
