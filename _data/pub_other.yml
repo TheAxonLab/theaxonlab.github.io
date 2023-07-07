@@ -7,3 +7,37 @@
         Stage 1 IPA (in principle acceptance) of Version 3
       </a> by <i>Peer Community in Registered Reports</i>.
     Type: Pre-registration
+  - Citation: |-
+      Sanchez, T., … Bach-Cuadra, M. (2023).
+      FetMRQC: Automated Quality Control for fetal brain MRI,
+      <i>arXiv</i> 2304.05879.
+      doi:<a href="https://doi.org/10.48550/arXiv.2304.05879">10.48550/arXiv.2304.05879</a>.
+    Type: Preprint
+  - Citation: |-
+      Chatelain, Y., … Glatard, T. (2023).
+      A numerical variability approach to results stability tests and its application to neuroimaging,
+      <i>arXiv</i> 2307.01373.
+      doi:<a href="https://doi.org/10.48550/arXiv.2307.01373">10.48550/arXiv.2307.01373</a>.
+    Type: Preprint
+
+- Year: 2022
+  Items:
+  - Citation: |-
+      Harnessing the multiverse of neuroimaging standard references.
+      <i>Nat Methods</i> 19, 1526–1527 (2022).
+      doi:<a href="https://doi.org/10.1038/s41592-022-01682-1">10.1038/s41592-022-01682-1</a>.
+    Type: Feature
+  - Citation: |-
+      Li, X., … Milham, M.P. (2022)
+      Moving Beyond Processing and Analysis-Related Variation in Neuroscience,
+      <i>bioRxiv</i> 2021.12.01.470790.
+      doi:<a href="https://doi.org/10.1101/2021.12.01.470790">10.1101/2021.12.01.470790</a>.
+    Type: Preprint
+
+- Year: Before 2022
+  Items:
+  - Citation: |-
+      Bansal, S., … Esteban, O. (2021)
+      High-sensitivity detection of facial features on MRI brain scans with a convolutional network,
+      <i>bioRxiv</i> 2021.04.25.441373.
+      doi:<a href="https://doi.org/10.1101/2021.04.25.441373">10.1101/2021.04.25.441373</a>.
