@@ -6,7 +6,7 @@
       <a href="https://rr.peercommunityin.org/articles/rec?id=346">
         Stage 1 IPA (in principle acceptance) of Version 3
       </a> by <i>Peer Community in Registered Reports</i>.
-    Type: Pre-registration
+    Type: 'Registered Report'
   - Citation: |-
       Sanchez, T., … Bach-Cuadra, M. (2023).
       FetMRQC: Automated Quality Control for fetal brain MRI,
@@ -41,3 +41,4 @@
       High-sensitivity detection of facial features on MRI brain scans with a convolutional network,
       <i>bioRxiv</i> 2021.04.25.441373.
       doi:<a href="https://doi.org/10.1101/2021.04.25.441373">10.1101/2021.04.25.441373</a>.
+    Type: Preprint
