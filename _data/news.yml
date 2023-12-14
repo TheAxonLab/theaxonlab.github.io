@@ -1,8 +1,28 @@
+- date: Nov 14, 2023
+  headline: |
+    <i>Nature Methods</i> officially posted Céline's registered report that recently reached
+    <a href="https://twitter.com/naturemethods/status/1724513994310824448">Stage 1 acceptance in principle</a>.
+  body: |
+    The registered report study *Reliability characterization of MRI measurements for analyses of brain networks on a single human*
+    reached Stage 1 (accepted in principle) (doi:[10.6084/m9.figshare.19579873.v1](https://doi.org/10.6084/m9.figshare.19579873.v1)).
+
+- date: Nov 14, 2023
+  headline: |
+    The first 36 sessions of HCPh data collection are finished!
+  body: |
+    We acquired the last session of the Human Connectome PHantom's reliability protocols, which concluded a few minutes before midnight.
+
+- date: Oct 20, 2023
+  headline: |
+    We are starting the [Human Connectome PHantom data collection](https://www.axonlab.org/hcph-sops)!
+  body: |
+    A single subject will go in the scanner 36 times within a few weeks, following our [Standard Operating Procedures](https://www.axonlab.org/hcph-sops).
+
 - date: Aug 28, 2023
   headline: |
     Alexandre Cionca joins the lab. Welcome Alex!
   body: |
-    Alexandre Cionca is joining the Axon Lab for through December 2023.
+    Alexandre Cionca is joining the Axon Lab through December 2023.
     Alex graduated from EPFL with a specialization in Computational Science and Engineering
     later focused on data science and statistical learning in neuroimaging with
      the University of Geneva.
@@ -11,7 +31,7 @@
   headline: |
     Céline starts a doctoral research visit to the Poldrack Lab at Stanford.
   body: |
-    After securing a SNSF Mobility grant, Céline starts a doctoral research visit to the Poldrack Lab at Stanford.
+    After securing an SNSF Mobility grant, Céline started a doctoral research visit to the Poldrack Lab at Stanford.
     Congratulations and enjoy! The AxonLab will be waiting for your return with expectation and excitement.
 
 - date: May 31, 2023
@@ -33,7 +53,7 @@
   headline: |
     <a href="https://www.frontiersin.org/articles/10.3389/fnimg.2022.1073734/">New paper</a> by Céline!
   body: |
-    Céline just got the acceptance notice corresponding of her latest [quality control paper](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1073734/).
+    Céline received the acceptance notice corresponding to her latest [quality control paper](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1073734/).
 
 - date: Dec 1, 2022
   headline: |
