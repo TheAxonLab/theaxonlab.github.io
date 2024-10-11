@@ -1,24 +1,25 @@
 - Year: 2024
   Items:
   - Citations: 41
-    DOI: 10.1101/2021.12.01.470790
+    DOI: 10.1038/s41562-024-01942-4
     Year: 2024
     Citation: |-
       Li, X., … Milham, M.P. (2024)
       Moving Beyond Processing and Analysis-Related Variation in Neuroscience,
-      <i>Nature Human Behavior</i> (accepted).
+      <i>Nature Human Behavior</i>.      
   - Citations: 1
     DOI: 10.1016/j.media.2024.103282
     Year: 2024
     Citation: |-
       Sanchez, T., Esteban, O. … Bach-Cuadra, M. (2024). FetMRQC: A robust quality control system for multi-centric fetal brain MRI
-      <i>Medical Image Analysis</i> (in press).
+      <i>Medical Image Analysis</i> 97:103282.
   - Citations: ''
+    DOI: 10.48550/arXiv.2307.01373
+    Year: 2024
     Citation: |-
       Chatelain, Y., … Glatard, T. (2024).
       A numerical variability approach to results stability tests and its application to neuroimaging,
       <i>IEEE Transactions on Computers</i> (accepted).
-      doi:<a href="https://doi.org/10.48550/arXiv.2307.01373">10.48550/arXiv.2307.01373</a>.
   
 - Year: 2023
   Items:
