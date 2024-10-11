@@ -2,10 +2,11 @@
   Items:
   - Citation: |-
       Esteban, O. (2024).
-      Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility
-      in <i>Methods for analyzing large neuroimaging datasets</i> (<a href="https://doi.org/10.17605/OSF.IO/D9R3X">book</a>),
-      Springer.
-      doi:<a href="https://doi.org/10.31219/osf.io/42bsu">10.31219/osf.io/42bsu</a> (OA).
+      Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility, in
+      <a href="https://link.springer.com/book/9781071642597">
+      <i>Methods for analyzing large neuroimaging datasets</i></a>, <i>Neuromethods</i> series,
+      Chapter 8, Eds. Robert Whelan, Hervé Lemaître, Humana New York, NY.
+      doi:<a href="https://doi.org/10.31219/osf.io/42bsu">10.1007/978-1-0716-4260-3_8</a> (OA).
     Type: Chapter
 - Year: 2023
   Items:
@@ -23,12 +24,6 @@
         Stage 1 IPA (in principle acceptance) of Version 3
       </a> by <i>Peer Community in Registered Reports</i>.
     Type: 'Registered Report'
-  - Citation: |-
-      Chatelain, Y., … Glatard, T. (2023).
-      A numerical variability approach to results stability tests and its application to neuroimaging,
-      <i>arXiv</i> 2307.01373.
-      doi:<a href="https://doi.org/10.48550/arXiv.2307.01373">10.48550/arXiv.2307.01373</a>.
-    Type: Preprint
 - Year: Before 2023
   Items:
   - Citation: |-
