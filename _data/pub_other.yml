@@ -1,6 +1,12 @@
 - Year: 2024
   Items:
   - Citation: |-
+      Provins, C.,  …  Esteban, O. (2024).
+      Defacing biases visual quality assessments of structural MRI,
+      Registered Report towards Stage 2 (under review).
+      doi:<a href="https://doi.org/10.1101/2024.10.11.617777">10.1101/2024.10.11.617777</a> (OA).
+    Type: Preprint
+  - Citation: |-
       Esteban, O. (2024).
       Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility, in
       <a href="https://link.springer.com/book/9781071642597">
@@ -12,16 +18,10 @@
       Barranco, J., … Bach-Cuadra, M. (2024).
       Eye-Opening Advances: Automated 3D Segmentation, Key Biomarkers Extraction, and the First Large-Scale MRI Eye Atlas.
       <i>bioRxiv</i> 2024.08.15.608051.
-      doi:<a href="https://doi.org/10.1101/2024.08.15.608051">10.1101/2024.08.15.608051</a>.
+      doi:<a href="https://doi.org/10.1101/2024.08.15.608051">10.1101/2024.08.15.608051</a> (OA).
     Type: Preprint
 - Year: 2023
   Items:
-  - Citation: |-
-      Provins, C.,  …  Esteban, O. (2024).
-      Defacing biases visual quality assessments of structural MRI,
-      Registered Report under review towards Stage 2
-      <a href="https://doi.org/10.1101/2024.10.11.617777">10.1101/2024.10.11.617777</a>
-    Type: Preprint
   - Citation: |-
       Provins, C.,  …  Esteban, O. (2023).
       Reliability characterization of MRI measurements for analyses of brain networks on a single human,
