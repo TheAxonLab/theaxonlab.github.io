@@ -1,3 +1,11 @@
+- Year: 2025
+  - Citation: |-
+      Esteban, O. (2025).
+      Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility. 
+      In: Whelan, R. & Lemaître, H. (eds) <i>Methods for analyzing large neuroimaging datasets</i>,
+      Neuromethods vol. 218, ch. 8, pp. 153–179, Humana New York, NY.
+      doi:<a href="https://doi.org/10.1007/978-1-0716-4260-3_8">10.1007/978-1-0716-4260-3_8</a> (OA).
+    Type: Chapter
 - Year: 2024
   Items:
   - Citation: |-
@@ -7,20 +15,12 @@
       doi:<a href="https://doi.org/10.1101/2024.10.11.617777">10.1101/2024.10.11.617777</a> (OA).
     Type: Preprint
   - Citation: |-
-      Esteban, O. (2024).
-      Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility, in
-      <a href="https://link.springer.com/book/9781071642597">
-      <i>Methods for analyzing large neuroimaging datasets</i></a>, <i>Neuromethods</i> series,
-      Chapter 8, Eds. Robert Whelan, Hervé Lemaître, Humana New York, NY.
-      doi:<a href="https://doi.org/10.1007/978-1-0716-4260-3_8">10.1007/978-1-0716-4260-3_8</a> (OA).
-    Type: Chapter
-  - Citation: |-
       Barranco, J., … Bach-Cuadra, M. (2024).
       Eye-Opening Advances: Automated 3D Segmentation, Key Biomarkers Extraction, and the First Large-Scale MRI Eye Atlas.
       <i>bioRxiv</i> 2024.08.15.608051.
       doi:<a href="https://doi.org/10.1101/2024.08.15.608051">10.1101/2024.08.15.608051</a> (OA).
     Type: Preprint
-- Year: 2023
+- Year: Before 2024
   Items:
   - Citation: |-
       Provins, C.,  …  Esteban, O. (2023).
@@ -36,8 +36,6 @@
         Stage 1 IPA (in principle acceptance) of Version 3
       </a> by <i>Peer Community in Registered Reports</i>.
     Type: 'Registered Report'
-- Year: Before 2023
-  Items:
   - Citation: |-
       Poldrack, R.A. & Esteban, O. (2022)
       Harnessing the multiverse of neuroimaging standard references.
