@@ -31,29 +31,34 @@
 - name: Céline Provins
   photo: provins.jpg
   email: celine.provins@unil.ch
-  title: Ph.D. Student (2021 - currently)
+  title: Postdoctoral Researcher (2025 - currently)
   education:
+    - Ph.D. in Neuroscience (2021 - 2025) University of Lausanne (Lausanne, Switzerland)
+    - 6 months research visit in Stanford University (CA, US)
     - M.Sc. (2018-2020) EPFL (Lausanne, Switzerland)
     - 1 year exchange Uppsala University (Sweden)
     - B.Sc. (2015-2017) EPFL (Lausanne, Switzerland)
   bio: |
-    Céline's background is in Physics.
-    In her master's, she gained plenty of experience in MRI research by
-    contributing to four projects, ranging from semi-automatic segmentation of knee calcifications
-    to analyzing recurrent brain co-activation patterns using clustering.
-    In her PhD, she is working 
-    on standardizing the quality control and the preprocessing of both structural and functional 
-    MRI data.
-    In particular, she is contributing to the development of easy-to-use toolboxes that automatize those processes. 
-    Examples of such toolboxes are [*MRIQC*](https://mriqc.readthedocs.io/) and [*fMRIPrep*](https://fmriprep.org).
-    She is also interested in supporting open science and reproducibility of MRI research.
-    Her further goal is to determine the optimal preprocessing flow by performing tests on one densely-acquired patient. 
-    This will enable to focus on the methodological variability by removing inter-subject variability.
-    On a third step, 
-    she will engage in bridging structure and function into a single framework and apply the methodology 
-    developed to the study of the integrative role of the Thalamus.
+    Throughout her PhD, Céline focused on characterizing and improving the reliability of brain connectivity estimates 
+      by addressing key sources of variability in MRI-based measurements. 
+    To mitigate the impact of methodological flexibility in neuroimaging pipelines, she contributed to standardizing 
+      quality assurance and quality control (QA/QC) procedures by developing a comprehensive QA/QC protocol that can be 
+      easily reused and adapted to other project needs. 
+    She also helped enhance MRIQC and fMRIPrep, widely used tools that standardize image preprocessing. 
+    Additionally, she investigated the impact of defacing on perceived image quality, demonstrating that QC procedures 
+      should ideally be performed before defacing to prevent biased assessments.
+
+    Céline also co-led the acquisition of the Human Connectome Phantom (HCPh) dataset, a large-scale initiative designed to 
+      systematically assess the reliability of functional and structural connectivity. 
+    By repeatedly scanning a single individual across multiple scanners, the dataset provides a unique opportunity to 
+      disentangle between-scanner and within-scanner variability in both functional and diffusion MRI. 
+    It also serves as a valuable resource for developing improved methods to remove non-neural signal fluctuations in fMRI.
+  
+    Now, as a postdoctoral researcher, Céline is finalizing the analysis of the HCPh dataset and preparing it for public 
+      sharing, further supporting the lab’s efforts to promote open science and reproducibility in MRI research. 
 
   links:
+    - '[Google Scholar](https://scholar.google.com/citations?user=sXWWF2MAAAAJ=en)'
     - '[ORCID](https://orcid.org/0000-0002-1668-9629)'
 
 - name: Elodie Savary
