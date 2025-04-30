@@ -1,3 +1,12 @@
+- Year: 2025
+  Items:
+  - Citations: 0
+    DOI: 10.1371/journal.pbio.3003149
+    Year: 2025
+    Citation: |-
+      Provins, C., … Esteban, O. (2025). Removing facial features from structural MRI images biases visual quality assessment
+      <i>PLOS Biology</i>.
+
 - Year: 2024
   Items:
   - Citations: 41
@@ -23,22 +32,7 @@
       A numerical variability approach to results stability tests and its application to neuroimaging,
       <i>IEEE Transactions on Computers</i> 1--10.
   
-- Year: 2023
-  Items:
-  - Citations: 44
-    DOI: 10.1038/s41593-023-01286-8
-    Year: 2023
-    Citation: |-
-      Grandjean, C., … Hess, A. (2023). A consensus protocol for functional connectivity analysis in the rat brain.
-      <i>Nature Neuroscience</i> 1-9.
-  - Citations: 11
-    DOI: 10.3389/fnimg.2022.1073734
-    Year: 2023
-    Citation: |-
-      Provins, C., … Esteban, O. (2023). Quality Control in functional MRI studies with MRIQC and fMRIPrep.
-      <i>Frontiers in Neuroimaging</i> 1:1073734.
-
-- Year: Before 2023
+- Year: Before 2024
   Items:
   - Citations: 2488
     DOI: 10.1038/s41592-018-0235-4
@@ -85,6 +79,12 @@
     Citation: >-
       Ciric, R., … Esteban, O. (2022). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
       <i>Nature Methods</i> 1-4.
+  - Citations: 44
+    DOI: 10.1038/s41593-023-01286-8
+    Year: 2023
+    Citation: |-
+      Grandjean, C., … Hess, A. (2023). A consensus protocol for functional connectivity analysis in the rat brain.
+      <i>Nature Neuroscience</i> 1-9.
   - Citations: 37
     DOI: 10.1016/j.neuron.2021.04.001
     Year: 2021
@@ -121,6 +121,12 @@
     Citation: >-
       Esteban, O., … Santos, A. (2016). Surface-driven registration method
       for the structure-informed segmentation of diffusion MR images. <i>NeuroImage</i>.
+  - Citations: 11
+    DOI: 10.3389/fnimg.2022.1073734
+    Year: 2023
+    Citation: |-
+      Provins, C., … Esteban, O. (2023). Quality Control in functional MRI studies with MRIQC and fMRIPrep.
+      <i>Frontiers in Neuroimaging</i> 1:1073734.
   - Citations: 10
     DOI: 10.3389/fninf.2021.669049
     Year: 2022
