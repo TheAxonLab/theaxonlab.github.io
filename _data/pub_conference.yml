@@ -1,3 +1,16 @@
+- Year: 2025
+  Items:
+  - DOI: 10.31234/osf.io/gfny9_v3
+    URL:
+    OA URL:
+    Citation: |-
+      Legarreta Gorroño, JH.,  …  Esteban, O. (2025).
+      An open implementation of FSL's eddy with volume-to-volume artifact estimation for neuroimaging
+      beyond diffusion MRI.
+      <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 34, 3252,
+      Honolulu, Hawaii, USA.
+      doi:<a href="https://doi.org/10.31234/osf.io/gfny9_v3">10.31234/osf.io/gfny9_v3 (preprint)</a>.
+      <em>(Winner in ISMRM Diffusion Study Group's Trainee Competition)</em>
 - Year: 2024
   Items:
   - DOI: 10.31219/osf.io/nuqs2
@@ -65,7 +78,7 @@
       QA/QC of the unprocessed anatomical, functional, and diffusion MRI data of the Human Connectome PHantom (HCPh) dataset with MRIQC.
       <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 33, 3001,
       Singapore, Singapore.
-- Year: 2023
+- Year: Before 2024
   Items:
   - DOI: 10.31219/osf.io/hnpyt
     URL:
@@ -136,7 +149,6 @@
       <i>ARVO Annual Meeting Abstract</i>
       in <i>Investigative Ophthalmology & Visual Science</i> 64(8):5039,
       New Orleans, LA, USA.
-- Year: Before 2023
   Items:
   - DOI: 10.31219/osf.io/8mcyz
     URL:
