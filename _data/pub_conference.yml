@@ -1,5 +1,22 @@
 - Year: 2025
   Items:
+  - DOI:
+    URL:
+    OA URL:
+    Citation: |-
+      Provins, C.,  …  Esteban, O. (2025).
+      Can Replaying a Movie Clip Reduce Variability in Single-Subject Resting-State fMRI?
+      <i>31th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, (accepted).
+      Brisbane, Australia.
+  - DOI: 10.31219/osf.io/6krp9_v1
+    URL:
+    OA URL:
+    Citation: |-
+      Garcia M., Provins, C. &amp; Esteban, O. (2025).
+      MRIQC IQM Variability and Artifact Prediction in Multi-Echo fMRI.
+      <i>31th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, (accepted).
+      Brisbane, Australia.
+      doi: <a href="https://doi.org/10.31219/osf.io/6krp9_v1">10.31219/osf.io/6krp9_v1 (preprint)</a>.
   - DOI: 10.31234/osf.io/gfny9_v3
     URL:
     OA URL:
