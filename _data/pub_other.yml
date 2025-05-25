@@ -5,8 +5,26 @@
       Esteban, O. (2025).
       Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility. 
       In: Whelan, R. & Lemaître, H. (eds) <i>Methods for analyzing large neuroimaging datasets</i>,
-      Neuromethods vol. 218, ch. 8, pp. 153–179, Humana New York, NY.
+      Neuromethods vol. 218, ch. 8, pp. 153-179, Humana New York, NY.
       doi:<a href="https://doi.org/10.1007/978-1-0716-4260-3_8">10.1007/978-1-0716-4260-3_8</a> (OA).
+  - Type: Preprint
+    Citation: |-
+      Goncalves, M., … Esteban, O. &amp; Fair, D. (2025).
+      fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging.
+      <i>bioRxiv</i> 2025.05.14.654069.
+      doi:<a href="https://doi.org/10.1101/2025.05.14.654069">10.1101/2025.05.14.654069</a> (OA).
+  - Type: Preprint
+    Citation: |-
+      de Riedmatten, I., … Esteban, O. &amp; Jelescu, IO. (2025).
+      Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions.
+      <i>bioRxiv</i> 2025.05.15.654237.
+      doi:<a href="https://doi.org/10.1101/2025.05.15.654237">10.1101/2025.05.15.654237</a> (OA).
+  - Type: Preprint
+    Citation: |-
+      Di Noto, T., <i>et al.</i> (2025).
+      Assessing workflow impact and clinical utility of AI-assisted brain aneurysm detection: a multi-reader study.
+      <i>arXiv</i> 2503.17786.
+      doi:<a href="https://doi.org/10.48550/arXiv.2503.17786">10.48550/arXiv.2503.17786</a> (OA).
 - Year: 2024
   Items:
   - Type: Preprint
