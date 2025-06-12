@@ -16,3 +16,11 @@ We investigate the neuroimaging workflow to map the brain's connectivity network
 
 The web site is based on code from [the Allan Lab](https://github.com/mpa139/allanlab). Contributions are welcome through pull requests and issues.
 
+
+## Development
+
+Use Ruby 3.4 or later. Install dependencies with:
+
+```bash
+bundle install
+```
