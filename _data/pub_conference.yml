@@ -154,7 +154,6 @@
     Citation: |-
       Barranco, J.,  …  Bach-Cuadra, M. (2023).
       A-Eye: Towards a large-scale MRI-based model of the complete eye.
-      <i>ARVO Imaging in the Eye Conference Abstract</i>
       in <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 32, pp. 3762.
       Toronto, Canada.
   - DOI:
@@ -175,6 +174,15 @@
       <i>ARVO Annual Meeting Abstract</i>
       in <i>Investigative Ophthalmology & Visual Science</i> 64(8):5039,
       New Orleans, LA, USA.
+  - DOI: 10.1007/978-3-031-45544-5_1
+    URL:
+    OA URL:
+    Citation: |-
+      Sanchez, T.,  …  Bach-Cuadra, M. (2023).
+      FetMRQC: Automated Quality Control for Fetal Brain MRI.
+      in <i>LNCS</i>, 14246:3-16, Springer, Cham.
+      <i>8th International Workshop on Preterm, Perinatal and Paediatric Image Analysis (MICCAI PIPPI)</i>,
+      Vancouver, Canada.
   - DOI: 10.31219/osf.io/8mcyz
     URL:
     OA URL:
