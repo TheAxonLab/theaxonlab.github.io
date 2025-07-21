@@ -215,9 +215,17 @@
     OA URL:
     Citation: |-
       Ciric, R.,  …  Poldrack, R. A. (2022).
-      Across the multiverse: differentiable programming for deep connectivity pipeline optimisation.
+      Differentiable programming for functional connectomics.
       <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh556.
       Glasgow, Scotland, UK.
+  - DOI: 10.48550/arXiv.2206.00649
+    URL: https://proceedings.mlr.press/v193/ciric22a.html
+    OA URL: https://proceedings.mlr.press/v193/ciric22a/ciric22a.pdf
+    Citation: |-
+      Ciric, R.,  …  Poldrack, R. A. (2022).
+      Across the multiverse: differentiable programming for deep connectivity pipeline optimisation.
+      <i>Proceedings of the 2nd Machine Learning for Health symposium</i>, 193:419-455.
+      New Orleans, Louisiana, USA.
   - DOI:
     URL:
     OA URL:
