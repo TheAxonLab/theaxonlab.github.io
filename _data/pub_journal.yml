@@ -6,8 +6,7 @@
     Citation: |-
       Provins, C., … Esteban, O. (2025). 
       Removing facial features from structural MRI images biases visual quality assessment.
-      <i>PLOS Biology</i>.
-      [<a href="https://doi.org/10.1101/2024.10.11.617777">preprint</a>].
+      <i>PLOS Biology</i> 23(4):e3003149.
   - Citations: 0
     DOI: 10.1093/cercor/bhaf190
     Year: 2025
@@ -22,6 +21,13 @@
       Lajous, H., … Bach-Cuadra, M. (2025).
       A dataset of synthetic, maturation-informed magnetic resonance images of the human fetal brain
       <i>Scientific Data</i> 12(1):602.
+  - Citations: 0
+    DOI: 10.1016/j.nicl.2025.103835
+    Year: 2025
+    Citation: |-
+      Di Noto, T., <i>et al.</i> (2025).
+      Assessing workflow impact and clinical utility of AI-assisted brain aneurysm detection: a multi-reader study.
+      <i>NeuroImage Clin</i> 47:103835.
 
 - Year: 2024
   Items:
