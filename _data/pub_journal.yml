@@ -1,6 +1,6 @@
 - Year: 2025
   Items:
-  - Citations: 0
+  - Citations: 9
     DOI: 10.1371/journal.pbio.3003149
     Year: 2025
     Citation: |-
@@ -8,6 +8,13 @@
       Removing facial features from structural MRI images biases visual quality assessment.
       <i>PLOS Biology</i>.
       [<a href="https://doi.org/10.1101/2024.10.11.617777">preprint</a>].
+  - Citations: 0
+    DOI: 10.1093/cercor/bhaf190
+    Year: 2025
+    Citation: |-
+      Provins, C., … Siffredi, V. (2025).
+      Structural mediation of the default mode network in children with callosal agenesis.
+      <i>Cereb Cortex</i> 35(1):bhaf190.
   - Citations: 0
     DOI: 10.1038/s41597-025-04926-9
     Year: 2025
@@ -40,6 +47,13 @@
       Chatelain, Y., … Glatard, T. (2024).
       A numerical variability approach to results stability tests and its application to neuroimaging,
       <i>IEEE Transactions on Computers</i> 1--10.
+  - Citations: 36
+    DOI: 10.1162/imag_a_00103
+    Year: 2024
+    Citation: |-
+      Poldrack, RA., … Gorgolewski, K. J. (2024).
+      The past, present, and future of the brain imaging data structure (BIDS).
+      <i>Imag Neurosci</i> 2: 1-19.
   
 - Year: Before 2024
   Items:
