@@ -29,7 +29,7 @@ Journal publications
 <td>
 {{ entry.Citation }}
 doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>.
-{% if entry.OA and entry.OA is True %}(OA).
+{% if entry.OA and entry.OA is sameas true %}(OA).
 {% elif entry.OA %}
 (<a href="{{ entry.OA }}">OA</a>).
 {% endif %}
