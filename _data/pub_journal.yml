@@ -36,7 +36,7 @@
   Items:
   - Citations: 41
     DOI: 10.1038/s41562-024-01942-4
-    OA: 10.1101/2021.12.01.470790
+    OA: https://doi.org/10.1101/2021.12.01.470790
     Year: 2024
     Citation: |-
       Li, X., … Milham, M.P. (2024)
@@ -45,6 +45,7 @@
   - Citations: 1
     DOI: 10.1016/j.media.2024.103282
     Year: 2024
+    OA: True
     Citation: |-
       Sanchez, T., Esteban, O. … Bach-Cuadra, M. (2024). FetMRQC: A robust quality control system for multi-centric fetal brain MRI
       <i>Medical Image Analysis</i> 97:103282.
@@ -59,6 +60,7 @@
   - Citations: 36
     DOI: 10.1162/imag_a_00103
     Year: 2024
+    OA: True
     Citation: |-
       Poldrack, RA., … Gorgolewski, K. J. (2024).
       The past, present, and future of the brain imaging data structure (BIDS).
@@ -77,6 +79,7 @@
   - Citations: 761
     DOI: 10.1371/journal.pone.0184661
     Year: 2017
+    OA: True
     Citation: >-
       Esteban, O., … Gorgolewski, K. J. (2017).
       MRIQC: Advancing the automatic prediction of image
@@ -84,6 +87,7 @@
   - Citations: 224
     DOI: 10.7554/eLife.71774
     Year: 2021
+    OA: True
     Citation: >-
       Markiewicz, C. J., … Poldrack, R. (2021). The OpenNeuro resource for
       sharing of neuroscience data. <i>eLife</i>.
@@ -96,11 +100,13 @@
       data preprocessed with fMRIPrep. <i>Nature Protocols</i>.
   - Citations: 64
     DOI: 10.1016/j.neuroimage.2022.119623
+    OA: True
     Citation: >-
       Niso, G., … Rieger, J. W. (2022). Open and reproducible neuroimaging:
       from study inception to publication. <i>NeuroImage</i> 119623.
   - Citations: 58
     DOI: 10.1038/s41597-019-0035-4
+    OA: True
     Year: 2019
     Citation: >-
       Esteban, O., … Gorgolewski, K. J. (2019). Crowdsourced MRI quality metrics
@@ -108,6 +114,7 @@
       Data</i>.
   - Citations: 48
     DOI: 10.1038/s41592-022-01681-2
+    OA: True
     Citation: >-
       Ciric, R., … Esteban, O. (2022). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
       <i>Nature Methods</i> 1-4.
@@ -126,6 +133,7 @@
       community-driven neuroscience. <i>Neuron</i>.
   - Citations: 28
     DOI: 10.1093/gigascience/giab051
+    OA: True
     Year: 2021
     Citation: >-
       Levitis, E., … Maumet, C. (2021).
@@ -142,6 +150,7 @@
   - Citations: 21
     DOI: 10.1007/s12021-022-09597-0
     Year: 2022
+    OA: True
     Citation: >-
       Di Noto, T., … Richiardi, J.
       Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels,
@@ -156,12 +165,14 @@
   - Citations: 11
     DOI: 10.3389/fnimg.2022.1073734
     Year: 2023
+    OA: True
     Citation: |-
       Provins, C., … Esteban, O. (2023). Quality Control in functional MRI studies with MRIQC and fMRIPrep.
       <i>Frontiers in Neuroimaging</i> 1:1073734.
   - Citations: 10
     DOI: 10.3389/fninf.2021.669049
     Year: 2022
+    OA: True
     Citation: >-
       MacNicol, E., … Cash, D. (2022).
       Age-Specific Adult Rat Brain MRI Templates and Tissue Probability Maps.
@@ -175,6 +186,7 @@
   - Citations: 1
     DOI: 10.21105/joss.03459
     Year: 2021
+    OA: True
     Citation: >-
       Goncalves, M., … Esteban, O.
       (2021). NiTransforms: A Python tool to read, represent, manipulate,
