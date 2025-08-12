@@ -28,9 +28,10 @@ Journal publications
 <tr class="small">
 <td>
 {{ entry.Citation }}
-doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>{% if entry.OA %}{% else %} (OA){% endif %}.
-{% if entry.OA %}
-<a href="{{ entry.OA }}">OA</a>.
+doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>.
+{% if entry.OA and entry.OA is True %}(OA).
+{% elif entry.OA %}
+(<a href="{{ entry.OA }}">OA</a>).
 {% endif %}
 </td>
 <td style="text-align:right">
