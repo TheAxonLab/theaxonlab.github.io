@@ -24,3 +24,7 @@ Use Ruby 3.4 or later. Install dependencies with:
 ```bash
 bundle install
 ```
+
+## Deployment
+
+The site is built and deployed with a [GitHub Actions](https://github.com/features/actions) workflow defined in `.github/workflows/jekyll.yml`. It builds the site for every commit and pull request, and publishes the generated site to GitHub Pages when changes land on `main`.
