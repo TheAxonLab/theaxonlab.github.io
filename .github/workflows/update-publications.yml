@@ -30,7 +30,7 @@ jobs:
           mv /tmp/publications_index/pub_journal.yml /tmp/publications_index/publications_database.yml
 
       - name: Install Python dependencies
-        run: pip install pyyaml
+        run: pip install -r scripts/requirements.txt
 
       - name: Update data files
         run: |
