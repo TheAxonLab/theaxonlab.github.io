@@ -27,4 +27,4 @@ bundle install
 
 ## Deployment
 
-The site is built and deployed with a [GitHub Actions](https://github.com/features/actions) workflow defined in `.github/workflows/jekyll.yml`. It installs dependencies, runs `jekyll build`, and publishes the generated site to GitHub Pages on each push to `main`.
+The site is built and deployed with a [GitHub Actions](https://github.com/features/actions) workflow defined in `.github/workflows/jekyll.yml`. It builds the site for every commit and pull request, and publishes the generated site to GitHub Pages when changes land on `main`.
