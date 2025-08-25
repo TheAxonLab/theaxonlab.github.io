@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 import sys
-import yaml
-from collections import defaultdict, OrderedDict
+from datetime import date
+from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import LiteralScalarString
+
+
+yaml = YAML()
+yaml.default_flow_style = False
+yaml.allow_unicode = True
+yaml.boolean_representation = ['False', 'True']
 
 def short_authors(authors):
     """Return shortened author list: first, … last."""
@@ -75,43 +82,38 @@ def other_citation(e):
     citation += "."
     return citation
 
-def group_by_year(entries):
-    grouped = defaultdict(list)
+def group_entries(entries):
+    """Return entries split into current, previous, and before previous year."""
+    current = date.today().year
+    previous = current - 1
+    groups = {current: [], previous: [], f"Before {previous}": []}
     for e in entries:
-        year = e.get('Year')
         try:
-            year = int(year)
+            year = int(e.get('Year'))
         except Exception:
-            pass
-        grouped[year].append(e)
-    return OrderedDict(sorted(grouped.items(), key=lambda x: x[0], reverse=True))
-
-class LiteralDumper(yaml.SafeDumper):
-    pass
-
-def str_presenter(dumper, data):
-    if '\n' in data:
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-    return dumper.represent_scalar('tag:yaml.org,2002:str', data)
-
-LiteralDumper.add_representer(str, str_presenter)
-
-def bool_presenter(dumper, data):
-    return dumper.represent_scalar('tag:yaml.org,2002:bool', 'True' if data else 'False')
-
-LiteralDumper.add_representer(bool, bool_presenter)
+            continue
+        if year == current:
+            groups[current].append(e)
+        elif year == previous:
+            groups[previous].append(e)
+        else:
+            groups[f"Before {previous}"].append(e)
+    for items in groups.values():
+        items.sort(key=lambda x: int(x.get('Citations') or 0), reverse=True)
+    order = [current, previous, f"Before {previous}"]
+    return [(label, groups[label]) for label in order if groups[label]]
 
 def write_articles(entries, path):
-    years = group_by_year(entries)
+    sections = group_entries(entries)
     out = []
-    for year, items in years.items():
+    for label, items in sections:
         year_items = []
         for e in items:
             item = {
                 'Citations': e.get('Citations', ''),
                 'DOI': e.get('DOI', ''),
                 'Year': e.get('Year'),
-                'Citation': article_citation(e),
+                'Citation': LiteralScalarString(article_citation(e)),
             }
             oa_url = e.get('OA URL')
             if oa_url:
@@ -119,45 +121,47 @@ def write_articles(entries, path):
             elif e.get('OA'):
                 item['OA'] = True
             year_items.append(item)
-        out.append({'Year': year, 'Items': year_items})
+        out.append({'Year': label, 'Items': year_items})
     with open(path, 'w') as f:
-        yaml.dump(out, f, Dumper=LiteralDumper, sort_keys=False, allow_unicode=True)
+        yaml.dump(out, f)
+
 
 def write_conferences(entries, path):
-    years = group_by_year(entries)
+    sections = group_entries(entries)
     out = []
-    for year, items in years.items():
+    for label, items in sections:
         year_items = []
         for e in items:
             item = {
                 'DOI': e.get('DOI', '') or '',
                 'URL': e.get('URL', '') or '',
                 'OA URL': e.get('OA URL', '') or '',
-                'Citation': conference_citation(e),
+                'Citation': LiteralScalarString(conference_citation(e)),
             }
             year_items.append(item)
-        out.append({'Year': year, 'Items': year_items})
+        out.append({'Year': label, 'Items': year_items})
     with open(path, 'w') as f:
-        yaml.dump(out, f, Dumper=LiteralDumper, sort_keys=False, allow_unicode=True)
+        yaml.dump(out, f)
+
 
 def write_others(entries, path):
-    years = group_by_year(entries)
+    sections = group_entries(entries)
     out = []
-    for year, items in years.items():
+    for label, items in sections:
         year_items = []
         for e in items:
             item = {
-                'Type': e.get('Type', ''),
-                'Citation': other_citation(e),
+                'Type': e.get('Type', '').title(),
+                'Citation': LiteralScalarString(other_citation(e)),
             }
             year_items.append(item)
-        out.append({'Year': year, 'Items': year_items})
+        out.append({'Year': label, 'Items': year_items})
     with open(path, 'w') as f:
-        yaml.dump(out, f, Dumper=LiteralDumper, sort_keys=False, allow_unicode=True)
+        yaml.dump(out, f)
 
 def main(src, outdir):
     with open(src) as f:
-        data = yaml.safe_load(f)
+        data = yaml.load(f)
     articles, conferences, others = [], [], []
     for e in data:
         t = e.get('Type', '').lower()
