@@ -51,6 +51,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 </div>
 
+{% if member.bio %}
+<p><small>{{ member.bio }}</small></p>
+{% endif %}
 {% if member.education %}
 <ul style="overflow: hidden">
 {% for edu_item in member.education %}
@@ -90,7 +93,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="card mb-3 border-0">
 <div class="row g-0">
 <div class="col-md-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid rounded-start" alt="{{ member.name }}">
 </div>
 <div class="col-md-8">
 <div class="card-body">
@@ -130,6 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 
 ## Our closest collaborators
 
