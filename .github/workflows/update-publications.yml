@@ -1,0 +1,48 @@
+name: Update publication data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.PUBLICATIONS_INDEX_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+      - name: Clone publications index
+        run: |
+          git clone --depth 1 --branch master git@github.com:oesteban/publications_index.git /tmp/publications_index
+          mv /tmp/publications_index/pub_journal.yml /tmp/publications_index/publications_database.yml
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Update data files
+        run: |
+          python scripts/update_publications.py /tmp/publications_index/publications_database.yml _data
+
+      - name: Commit and push changes
+        run: |
+          if [ -n "$(git status --porcelain _data/pub_journal.yml _data/pub_conference.yml _data/pub_other.yml)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: update publications data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
