@@ -5,25 +5,55 @@
     - Postdoc (2015-2020) Stanford University (CA, US)
     - BEng. + MSc. (2009), MSc. (2010), PhD. (2015) Technical University of Madrid (Madrid, Spain)
   title: Associate UAS Professor
-  bio: |
-    Oscar Esteban is an Associate UAS Professor at the School of Engineering,
-    HES-SO University of Applied Sciences and Arts Western Switzerland.
-    Oscar's research aims at pushing the boundaries of human and nonhuman neuroimaging
-    —magnetic resonance imaging (MRI) most often,— and by that, help other researchers
-    advance our understanding of the brain.
-    In more specific terms, Oscar is currently developing tools that cater to researchers
-    with “analysis-grade” data (see [www.nipreps.org](https://www.nipreps.org) for more on
-    this concept,) so they can focus on statistical modeling and inference.
-    Perhaps, the flagship of these tools is [*fMRIPrep*](https://fmriprep.org).
-    Oscar actively investigates the reliability and validity of diffusion and functional MRI
-    measurements.
-    As a fundamental step of the neuroimaging workflow, Oscar wants to improve the computational
-    reproducibility of our results and minimize this methodological variability in the preprocessing
-    step by standardizing workflows and reaching consensus implementations.
-    In the longer term, Oscar's vision is to contribute to uncovering the interplay of structure,
-    function, and dynamics of brain connectivity using MRI.
+  bio: |-
+    Oscar Esteban is an [Associate Professor](https://people.hes-so.ch/en/profile/11550212653-oscar-esteban)
+    at the School of Engineering, HES-SO Valais-Wallis, 
+    and a long-standing advocate for open and reproducible neuroimaging.
+    He leads the AxonLab, which develops open, analysis-grade neuroimaging
+    infrastructure to make human and nonhuman MRI applications more reliable,
+    comparable, and easier to share. He is best known as a founder and co-lead
+    developer of the NiPreps ecosystem ([www.nipreps.org](https://www.nipreps.org)),
+    including tools such as *fMRIPrep*, *MRIQC*, and *TemplateFlow*, which
+    have become standard components of many neuroimaging workflows
+    and embody FAIR and open-science principles.
+  
+    His research programme focuses on the reliability and interpretability of
+    MRI-based measures of brain connectivity across structural, functional, and
+    diffusion MRI, and on integrating MRI with positron emission tomography
+    (PET), with a long-term vision of uncovering the interplay of structure,
+    function, and dynamics using neuroimaging. Through the [Human Connectome
+    PHantom (HCPh) study](https://www.axonlab.org/hcph-sops) and other 
+    dense-sampling paradigms, his group uses repeated multi-session MRI
+    to characterise measurement variability, calibrate quality assessment
+    and preprocessing pipelines, and benchmark connectivity metrics.
+    Methodologically, the AxonLab operates at the interface of neurocomputing,
+    neuroimaging, and neuroinformatics, treating analysis workflows as modular,
+    optimizable software systems and exploring machine-learning and
+    differentiable programming approaches to build adaptive preprocessing
+    and QA/QC pipelines that remain transparent and reproducible,
+    with an emphasis on standardizing workflows and reaching
+    consensus implementations that reduce methodological variability.
+  
+    At HES-SO Valais-Wallis he contributes to Bachelor and Master teaching at
+    the interface of neuroimaging, data science, and artificial intelligence,
+    bringing real-world open-source tools and datasets into the classroom. He
+    also serves as Secretary-Elect of the Organization for Human Brain Mapping
+    (OHBM), sits on the Editorial Board of Scientific Data, is a Special Editor
+    for Registered Reports at Aperture Neuro, and is a working group member of
+    COST Action CA24161 “Improving Neuroimaging Data for Sharing (INDoS).” As
+    part of his commitment to community standards, he is an active contributor
+    to the Brain Imaging Data Structure (BIDS) and related initiatives.
+  
+    Through these software, standards, and service activities, Oscar works to
+    advance an open-science ecosystem for neuroimaging that couples robust,
+    standardised QA/QC procedures with interoperable data formats and
+    ethically grounded data governance. His goal is to enable reliable reuse
+    of neuroimaging data across studies, sites, and modalities, so that
+    methodological advances translate into more trustworthy inferences about
+    brain organisation and function.
 
   links:
-    - '[Google Scholar](https://scholar.google.ch/citations?user=sipSQH8AAAAJ&hl=en)'
+    - '[Google Scholar](https://scholar.google.com/citations?user=sipSQH8AAAAJ)'
     - '[ORCID](https://orcid.org/0000-0001-8435-6191)'
     - '[Publons](https://publons.com/researcher/311253)'
+    - '[PCI-RR Recommender](https://rr.peercommunityin.org/PCIRegisteredReports/public/user_public_page?userId=1525)'
