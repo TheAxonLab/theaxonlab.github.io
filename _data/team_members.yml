@@ -11,9 +11,10 @@
     and a long-standing advocate for open and reproducible neuroimaging.
     He leads the AxonLab, which develops open, analysis-grade neuroimaging
     infrastructure to make human and nonhuman MRI applications more reliable,
-    comparable, and easier to share. He is best known as a founder and co-lead
+    comparable and easier to share. He is best known as a founder and co-lead
     developer of the NiPreps ecosystem ([www.nipreps.org](https://www.nipreps.org)),
-    including tools such as *fMRIPrep*, *MRIQC*, and *TemplateFlow*, which
+    including tools such as *fMRIPrep*, *MRIQC*, and
+    [*TemplateFlow*](https://www.templateflow.org), which
     have become standard components of many neuroimaging workflows
     and embody FAIR and open-science principles.
   
@@ -34,23 +35,25 @@
     with an emphasis on standardizing workflows and reaching
     consensus implementations that reduce methodological variability.
   
-    At HES-SO Valais-Wallis he contributes to Bachelor and Master teaching at
+    At HES-SO Valais-Wallis, he contributes to Bachelor's and Master's teaching at
     the interface of neuroimaging, data science, and artificial intelligence,
     bringing real-world open-source tools and datasets into the classroom. He
     also serves as Secretary-Elect of the Organization for Human Brain Mapping
-    (OHBM), sits on the Editorial Board of Scientific Data, is a Special Editor
-    for Registered Reports at Aperture Neuro, and is a working group member of
-    COST Action CA24161 “Improving Neuroimaging Data for Sharing (INDoS).” As
-    part of his commitment to community standards, he is an active contributor
-    to the Brain Imaging Data Structure (BIDS) and related initiatives.
+    (OHBM), is an Editorial Board Member of Scientific Data, will initiate
+    a Registered Reports track at Aperture Neuro as Special Editor in 2026,
+    and is a working group member of *INDoS* (*Improving Neuroimaging Data for Sharing*;
+    [COST Action CA24161](https://www.cost.eu/actions/CA24161/)).
+    As part of his commitment to community standards, he is an active contributor
+    to the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io/)
+    and related initiatives.
   
     Through these software, standards, and service activities, Oscar works to
     advance an open-science ecosystem for neuroimaging that couples robust,
-    standardised QA/QC procedures with interoperable data formats and
+    standardized QA/QC procedures with interoperable data formats and
     ethically grounded data governance. His goal is to enable reliable reuse
     of neuroimaging data across studies, sites, and modalities, so that
     methodological advances translate into more trustworthy inferences about
-    brain organisation and function.
+    brain organization and function.
 
   links:
     - '[Google Scholar](https://scholar.google.com/citations?user=sipSQH8AAAAJ)'
