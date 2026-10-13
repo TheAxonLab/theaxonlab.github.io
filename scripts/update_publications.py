@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import os
 import sys
 from datetime import date
 from ruamel.yaml import YAML
@@ -165,15 +166,39 @@ def write_conferences(entries, path):
         yaml.dump(out, f)
 
 
-def write_others(entries, path):
-    sections = group_entries(entries)
+def talk_citation(t):
+    citation = (
+        f"{short_authors(t.get('Speakers', []))} ({t.get('Year')}).\n"
+        f"      {t.get('Title')}\n"
+        f"      <i>{t.get('Event')}</i>"
+    )
+    if t.get('Place'):
+        citation += f", {t['Place']}"
+    citation += "."
+    return citation
+
+
+def load_talks(path):
+    """Return the hand-maintained talks, newest first (empty if the file is missing)."""
+    if not os.path.exists(path):
+        return []
+    with open(path) as f:
+        talks = yaml.load(f) or []
+    return sorted(talks, key=lambda t: str(t.get('Date') or t.get('Year')), reverse=True)
+
+
+def write_others(entries, path, talks=()):
+    # Talks follow the publications of their year group (the sort in
+    # group_entries is stable and talks carry no citation counts).
+    sections = group_entries(list(entries) + [dict(t, _talk=True) for t in talks])
     out = []
     for label, items in sections:
         year_items = []
         for e in items:
+            is_talk = e.get('_talk', False)
             item = {
-                'Type': (e.get('Type') or '').title(),
-                'Citation': LiteralScalarString(other_citation(e)),
+                'Type': (e.get('Kind') or 'Talk') if is_talk else (e.get('Type') or '').title(),
+                'Citation': LiteralScalarString(talk_citation(e) if is_talk else other_citation(e)),
                 **link_fields(e),
             }
             year_items.append(item)
@@ -197,7 +222,7 @@ def main(src, outdir):
             others.append(e)
     write_articles(articles, f"{outdir}/pub_journal.yml")
     write_conferences(conferences, f"{outdir}/pub_conference.yml")
-    write_others(others, f"{outdir}/pub_other.yml")
+    write_others(others, f"{outdir}/pub_other.yml", load_talks(f"{outdir}/talks.yml"))
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:

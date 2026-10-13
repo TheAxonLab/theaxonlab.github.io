@@ -1,0 +1,211 @@
+# Talks by lab members, from 2021 onward. Maintained by hand.
+#
+# scripts/update_publications.py merges these entries into _data/pub_other.yml
+# ("Other outputs"), so edit this file, never pub_other.yml. Contributed
+# conference talks belong in the publication index (Conference communications)
+# instead.
+#
+# Fields: Speakers (quoted "Last, First" strings), Year, Date (YYYY-MM or YYYY-MM-DD; sorts
+# talks within a year group), Kind (shown in the Type column: Invited talk,
+# Seminar, Tutorial, Educational course, Workshop, Panel), Title, Event,
+# Place (optional), Presentation (slides URL, optional), URL (optional).
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-06-15
+  Kind: Panel
+  Title: Welcome to the buffet of Open Science (Table Talk 1)
+  Event: OHBM 2026 Open Science Room
+  Place: Bordeaux, France
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-06-14
+  Kind: Educational course
+  Title: Better / faster coding with LLMs - and pitfalls warnings
+  Event: "OHBM 2026 Educational Course: Using Large Language Models (LLMs) in Neuroimaging Research"
+  Place: Bordeaux, France
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-05-10
+  Kind: Invited talk
+  Title: "Functional MRI Data Analysis Pipelines: Five rules from preprocessing to reproducibility"
+  Event: "ISMRM-ISMRT 2026 Annual Meeting, Weekend Course: Analysis Pipelines: Demos"
+  Place: Cape Town, South Africa
+  Presentation: https://oesteban.github.io/talks/20260510-ISMRM/
+  URL: https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/78
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-04-20
+  Kind: Seminar
+  Title: "Open, Reliable & Repeatable: Standardizing neuroimaging preprocessing for the age of large-scale brain research"
+  Event: Rotman Rounds, Rotman Research Institute (Baycrest)
+  Presentation: https://oesteban.github.io/talks/20260420-RRI/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-02-10
+  Kind: Seminar
+  Title: "Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses"
+  Event: HEVS-HEI Coffee and Science
+  Place: Sion, Switzerland
+  Presentation: https://oesteban.github.io/talks/20260210-ISC/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2025
+  Date: 2025-12
+  Kind: Invited talk
+  Title: "Analysis-Grade MRI at Scale: the NiPreps experience"
+  Event: ESMRMB MRI Together 2025
+  Place: Online
+  Presentation: https://www.nipreps.org/presentations/2025-MRITogether/index.html
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2025
+  Date: 2025-10
+  Kind: Workshop
+  Title: "Microstructure workshop: Preprocessing & pipelines"
+  Event: ESMRMB 2025 Annual Meeting
+  Place: Marseille, France
+  Presentation: https://www.nipreps.org/presentations/2025-esmrmb/index.html
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2025
+  Date: 2025-09
+  Kind: Invited talk
+  Title: "Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses"
+  Event: Neuroimaging Methods Symposium (NEMES)
+  Place: Göteborg, Sweden
+  Presentation: https://oesteban.github.io/talks/202509-NEMES-GU/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2025
+  Date: 2025-08-20
+  Kind: Seminar
+  Title: Brain MRI connectivity in the clinic... a standing promise?
+  Event: MEDGIFT Meeting
+  Place: Sierre, Switzerland
+  Presentation: https://oesteban.github.io/talks/20250820-medgift/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2025
+  Date: 2025-04
+  Kind: Seminar
+  Title: "Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses"
+  Event: UCL i4health CDT Seminar
+  Place: London, United Kingdom
+  Presentation: https://oesteban.github.io/talks/202504-CDT-UCL/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2024
+  Date: 2024-12
+  Kind: Seminar
+  Title: "Analytical variability in computational neuroscience: the next challenge?"
+  Event: Neuroimaging Methods Club, Department of Psychiatry and Behavioral Health, Ohio State University
+  Place: Columbus, OH, USA
+  Presentation: https://oesteban.github.io/talks/202412-OSU/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2024
+  Date: 2024-11
+  Kind: Seminar
+  Title: "Repeatable Research: Don't Repeat History Fishing for Dead Salmons"
+  Event: Mat-TechLab Seminar
+  Place: Sion, Switzerland
+  Presentation: https://oesteban.github.io/talks/202411-Mat-TechLab/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2024
+  Date: 2024-09
+  Kind: Seminar
+  Title: "Repeatable Research: Don't Repeat History Fishing for Dead Salmons"
+  Event: CIBM Breakfast and Science
+  Place: Geneva, Switzerland
+  Presentation: https://oesteban.github.io/talks/202409-CIBM-BnS/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2024
+  Date: 2024-07
+  Kind: Workshop
+  Title: QC or not QC
+  Event: INCF Data Engineering Workshop 2024
+  Place: Online
+  Presentation: https://oesteban.github.io/talks/202407-DataEngWorkshop/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2024
+  Date: 2024-03
+  Kind: Invited talk
+  Title: Imaging Data and Transforms
+  Event: DIPY Workshop 2024
+  Place: Online
+  Presentation: https://oesteban.github.io/talks/202403-DIPY/
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2023
+  Date: 2023-11
+  Kind: Invited talk
+  Title: Pre-registering methods-oriented neuroimaging research, why, when, and how?
+  Event: BrainHack Donostia 2023
+  Place: San Sebastián, Spain
+  Presentation: https://oesteban.github.io/talks/202311-BHD/
+
+- Speakers: ["Provins, Céline"]
+  Year: 2023
+  Date: 2023-07
+  Kind: Educational course
+  Title: Quality control in functional MRI studies with MRIQC and fMRIPrep
+  Event: "OHBM 2023 Educational Course: Making Quality Control Part of Your Analysis: Learning with the FMRI Open QC Project"
+  Place: Montréal, Canada
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2022
+  Date: 2022-11
+  Kind: Invited talk
+  Title: The NiPreps Community Unconference
+  Event: BrainHack Donostia 2022
+  Place: San Sebastián, Spain
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2022
+  Date: 2022-06
+  Kind: Educational course
+  Title: An Introduction to Methods for Analyzing Large Neuroimaging Datasets
+  Event: OHBM 2022 Educational Course
+  Place: Glasgow, United Kingdom
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2022
+  Date: 2022-05
+  Kind: Tutorial
+  Title: Hands-on quality control of human and preclinical MRI data
+  Event: ISMRM 2022 Member-Initiated Tutorial
+  Place: London, United Kingdom
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2021
+  Date: 2021-11
+  Kind: Invited talk
+  Title: Building the NiPreps community
+  Event: BrainHack Donostia 2021
+  Place: San Sebastián, Spain
+  Presentation: https://oesteban.github.io/bhd2021
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2021
+  Date: 2021-06
+  Kind: Panel
+  Title: The future of open tools/technologies
+  Event: OHBM 2021 Open Science Room
+  Place: Online
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2021
+  Date: 2021-04
+  Kind: Tutorial
+  Title: Implementing a head-motion correction algorithm for diffusion MRI
+  Event: ISBI 2021
+  Place: Online
+  URL: https://nipreps.org/nipreps-book
