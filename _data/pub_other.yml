@@ -1,69 +1,56 @@
+- Year: 2026
+  Items:
+  - Type: Chapter
+    Citation: |-
+      Fischi-Gómez, E., … Esteban, O. (2026).
+            Diffusion Weighted Imaging: Principles and Applications
+            <i>Research Methods for Biological Psychology</i> 236:309-342.
+  - Type: Preprint
+    Citation: |-
+      Szinte, M., … Pfarr, J. (2026).
+            Eye-Tracking-BIDS: the Brain Imaging Data Structure extended to gaze position and pupil data
+            <i>bioRxiv</i> (under revision at Scientific Data).
 - Year: 2025
   Items:
-  - Type: Thesis
-    Citation: |-
-      Provins, C. (2025).
-      Characterizing and Improving the Reliability of Brain Connectivity Extracted with Magnetic Resonance Imaging.
-      (Publication no. BIB_FBD11F2EF9B5.P002) [Doctoral dissertation, University of Lausanne]
-      IRIS UNIL. <a href="https://iris.unil.ch/handle/iris/252793">https://iris.unil.ch/handle/iris/252793</a> (OA).
   - Type: Chapter
     Citation: |-
       Esteban, O. (2025).
-      Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility. 
-      In: Whelan, R. & Lemaître, H. (eds) <i>Methods for analyzing large neuroimaging datasets</i>,
-      Neuromethods vol. 218, ch. 8, pp. 153-179, Humana New York, NY.
-      doi:<a href="https://doi.org/10.1007/978-1-0716-4260-3_8">10.1007/978-1-0716-4260-3_8</a> (OA).
-  - Type: Preprint
+            Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility
+            <i>Methods for Analyzing Large Neuroimaging Datasets</i> 218:153-179.
+  - Type: Thesis
     Citation: |-
-      Goncalves, M., … Esteban, O. &amp; Fair, D. (2025).
-      fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging.
-      <i>bioRxiv</i> 2025.05.14.654069.
-      doi:<a href="https://doi.org/10.1101/2025.05.14.654069">10.1101/2025.05.14.654069</a> (OA).
-  - Type: Preprint
-    Citation: |-
-      de Riedmatten, I., … Esteban, O. &amp; Jelescu, IO. (2025).
-      Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions.
-      <i>bioRxiv</i> 2025.05.15.654237.
-      doi:<a href="https://doi.org/10.1101/2025.05.15.654237">10.1101/2025.05.15.654237</a> (OA).
-- Year: 2024
+      Provins, C. (2025).
+            Characterizing and Improving the Reliability of Brain Connectivity extracted with Magnetic Resonance Imaging
+            <i>UNIL</i>.
+- Year: Before 2025
   Items:
+  - Type: Feature
+    Citation: |-
+      Esteban, O., … Poldrack, R.A. (2022).
+            Harnessing the multiverse of neuroimaging standard references
+            <i>Nat Methods</i> 19:1526-1527.
   - Type: Preprint
     Citation: |-
-      Hagen, M.P.,  …  Esteban, O. (2024).
-      Quality assessment and control of unprocessed anatomical, functional, and diffusion MRI of the human brain using MRIQC
-      <i>bioRxiv</i> 2024.10.21.619532.
-      doi:<a href="https://doi.org/10.1101/2024.10.21.619532">10.1101/2024.10.21.619532</a> (OA).
+      Bansal, S., … Esteban, O. (2021).
+            High-sensitivity detection of facial features on MRI brain scans with a convolutional network
+            <i>bioRxiv</i>.
   - Type: Preprint
     Citation: |-
-      Barranco, J., … Bach-Cuadra, M. (2024).
-      Eye-Opening Advances: Automated 3D Segmentation, Key Biomarkers Extraction, and the First Large-Scale MRI Eye Atlas.
-      <i>bioRxiv</i> 2024.08.15.608051.
-      doi:<a href="https://doi.org/10.1101/2024.08.15.608051">10.1101/2024.08.15.608051</a> (OA).
-- Year: Before 2024
-  Items:
-  - Citation: |-
-      Provins, C.,  …  Esteban, O. (2023).
-      Reliability characterization of MRI measurements for analyses of brain networks on a single human,
-      <a href="https://doi.org/10.6084/m9.figshare.19579873.v1">
-        Stage 1 AIP (acceptance in principle)
-      </a> by <i>Nature Methods</i>.
-    Type: 'Registered Report'
-  - Citation: |-
-      Provins, C.,  …  Esteban, O. (2023).
-      Defacing biases in manual and automated quality assessments of structural MRI with MRIQC,
-      <a href="https://rr.peercommunityin.org/articles/rec?id=346">
-        Stage 1 IPA (in principle acceptance) of Version 3
-      </a> by <i>Peer Community in Registered Reports</i>.
-    Type: 'Registered Report'
-  - Citation: |-
-      Poldrack, R.A. & Esteban, O. (2022)
-      Harnessing the multiverse of neuroimaging standard references.
-      <i>Nat Methods</i> 19, 1526–1527.
-      doi:<a href="https://doi.org/10.1038/s41592-022-01682-1">10.1038/s41592-022-01682-1</a>.
-    Type: Feature
-  - Citation: |-
-      Bansal, S., … Esteban, O. (2021)
-      High-sensitivity detection of facial features on MRI brain scans with a convolutional network,
-      <i>bioRxiv</i> 2021.04.25.441373.
-      doi:<a href="https://doi.org/10.1101/2021.04.25.441373">10.1101/2021.04.25.441373</a>.
-    Type: Preprint
+      Thompson, W.H., … Shine, J.M. (2021).
+            Intracranial electrical stimulation alters meso-scale network integration as a function of network topology
+            <i>bioRxiv</i>.
+  - Type: Preprint
+    Citation: |-
+      Pisner, D., … Esteban, O. (2022).
+            An open-source implementation of estimation and correction of head-motion and eddy-current distortions generalizable across diffusion MRI signal models
+            <i>OSF</i>.
+  - Type: Thesis
+    Citation: |-
+      Esteban, O. (2015).
+            Image processing methods for human brain connectivity analysis from in-vivo diffusion MRI
+            <i>UPM</i>.
+  - Type: Thesis
+    Citation: |-
+      Esteban, O. (2010).
+            Validación, caracterización y aplicación clínica en neuroimagen multimodalidad de técnicas de registro basadas en Teoría de la Información
+            <i>UPM</i>.
