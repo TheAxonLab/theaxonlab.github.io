@@ -1,0 +1,16 @@
+{% if include.entry.DOI %}
+doi:<a href="https://doi.org/{{ include.entry.DOI }}">{{ include.entry.DOI }}</a>.
+{% endif %}
+{% if include.entry.URL %}
+<a href="{{ include.entry.URL }}">Link</a>.
+{% endif %}
+{% if include.entry.OA %}
+  {% if include.entry.OA contains '://' %}
+  (<a href="{{ include.entry.OA }}">OA</a>).
+  {% else %}
+  (OA).
+  {% endif %}
+{% endif %}
+{% if include.entry.Slides %}
+[<a href="{{ include.entry.Slides }}">slides</a>]
+{% endif %}
