@@ -67,9 +67,6 @@ Conference communications
 {{ entry.Citation }}
 {% include pub-links.html entry=entry %}
 </td>
-<td style="text-align:right">
-n/a
-</td>
 </tr>
 {% endfor %}
 </tbody>
