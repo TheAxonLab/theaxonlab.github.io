@@ -65,6 +65,7 @@ Conference communications
 <tr class="small">
 <td>
 {{ entry.Citation }}
+{% include pub-links.html entry=entry %}
 </td>
 <td style="text-align:right">
 n/a
@@ -97,6 +98,7 @@ Other outputs
 </td>
 <td>
 {{ entry.Citation }}
+{% include pub-links.html entry=entry %}
 </td>
 </tr>
 {% endfor %}

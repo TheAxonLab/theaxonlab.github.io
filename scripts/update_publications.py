@@ -129,6 +129,26 @@ def write_articles(entries, path):
         yaml.dump(out, f)
 
 
+def link_fields(e):
+    """Return the DOI, URL, OA and Slides links of an entry, without duplicates."""
+    links = {}
+    doi = e.get('DOI') or ''
+    doi_url = f"https://doi.org/{doi}" if doi else ''
+    url = e.get('URL') or ''
+    oa_url = e.get('OA URL') or ''
+    if doi:
+        links['DOI'] = doi
+    if url and url != doi_url:
+        links['URL'] = url
+    if oa_url and oa_url not in {doi_url, url}:
+        links['OA'] = oa_url
+    elif oa_url or e.get('OA'):
+        links['OA'] = True
+    if e.get('Presentation'):
+        links['Slides'] = e['Presentation']
+    return links
+
+
 def write_conferences(entries, path):
     sections = group_entries(entries)
     out = []
@@ -136,10 +156,8 @@ def write_conferences(entries, path):
         year_items = []
         for e in items:
             item = {
-                'DOI': e.get('DOI', '') or '',
-                'URL': e.get('URL', '') or '',
-                'OA URL': e.get('OA URL', '') or '',
                 'Citation': LiteralScalarString(conference_citation(e)),
+                **link_fields(e),
             }
             year_items.append(item)
         out.append({'Year': label, 'Items': year_items})
@@ -156,6 +174,7 @@ def write_others(entries, path):
             item = {
                 'Type': (e.get('Type') or '').title(),
                 'Citation': LiteralScalarString(other_citation(e)),
+                **link_fields(e),
             }
             year_items.append(item)
         out.append({'Year': label, 'Items': year_items})
