@@ -26,17 +26,18 @@ def short_authors(authors):
     return f"{fmt(authors[0])}, … {fmt(authors[-1])}"
 
 def article_citation(e):
-    pub = e.get('AbbrvPublication') or e.get('Publication', '')
+    pub = e.get('AbbrvPublication') or e.get('Publication') or ''
     vol = e.get('Volume')
     num = e.get('Number')
     pages = e.get('Pages')
     citation = (
         f"{short_authors(e.get('Authors', []))} ({e.get('Year')}).\n"
-        f"      {e.get('Title')}\n"
-        f"      <i>{pub}</i>"
+        f"      {e.get('Title')}"
     )
+    if pub:
+        citation += f"\n      <i>{pub}</i>"
     if vol:
-        citation += f" {vol}"
+        citation += f" {vol}" if str(vol).strip().isdigit() else f" ({str(vol).strip('() ')})"
     if num:
         citation += f"({num})"
     if pages:
@@ -45,15 +46,16 @@ def article_citation(e):
     return citation
 
 def conference_citation(e):
-    pub = e.get('AbbrvPublication') or e.get('Publication', '')
+    pub = e.get('AbbrvPublication') or e.get('Publication') or ''
     volume = e.get('Volume')
     pages = e.get('Pages')
     place = e.get('Place')
     citation = (
         f"{short_authors(e.get('Authors', []))} ({e.get('Year')}).\n"
-        f"      {e.get('Title')}\n"
-        f"      <i>{pub}</i>"
+        f"      {e.get('Title')}"
     )
+    if pub:
+        citation += f"\n      <i>{pub}</i>"
     if volume:
         citation += f" {volume}"
     if pages:
@@ -64,17 +66,18 @@ def conference_citation(e):
     return citation
 
 def other_citation(e):
-    pub = e.get('AbbrvPublication') or e.get('Publication', '')
+    pub = e.get('AbbrvPublication') or e.get('Publication') or ''
     vol = e.get('Volume')
     num = e.get('Number')
     pages = e.get('Pages')
     citation = (
         f"{short_authors(e.get('Authors', []))} ({e.get('Year')}).\n"
-        f"      {e.get('Title')}\n"
-        f"      <i>{pub}</i>"
+        f"      {e.get('Title')}"
     )
+    if pub:
+        citation += f"\n      <i>{pub}</i>"
     if vol:
-        citation += f" {vol}"
+        citation += f" {vol}" if str(vol).strip().isdigit() else f" ({str(vol).strip('() ')})"
     if num:
         citation += f"({num})"
     if pages:
@@ -151,7 +154,7 @@ def write_others(entries, path):
         year_items = []
         for e in items:
             item = {
-                'Type': e.get('Type', '').title(),
+                'Type': (e.get('Type') or '').title(),
                 'Citation': LiteralScalarString(other_citation(e)),
             }
             year_items.append(item)
@@ -164,7 +167,9 @@ def main(src, outdir):
         data = yaml.load(f)
     articles, conferences, others = [], [], []
     for e in data:
-        t = e.get('Type', '').lower()
+        if e.get('Public') is False:
+            continue  # unpublished or under review: not shown on the website
+        t = (e.get('Type') or '').lower()
         if t == 'article':
             articles.append(e)
         elif t in {'poster', 'oral'}:
