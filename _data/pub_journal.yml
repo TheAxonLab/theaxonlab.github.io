@@ -1,201 +1,322 @@
+- Year: 2026
+  Items:
+  - Citations: 3
+    DOI: 10.1038/s41596-026-01352-y
+    Year: 2026
+    Citation: |-
+      Hagen, M.P., … Esteban, O. (2026).
+            Quality assessment and control of unprocessed anatomical, functional and diffusion MRI of the human brain using MRIQC
+            <i>Nat Protoc</i> 21(10):4606-4634.
+    OA: https://doi.org/10.1101/2024.10.21.619532
+  - Citations: 0
+    DOI: 10.1371/journal.pone.0352257
+    Year: 2026
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2026).
+            A-eye: Automated 3D MRI segmentation and morphometric feature extraction for eye and orbit atlas construction
+            <i>PLoS One</i> 21(7):e0352257.
+    OA: True
 - Year: 2025
   Items:
-  - Citations: 9
+  - Citations: 12
     DOI: 10.1371/journal.pbio.3003149
     Year: 2025
-    OA: True
     Citation: |-
-      Provins, C., … Esteban, O. (2025). 
-      Removing facial features from structural MRI images biases visual quality assessment.
-      <i>PLOS Biology</i> 23(4):e3003149.
-  - Citations: 0
+      Provins, C., … Esteban, O. (2025).
+            Removing facial features from structural MRI images biases visual quality assessment
+            <i>PLOS Bio</i> 23(4):e3003149.
+    OA: True
+  - Citations: 5
+    DOI: 10.1162/IMAG.a.1020
+    Year: 2025
+    Citation: |-
+      de Riedmatten, I., … Jelescu, I.O. (2025).
+            Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions
+            <i>Imag Neurosci</i> 3:IMAG.a.1020.
+    OA: True
+  - Citations: 3
+    DOI: 10.1038/s41597-025-04926-9
+    Year: 2025
+    Citation: |-
+      Lajous, H., … Bach-Cuadra, M. (2025).
+            A dataset of synthetic, maturation-informed magnetic resonance images of the human fetal brain
+            <i>Sci Dat</i> 12:602.
+    OA: True
+  - Citations: 3
     DOI: 10.1093/cercor/bhaf190
     Year: 2025
     Citation: |-
-      Provins, C., <i>et al.</i> (2025).
-      Structural mediation of the default mode network in children with callosal agenesis.
-      <i>Cereb Cortex</i> 35(1):bhaf190.
-  - Citations: 0
-    DOI: 10.1162/IMAG.a.1020
-    Year: 2025
-    OA: True
-    Citation: |-
-      de Riedmatten, I., <i>et al.</i> (2025).
-      Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions.
-      <i>Imag Neurosci</i> (in press).
-  - Citations: 0
-    DOI: 10.1038/s41597-025-04926-9
-    Year: 2025
-    OA: True
-    Citation: |-
-      Lajous, H., <i>et al.</i> (2025).
-      A dataset of synthetic, maturation-informed magnetic resonance images of the human fetal brain
-      <i>Scientific Data</i> 12(1):602.
-  - Citations: 0
+      Provins, C., … Siffredi, V. (2025).
+            Structural mediation of the default mode network in children with callosal agenesis
+            <i>Cereb Cortex</i> 35(7):bhaf190.
+  - Citations: 2
     DOI: 10.1016/j.nicl.2025.103835
     Year: 2025
-    OA: True
     Citation: |-
-      Di Noto, T., <i>et al.</i> (2025).
-      Assessing workflow impact and clinical utility of AI-assisted brain aneurysm detection: a multi-reader study.
-      <i>NeuroImage Clin</i> 47:103835.
-
-- Year: 2024
+      Di Noto, T., … Richiardi, J. (2025).
+            Assessing workflow impact and clinical utility of AI-assisted brain aneurysm detection: a multi-reader study
+            <i>NeuroImage Clin</i> 47:103835.
+    OA: True
+  - Citations: 0
+    DOI: 10.52294/001c.142427
+    Year: 2025
+    Citation: |-
+      Lugtmeijer, S., … Muhlert, N. (2025).
+            Proceedings of the OHBM Open Science Room 2024
+            <i>Aperture Neuro</i> 5.
+    OA: True
+- Year: Before 2025
   Items:
-  - Citations: 41
-    DOI: 10.1038/s41562-024-01942-4
-    OA: https://doi.org/10.1101/2021.12.01.470790
-    Year: 2024
-    Citation: |-
-      Li, X., … Milham, M.P. (2024)
-      Moving Beyond Processing and Analysis-Related Variation in Neuroscience,
-      <i>Nature Human Behavior</i>.      
-  - Citations: 1
-    DOI: 10.1016/j.media.2024.103282
-    Year: 2024
-    OA: True
-    Citation: |-
-      Sanchez, T., Esteban, O. … Bach-Cuadra, M. (2024). FetMRQC: A robust quality control system for multi-centric fetal brain MRI
-      <i>Medical Image Analysis</i> 97:103282.
-  - Citations: ''
-    DOI: 10.1109/TC.2024.3475586
-    OA: 10.48550/arXiv.2307.01373
-    Year: 2024
-    Citation: |-
-      Chatelain, Y., … Glatard, T. (2024).
-      A numerical variability approach to results stability tests and its application to neuroimaging,
-      <i>IEEE Transactions on Computers</i> 1--10.
-  - Citations: 36
-    DOI: 10.1162/imag_a_00103
-    Year: 2024
-    OA: True
-    Citation: |-
-      Poldrack, RA., … Gorgolewski, K. J. (2024).
-      The past, present, and future of the brain imaging data structure (BIDS).
-      <i>Imag Neurosci</i> 2: 1-19.
-  
-- Year: Before 2024
-  Items:
-  - Citations: 2488
+  - Citations: 5360
     DOI: 10.1038/s41592-018-0235-4
-    OA: https://doi.org/10.1101/306951
     Year: 2019
-    Citation: >-
-      Esteban, O., … Gorgolewski, K. J. (2019).
-      fMRIPrep: a robust preprocessing pipeline for functional MRI.
-      <i>Nature Methods</i>
-  - Citations: 761
+    Citation: |-
+      Esteban, O., … Gorgolewski, K.J. (2019).
+            fMRIPrep: a robust preprocessing pipeline for functional MRI
+            <i>Nat Methods</i> 16(1):111-116.
+    OA: https://doi.org/10.1101/306951
+  - Citations: 1728
+    DOI: 10.1038/s41467-017-01285-x
+    Year: 2017
+    Citation: |-
+      Maier-Hein, K.H., … Descoteaux, M. (2017).
+            The challenge of mapping the human connectome based on diffusion tractography
+            <i>Nat Commun</i> 8(1):1349.
+    OA: True
+  - Citations: 1292
     DOI: 10.1371/journal.pone.0184661
     Year: 2017
+    Citation: |-
+      Esteban, O., … Gorgolewski, K.J. (2017).
+            MRIQC: Advancing the Automatic Prediction of Image Quality in MRI from Unseen Sites
+            <i>PLoS ONE</i> 12(9):e0184661.
     OA: True
-    Citation: >-
-      Esteban, O., … Gorgolewski, K. J. (2017).
-      MRIQC: Advancing the automatic prediction of image
-      quality in MRI from unseen sites. <i>Plos One</i>.
-  - Citations: 224
+  - Citations: 596
     DOI: 10.7554/eLife.71774
     Year: 2021
+    Citation: |-
+      Markiewicz, C.J., … Poldrack, R. (2021).
+            The OpenNeuro resource for sharing of neuroscience data
+            <i>eLife</i> 10:e71774.
     OA: True
-    Citation: >-
-      Markiewicz, C. J., … Poldrack, R. (2021). The OpenNeuro resource for
-      sharing of neuroscience data. <i>eLife</i>.
-  - Citations: 130
+  - Citations: 421
+    DOI: 10.1371/journal.pcbi.1005209
+    Year: 2017
+    Citation: |-
+      Gorgolewski, K.J., … Poldrack, R.A. (2017).
+            BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods
+            <i>PLoS Comput Bio</i> 13(3):e1005209.
+    OA: True
+  - Citations: 347
     DOI: 10.1038/s41596-020-0327-3
     Year: 2020
+    Citation: |-
+      Esteban, O., … Gorgolewski, K.J. (2020).
+            Analysis of task-based functional MRI data preprocessed with fMRIPrep
+            <i>Nat Protoc</i> 15(7):2186-2202.
     OA: https://doi.org/10.1101/694364
-    Citation: >-
-      Esteban, O., … Gorgolewski, K. J. (2020). Analysis of task-based functional MRI
-      data preprocessed with fMRIPrep. <i>Nature Protocols</i>.
-  - Citations: 64
-    DOI: 10.1016/j.neuroimage.2022.119623
-    OA: True
-    Citation: >-
-      Niso, G., … Rieger, J. W. (2022). Open and reproducible neuroimaging:
-      from study inception to publication. <i>NeuroImage</i> 119623.
-  - Citations: 58
-    DOI: 10.1038/s41597-019-0035-4
-    OA: True
-    Year: 2019
-    Citation: >-
-      Esteban, O., … Gorgolewski, K. J. (2019). Crowdsourced MRI quality metrics
-      and expert quality annotations for training of humans and machines. <i>Scientific
-      Data</i>.
-  - Citations: 48
+  - Citations: 237
     DOI: 10.1038/s41592-022-01681-2
-    OA: True
-    Citation: >-
-      Ciric, R., … Esteban, O. (2022). TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models.
-      <i>Nature Methods</i> 1-4.
-  - Citations: 44
+    Year: 2022
+    Citation: |-
+      Ciric, R., … Esteban, O. (2022).
+            TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models
+            <i>Nat Methods</i> 19:1568-1571.
+    OA: https://doi.org/10.1101/2021.02.10.430678
+  - Citations: 159
     DOI: 10.1038/s41593-023-01286-8
     Year: 2023
     Citation: |-
-      Grandjean, C., … Hess, A. (2023). A consensus protocol for functional connectivity analysis in the rat brain.
-      <i>Nature Neuroscience</i> 1-9.
-  - Citations: 37
-    DOI: 10.1016/j.neuron.2021.04.001
-    Year: 2021
-    Citation: >-
-      Gau, R., … Zuo, X.-N. (2021).
-      Brainhack: Developing a culture of open, inclusive,
-      community-driven neuroscience. <i>Neuron</i>.
-  - Citations: 28
-    DOI: 10.1093/gigascience/giab051
+      Grandjean, J., … Hess, A. (2023).
+            A consensus protocol for functional connectivity analysis in the rat brain
+            <i>Nat Neurosci</i> 26(4):673-681.
+    OA: https://doi.org/10.1101/2022.04.27.489658
+  - Citations: 131
+    DOI: 10.1016/j.neuroimage.2022.119623
+    Year: 2022
+    Citation: |-
+      Niso, G., … Rieger, J.W. (2022).
+            Open and reproducible neuroimaging: from study inception to publication
+            <i>NeuroImage</i> 263:119623.
     OA: True
-    Year: 2021
-    Citation: >-
-      Levitis, E., … Maumet, C. (2021).
-      Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective,
-      <i>GigaScience</i>, Volume 10, Issue 8, August 2021, giab051.
-  - Citations: 27
+  - Citations: 99
+    DOI: 10.1038/s41597-019-0035-4
+    Year: 2019
+    Citation: |-
+      Esteban, O., … Gorgolewski, K.J. (2019).
+            Crowdsourced MRI quality metrics and expert quality annotations for training of humans and machines
+            <i>Sci Dat</i> 6(1):30.
+    OA: True
+  - Citations: 96
+    DOI: 10.1038/s41562-024-01942-4
+    Year: 2024
+    Citation: |-
+      Li, X., … Milham, M.P. (2024).
+            Moving beyond processing- and analysis-related variation in resting-state functional brain imaging
+            <i>Nat Hum Behav</i> 8(10):2003-2017.
+    OA: https://doi.org/10.1101/2021.12.01.470790
+  - Citations: 94
+    DOI: 10.1007/s12021-022-09597-0
+    Year: 2023
+    Citation: |-
+      Di Noto, T., … Richiardi, J. (2023).
+            Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels, and Anatomical Knowledge
+            <i>Neuroinf</i> 21:21-34.
+    OA: https://doi.org/10.48550/arXiv.2103.06168
+  - Citations: 92
+    DOI: 10.1162/imag_a_00103
+    Year: 2024
+    Citation: |-
+      Poldrack, R.A., … Gorgolewski, K.J. (2024).
+            The past, present, and future of the brain imaging data structure (BIDS)
+            <i>Imag Neurosci</i> 2:1-19.
+    OA: True
+  - Citations: 78
+    DOI: 10.21105/joss.01294
+    Year: 2019
+    Citation: |-
+      Yarkoni, T., … Blair, R. (2019).
+            PyBIDS: Python tools for BIDS datasets
+            <i>JOSS</i> 4(40):1294.
+    OA: True
+  - Citations: 68
     DOI: 10.1038/s41592-022-01458-7
     Year: 2022
+    Citation: |-
+      Adebimpe, A., … Satterthwaite, T.D. (2022).
+            ASLPrep: a platform for processing of arterial spin labeled MRI and quantification of regional brain perfusion
+            <i>Nat Methods</i> 19(6):683-686.
     OA: https://doi.org/10.1101/2021.05.20.444998
-    Citation: >-
-      Adebimpe, A., … the ALLFTD Consortium. (2022).
-      ASLPrep: a platform for processing of arterial
-      spin labeled MRI and quantification of regional brain perfusion. <i>Nature Methods</i> 19 (6), 683-686.
-  - Citations: 21
-    DOI: 10.1007/s12021-022-09597-0
-    Year: 2022
+  - Citations: 54
+    DOI: 10.1016/j.neuron.2021.04.001
+    Year: 2021
+    Citation: |-
+      Gau, R., … Zuo, X. (2021).
+            Brainhack: Developing a culture of open, inclusive, community-driven neuroscience
+            <i>Neuron</i> 109(11):1769-1775.
     OA: True
-    Citation: >-
-      Di Noto, T., … Richiardi, J.
-      Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels,
-      and Anatomical Knowledge. <i>Neuroinformatics</i> 1-14.
+  - Citations: 45
+    DOI: 10.1093/gigascience/giab051
+    Year: 2021
+    Citation: |-
+      Levitis, E., … Maumet, C. (2021).
+            Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective
+            <i>GigaScience</i> 10(8):giab051.
+    OA: True
+  - Citations: 43
+    DOI: 10.3389/fnimg.2022.1073734
+    Year: 2023
+    Citation: |-
+      Provins, C., … Esteban, O. (2023).
+            Quality Control in functional MRI studies with MRIQC and fMRIPrep
+            <i>Front Neuroimag</i> 1:1073734.
+    OA: True
+  - Citations: 41
+    DOI: 10.1038/s41597-020-00595-y
+    Year: 2020
+    Citation: |-
+      Thompson, W.H., … Adolphs, R. (2020).
+            A data resource from concurrent intracranial stimulation and functional MRI of the human brain (es-fMRI)
+            <i>Sci Dat</i> 7:258.
+    OA: True
+  - Citations: 35
+    DOI: 10.1007/s12021-012-9158-x
+    Year: 2013
+    Citation: |-
+      Martí-Fuster, B., … Ros, D. (2013).
+            FocusDET, a new toolbox for SISCOM analysis. Evaluation of the registration accuracy using Monte Carlo simulation
+            <i>Neuroinf</i> 11(1):77-89.
+  - Citations: 28
+    DOI: 10.1016/j.media.2024.103282
+    Year: 2024
+    Citation: |-
+      Sanchez, T., … Bach-Cuadra, M. (2024).
+            FetMRQC: A robust quality control system for multi-centric fetal brain MRI
+            <i>Med Imag Anal</i> 97:103282.
+    OA: True
+  - Citations: 20
+    DOI: 10.1109/TMI.2014.2326041
+    Year: 2014
+    Citation: |-
+      Martí-Fuster, B., … Pavia, J. (2014).
+            Including Anatomical and Functional Information in MC Simulation of PET and SPECT Brain Studies. Brain-VISET: A Voxel-Based Iterative Method
+            <i>IEEE T Med Imaging</i> 33(10):1931-1938.
+  - Citations: 16
+    DOI: 10.3389/fninf.2021.669049
+    Year: 2022
+    Citation: |-
+      MacNicol, E., … Cash, D. (2022).
+            Age-Specific Adult Rat Brain MRI Templates and Tissue Probability Maps
+            <i>Front Neuroinf</i> 15.
+    OA: True
   - Citations: 15
     DOI: 10.1016/j.neuroimage.2016.05.011
     Year: 2016
-    OA: https://doi.org/10.1101/018945
-    Citation: >-
-      Esteban, O., … Santos, A. (2016). Surface-driven registration method
-      for the structure-informed segmentation of diffusion MR images. <i>NeuroImage</i>.
-  - Citations: 11
-    DOI: 10.3389/fnimg.2022.1073734
-    Year: 2023
-    OA: True
     Citation: |-
-      Provins, C., … Esteban, O. (2023). Quality Control in functional MRI studies with MRIQC and fMRIPrep.
-      <i>Frontiers in Neuroimaging</i> 1:1073734.
-  - Citations: 10
-    DOI: 10.3389/fninf.2021.669049
-    Year: 2022
-    OA: True
-    Citation: >-
-      MacNicol, E., … Cash, D. (2022).
-      Age-Specific Adult Rat Brain MRI Templates and Tissue Probability Maps.
-      <i>Frontiers in Neuroinformatics</i>.
-  - Citations: 10
+      Esteban, O., … Santos, A. (2016).
+            Surface-driven registration method for the structure-informed segmentation of diffusion MR images
+            <i>NeuroImage</i> 139:450-461.
+    OA: http://www2.die.upm.es/im/papers/Neuroimage2016.pdf
+  - Citations: 13
     DOI: 10.1016/j.bpsc.2020.12.002
     Year: 2021
-    Citation: >-
-      Rodrigue, A. L., … Glahn, D. C. (2021). Searching for Imaging Biomarkers of Psychotic
-      Dysconnectivity. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>.
-  - Citations: 1
+    Citation: |-
+      Rodrigue, A.L., … Glahn, D.C. (2021).
+            Searching for Imaging Biomarkers of Psychotic Dysconnectivity
+            <i>BP:CNNI</i> 6(12):1135-1144.
+  - Citations: 13
+    DOI: 10.21105/joss.00289
+    Year: 2017
+    Citation: |-
+      Wilson, L.A., … Lerner, M. (2017).
+            Launcher: A simple tool for executing high throughput computing workloads
+            <i>JOSS</i> 2(16):289.
+    OA: True
+  - Citations: 13
+    DOI: 10.3389/fninf.2016.00004
+    Year: 2016
+    Citation: |-
+      Esteban, O., … Santos, A. (2016).
+            Diffantom: whole-brain diffusion MRI phantoms derived from real datasets of the Human Connectome Project
+            <i>Front Neuroinf</i> 10(4).
+    OA: True
+  - Citations: 8
+    DOI: 10.1109/TC.2024.3475586
+    Year: 2024
+    Citation: |-
+      Chatelain, Y., … Glatard, T. (2024).
+            A numerical variability approach to results stability tests and its application to neuroimaging
+            <i>IEEE T Comput</i> 74(1):200-209.
+    OA: https://doi.org/10.48550/arXiv.2307.01373
+  - Citations: 5
+    DOI: 10.17605/OSF.IO/VAMQ6
+    Year: 2023
+    Citation: |-
+      Provins, C., … Esteban, O. (2023).
+            Reliability characterization of MRI measurements for analyses of brain networks on a single human
+            <i>Nat Methods</i> (Stage 1 accepted-in-principle).
+    OA: True
+  - Citations: 5
+    DOI: 10.1016/j.cmpb.2014.03.003
+    Year: 2014
+    Citation: |-
+      Esteban, O., … Bach-Cuadra, M. (2014).
+            MBIS: Multivariate Bayesian Image Segmentation tool
+            <i>Comp Meth Prog Bio</i> 115(2):76-94.
+    OA: https://cibm.ch/wp-content/uploads/1-s2.0-S0169260714000996-main.pdf
+  - Citations: 4
     DOI: 10.21105/joss.03459
     Year: 2021
+    Citation: |-
+      Goncalves, M., … Esteban, O. (2021).
+            NiTransforms: A Python tool to read, represent, manipulate, and apply $n$-dimensional spatial transforms
+            <i>JOSS</i> 6(65):3459.
     OA: True
-    Citation: >-
-      Goncalves, M., … Esteban, O.
-      (2021). NiTransforms: A Python tool to read, represent, manipulate,
-      and apply dimensional spatial transforms. <i>Journal of Open Source Software</i>.
+  - Citations: 1
+    DOI: 10.1016/j.dib.2016.06.049
+    Year: 2016
+    Citation: |-
+      Esteban, O., … Santos, A. (2016).
+            Data on the verification and validation of segmentation and registration methods for diffusion MRI
+            <i>Dat Brief</i> 8:871-876.
+    OA: True

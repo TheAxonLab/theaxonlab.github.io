@@ -1,399 +1,592 @@
 - Year: 2026
   Items:
-  - DOI: 10.31234/osf.io/7nxwu_v1
-    URL:
+  - DOI: ''
+    URL: ''
+    OA URL: ''
     Citation: |-
-      Legarreta, J. H., … Esteban, O. (2026). 
-      NiQuery: Stop searching your neuroimaging datasets. Start testing your hypotheses.
-      <i>32<sup>nd</sup> Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, p. 1627.
-      Bordeaux, France.
-      doi: <a href="https://doi.org/10.31234/osf.io/7nxwu_v1">10.31234/osf.io/7nxwu_v1 (preprint)</a>.
+      Nørgaard, M., … Innis, R.B. (2026).
+            PETPrep: a robust preprocessing pipeline for positron emission tomography (PET) neuroimaging
+            <i>NRM2026</i>,
+            Uppsala, Sweden.
+  - DOI: 10.31234/osf.io/7nxwu_v1
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Legarreta, J.H., … Esteban, O. (2026).
+            NiQuery: Stop searching your neuroimaging datasets. Start testing your hypotheses
+            <i>OHBM</i> 32, 1627,
+            Bordeaux, France.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Provins, C., … Esteban, O. (2026).
+            Naturalistic Viewing and Sparse Models yield more Reliable Functional Connectivity
+            <i>OHBM</i> (accepted),
+            Bordeaux, France.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Garcia, M., … Esteban, O. (2026).
+            Artifact-Specific Feature Signatures in Multi-Echo fMRI: An MRIQC-based Analysis
+            <i>OHBM</i> (accepted),
+            Bordeaux, France.
 - Year: 2025
   Items:
-  - DOI:
-    URL:
-    OA URL:
+  - DOI: 10.1167/jov.25.9.2351
+    URL: ''
+    OA URL: ''
     Citation: |-
-      Provins, C.,  …  Esteban, O. (2025).
-      Can Replaying a Movie Clip Reduce Variability in Single-Subject Resting-State fMRI?
-      <i>31th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, (accepted).
-      Brisbane, Australia.
+      Szinte, M., … Pfarr, J. (2025).
+            Eye-Tracking-BIDS: the brain imaging data structure extended to gaze position and pupil data
+            <i>VSS</i> 25, 2351,
+            St. Pete Beach, FL, USA.
+  - DOI: 10.31234/osf.io/gfny9
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Legarreta, J.H., … Esteban, O. (2025).
+            An open implementation of FSL's eddy with volume-to-volume artifact estimation for neuroimaging beyond diffusion MRI
+            <i>ISMRM</i> 34, #3252,
+            Honolulu, HI, USA.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Jia, Y., … Franceschiello, B. (2025).
+            MR-Eye: A High-Resolution Motion-Resolved MRI Protocol for Anatomical Imaging of the Human Eye
+            <i>ISMRM</i> 34, #0639,
+            Honolulu, HI, USA.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2025).
+            MR-Eye atlas: a large-scale atlas of the eye based on T1-weighted MR imaging
+            <i>ISMRM</i> 34, #1862,
+            Honolulu, HI, USA.
   - DOI: 10.31219/osf.io/6krp9_v1
-    URL:
-    OA URL:
+    URL: https://doi.org/10.5281/zenodo.15641972
+    OA URL: ''
     Citation: |-
-      Garcia M., Provins, C. &amp; Esteban, O. (2025).
-      MRIQC IQM Variability and Artifact Prediction in Multi-Echo fMRI.
-      <i>31th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, (accepted).
-      Brisbane, Australia.
-      doi: <a href="https://doi.org/10.31219/osf.io/6krp9_v1">10.31219/osf.io/6krp9_v1 (preprint)</a>.
-  - DOI: 10.31234/osf.io/gfny9_v3
-    URL:
-    OA URL:
+      Garcia, M., … Esteban, O. (2025).
+            MRIQC IQM Variability and Artifact Prediction in Multi-Echo fMRI
+            <i>OHBM</i> 31, 1071,
+            Brisbane, Australia.
+  - DOI: ''
+    URL: https://doi.org/10.5281/zenodo.15641972
+    OA URL: ''
     Citation: |-
-      Legarreta Gorroño, JH.,  …  Esteban, O. (2025).
-      An open implementation of FSL's eddy with volume-to-volume artifact estimation for neuroimaging
-      beyond diffusion MRI.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 34, 3252,
-      Honolulu, Hawaii, USA.
-      doi:<a href="https://doi.org/10.31234/osf.io/gfny9_v3">10.31234/osf.io/gfny9_v3 (preprint)</a>.
-      <em>(Winner in ISMRM Diffusion Study Group's Trainee Competition)</em>
+      Provins, C., … Esteban, O. (2025).
+            Can Replaying a Movie Clip Reduce Variability in Single-Subject Resting-State fMRI?
+            <i>OHBM</i> 31, 1398,
+            Brisbane, Australia.
 - Year: Before 2025
   Items:
-  - DOI: 10.31219/osf.io/nuqs2
-    URL:
-    OA URL:
+  - DOI: 10.7490/f1000research.1114354.1
+    URL: 
+      https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=3395
+    OA URL: https://f1000research.com/posters/6-1055
     Citation: |-
-      Provins, C.,  …  Esteban, O. (2024).
-      Effects of phase-encoding on BOLD data with a positive control task.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 1361.
-      Seoul, Korea.
-      doi: <a href="https://doi.org/10.31219/osf.io/nuqs2">10.31219/osf.io/nuqs2 (preprint)</a>.
-  - DOI:
-    URL:
-    OA URL:
+      Gorgolewski, K., … Poldrack, R. (2017).
+            OpenNeuro - a free online platform for sharing and analysis of neuroimaging data
+            <i>OHBM</i>, 3395,
+            Vancouver, BC, Canada.
+  - DOI: 10.31219/osf.io/ujxp6
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/ujxp6
     Citation: |-
-      Cionca A.,  …  Esteban, O. (2024).
-      A high-definition anatomical brain template of one individual healthy subject.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2212.
-      Seoul, Korea.
-  - DOI:
-    URL:
-    OA URL:
+      Esteban, O., … Ghosh, S. (2020).
+            NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep
+            <i>OHBM</i>, 1960,
+            Virtual Meeting.
+  - DOI: 10.1109/ISBI.2014.6867976
+    URL: ''
+    OA URL: http://www2.die.upm.es/im/papers/ISBI_2014.pdf
     Citation: |-
-      Markiewicz, C.,  …  Esteban, O. (2024).
-      FMRIPrep-next: Preprocessing as a fit-transform model.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2257.
-      Seoul, Korea.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Esteban, O.,  …  Hagmann, P. (2024).
-      The Human Connectome Phantom (HCPh) dataset.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2233.
-      Seoul, Korea.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Esteban, O.,  …  Markiewicz, C. (2024).
-      SDCFlows: convergent formalization of MRI field mappings for reliable distortion correction.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 1692.
-      Seoul, Korea.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Tammurello, C.,  …  Fornari, E. (2024).
-      Hi-Fi BOLD fMRI of the human auditory cortex.
-      <i>30th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2324.
-      Seoul, Korea.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Gomez, T.,  …  Esteban, O. [presenter, <a href="https://oesteban.github.io/talks/ISMRM2024/">see slides</a>] (2024).
-      Harnessing QA/QC protocols for diffusion MRI neuroimaging workflows with MRIQC.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 33, 0539,
-      Singapore, Singapore.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Provins, C. &  Esteban, O. (2024).
-      QA/QC of the unprocessed anatomical, functional, and diffusion MRI data of the Human Connectome PHantom (HCPh) dataset with MRIQC.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 33, 3001,
-      Singapore, Singapore.
-  - DOI: 10.31219/osf.io/hnpyt
-    URL:
-    OA URL:
-    Citation: |-
-      Provins, C.,  …  Esteban, O. (2023).
-      Assessment of B1 field dynamics of rats BOLD fMRI using the wavelet transform.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 834.
-      Montréal, Canada.
-      doi: <a href="https://doi.org/10.31219/osf.io/hnpyt">10.31219/osf.io/hnpyt (preprint)</a>.
-  - DOI: 10.31219/osf.io/7vqzr
-    URL:
-    OA URL:
-    Citation: |-
-      Provins, C.,  …  Esteban, O. (2023).
-      Signal-to-noise ratio estimates predict head motion presence in T1-weighted MRI.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 787.
-      Montréal, Canada.
-      doi: <a href="https://doi.org/10.31219/osf.io/7vqzr">10.31219/osf.io/7vqzr (preprint)</a>.
-  - DOI: 10.31219/osf.io/edx6t
-    URL:
-    OA URL:
-    Citation: |-
-      Savary, E.,  …  Esteban, O. (2023).
-      Q’kay: a manager for the quality assessment of large neuroimaging studies.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2467.
-      Montréal, Canada.
-      doi: <a href="https://doi.org/10.31219/osf.io/edx6t">10.31219/osf.io/edx6t (preprint)</a>.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Alemán-Gómez, Y.,  …  Hagmann, P. (2023).
-      CHIMERA:An open source framework for combining multiple parcellations.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2478.
-      Montréal, Canada.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Lajous, H.,  …  Bach-Cuadra, M. (2023).
-      Minimizing the Need for Clinical MRI Data in Supervised Fetal Brain Tissue Segmentation.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 857.
-      Montréal, Canada.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Goncalves, M.,  …  Fair, D. A. (2023).
-      They grow up so fast - Augmenting the NiBabies infant MRI workflow.
-      <i>29th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, 2504.
-      Montréal, Canada.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Barranco, J.,  …  Bach-Cuadra, M. (2023).
-      A-Eye: Towards a large-scale MRI-based model of the complete eye.
-      in <i>Proc. Intl. Soc. Mag. Reson. Med. (ISMRM)</i> 32, pp. 3762.
-      Toronto, Canada.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Barranco, J.,  …  Bach-Cuadra, M. (2023).
-      A-Eye: Towards a large-scale MRI-based model of the complete eye.
-      <i>ARVO Imaging in the Eye Conference Abstract</i>
-      in <i>Investigative Ophthalmology & Visual Science</i> 64(9):PP0010,
-      New Orleans, LA, USA.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Barranco, J.,  …  Bach-Cuadra, M. (2023).
-      A-Eye: Large-scale MRI automatic biomarkers extraction.
-      <i>ARVO Annual Meeting Abstract</i>
-      in <i>Investigative Ophthalmology & Visual Science</i> 64(8):5039,
-      New Orleans, LA, USA.
+      Esteban, O., … Santos, A. (2014).
+            Simulation-based evaluation of susceptibility distortion correction methods in diffusion MRI for connectivity analysis
+            <i>ISBI</i>, 738-741,
+            Beijing, China.
   - DOI: 10.1007/978-3-031-45544-5_1
-    URL:
-    OA URL:
+    URL: ''
+    OA URL: https://doi.org/10.48550/arXiv.2304.05879
     Citation: |-
-      Sanchez, T.,  …  Bach-Cuadra, M. (2023).
-      FetMRQC: Automated Quality Control for Fetal Brain MRI.
-      in <i>LNCS</i>, 14246:3-16, Springer, Cham.
-      <i>8th International Workshop on Preterm, Perinatal and Paediatric Image Analysis (MICCAI PIPPI)</i>,
-      Vancouver, Canada.
-  - DOI: 10.31219/osf.io/8mcyz
-    URL:
-    OA URL:
+      Sanchez, T., … Bach-Cuadra, M. (2023).
+            FetMRQC: Automated Quality Control for Fetal Brain MRI
+            <i>MICCAI PIPPI</i> 14246, 3-16,
+            Vancouver, BC, Canada.
+  - DOI: 10.1109/ISBI48211.2021.9433884
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/sqxef
     Citation: |-
-      Provins, C.,  …  Esteban, O. (2022).
-      Defacing biases manual and automated quality assessments of structural MRI with MRIQC.
-      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh566.
-      Glasgow, Scotland, UK.
-      doi:<a href="https://doi.org/10.31219/osf.io/t9ehk">10.31219/osf.io/t9ehk</a>.
-  - DOI:
-    URL:
-    OA URL:
+      MacNicol, E., … Esteban, O. (2021).
+            Atlas-based brain extraction is robust across rat MRI studies
+            <i>ISBI</i>, 312-315,
+            Nice, France.
+  - DOI: 10.25080/Majora-342d178e-012
+    URL: ''
+    OA URL: ''
     Citation: |-
-      MacNicol, E.,  …  Esteban, O. (2022).
-      Extending MRIQC to rodents: image quality metrics for rat MRI.
-      <i>17th Annual Meeting of the European Society for Molecular Imaging (EMIM)</i>, PW23-913.
-      Thessaloniki, Greece.
-  - DOI:
-    URL:
-    OA URL: https://2022.midl.io/papers/e_s_4
+      Jarecka, D., … Ghosh, S. (2020).
+            Pydra-a flexible and lightweight dataflow engine for scientific analyses
+            <i>SciPy</i>, 132-139,
+            Austin, TX, USA.
+  - DOI: 10.1007/978-3-030-01364-6
+    URL: ''
+    OA URL: https://labels.tue-image.nl/wp-content/uploads/2018/09/PM-03.pdf
     Citation: |-
-      Di Noto, T.,  …  Richiardi, J. (2022).
-      Weak labels for deep-learning-based detection of brain aneurysms from MR angiography scans.
-      <i>Medical Imaging with Deep Learning (MIDL)</i>.
-      Zurich, Switzerland.
-      <a href="https://2022.midl.io/papers/e_s_4">OA</a>.
+      Esteban, O., … Gorgolewski, K.J. (2018).
+            Improving out-of-sample prediction of quality of MRIQC
+            <i>LABELS</i> 11043, 190-199,
+            Granada, Spain.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Chatelain, Y., … Glatard, T. (2022).
+            Testing the long-term reproducibility of fMRIPrep results
+            <i>OHBM</i>, WTh464,
+            Glasgow, Scotland, UK.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Veraart, J., … Descoteaux, M. (2022).
+            A data-driven variability assessment of brain diffusion MRI preprocessing pipelines
+            <i>ISMRM</i> 31, 4983,
+            London, England, UK.
+  - DOI: ''
+    URL: https://ww6.aievolution.com/hbm2401/Abstracts/viewAbs?abs=3739
+    OA URL: ''
+    Citation: |-
+      Esteban, O., … Markiewicz, C.J. (2024).
+            SDCFlows: convergent formalization of MRI field mappings for reliable distortion correction
+            <i>OHBM</i> 30, 1692,
+            Seoul, Korea.
+  - DOI: 10.31219/osf.io/edx6t
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/edx6t
+    Citation: |-
+      Savary, É., … Esteban, O. (2023).
+            Q'kay: a manager for the quality assessment of large neuroimaging studies
+            <i>OHBM</i> 29, 2467,
+            Montréal, Canada.
+  - DOI: 10.31219/osf.io/gy8nt
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Esteban, O., … Provins, C. (2021).
+            The Bermuda Triangle of d-and f-MRI sailors-software for susceptibility distortions (SDCFlows)
+            <i>OHBM</i>, 1653,
+            Virtual Meeting.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Goncalves, M., … Esteban, O. (2021).
+            NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI
+            <i>OHBM</i>, 2452,
+            Virtual Meeting.
+  - DOI: ''
+    URL: https://archive.ismrm.org/2021/2473.html
+    OA URL: ''
+    Citation: |-
+      Joseph, M.J., … Esteban, O. (2021).
+            dMRIPrep: a robust preprocessing pipeline for diffusion MRI
+            <i>ISMRM</i> 30, 2473,
+            Virtual Meeting.
   - DOI: 10.31219/osf.io/hz52v
-    URL:
-    OA URL:
+    URL: ''
+    OA URL: ''
     Citation: |-
-      Provins, C.,  …  Esteban, O. (2022).
-      Quality control and nuisance regression of fMRI, looking out where signal should not be found.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 2683.
-      London, England, UK.
-      doi:<a href="https://doi.org/10.31219/osf.io/hz52v">10.31219/osf.io/hz52v</a>.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-      
-      Markiewicz, C. J.,  …  You, X. (2022).
-      Standardizing support for multi-echo fMRI data across the NiPreps ecosystem.
-      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh563.
-      Glasgow, Scotland, UK.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Ciric, R.,  …  Poldrack, R. A. (2022).
-      Differentiable programming for functional connectomics.
-      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh556.
-      Glasgow, Scotland, UK.
+      Provins, C., … Esteban, O. (2022).
+            Quality control and nuisance regression of fMRI, looking out where signal should not be found
+            <i>ISMRM</i> 31, 2683,
+            London, England, UK.
   - DOI: 10.48550/arXiv.2206.00649
     URL: https://proceedings.mlr.press/v193/ciric22a.html
     OA URL: https://proceedings.mlr.press/v193/ciric22a/ciric22a.pdf
     Citation: |-
-      Ciric, R.,  …  Poldrack, R. A. (2022).
-      Across the multiverse: differentiable programming for deep connectivity pipeline optimisation.
-      <i>Proceedings of the 2nd Machine Learning for Health symposium</i>, 193:419-455.
-      New Orleans, Louisiana, USA.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Veraart, J.,  …  Descoteaux, M. (2022).
-      A data-driven variability assessment of brain diffusion MRI preprocessing pipelines.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. 31 (ISMRM)</i>, pp. 4983.
-      London, England, UK.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Li, X.,  …  Milham, M. P. (2022).
-      Moving beyond processing and analysis-related variation in neuroscience.
-      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh877.
-      Glasgow, Scotland, UK.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Chatelain, Y.,  …  Glatard, T. (2022).
-      Testing the long-term reproducibility of fMRIPrep results.
-      <i>28th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. WTh464.
-      Glasgow, Scotland, UK.
-  - DOI: 10.31219/osf.io/gy8nt
-    URL:
-    OA URL:
-    Citation: |-
-      Esteban, O.,  …  Provins, C. (2021).
-      The Bermuda Triangle of d-and f-MRI sailors-software for susceptibility distortions (SDCFlows).
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1653.
-      (Virtual Meeting).
-      doi:<a href="https://doi.org/10.31219/osf.io/gy8nt">10.31219/osf.io/gy8nt</a>.
-  - DOI:
-    URL:
+      Ciric, R., … Poldrack, R.A. (2022).
+            Differentiable programming for functional connectomics
+            <i>ML4H</i> 193, 419-455,
+            New Orleans, LA, USA..
+  - DOI: ''
+    URL: ''
     OA URL: https://www.hal.inserm.fr/inserm-03478963
     Citation: |-
-      Markiewicz, C.,  …  Maumet, C. (2021).
-      BIDS Statistical Models - An implementation-independent representation of General Linear Models.
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1207.
-      (Virtual Meeting).
-      <a href="https://www.hal.inserm.fr/inserm-03478963">OA</a>.
-  - DOI:
-    URL:
-    OA URL:
+      Markiewicz, C., … Maumet, C. (2021).
+            BIDS Statistical Models - An implementation-independent representation of General Linear Models
+            <i>OHBM</i>, 1207,
+            Virtual Meeting.
+  - DOI: 10.1101/216671
+    URL: https://cds.ismrm.org/protected/18MProceedings/PDFfiles/3416.html
+    OA URL: https://doi.org/10.1101/216671
     Citation: |-
-      Adebimpe, A.,  …  Covitz, S. (2021).
-      ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled MRI.
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1814.
-      (Virtual Meeting).
-  - DOI:
-    URL:
-    OA URL:
+      Esteban, O., … Gorgolewski, K.J. (2018).
+            MRIQC Web-API: Crowdsourcing image quality metrics and expert quality ratings of structural and functional MRI
+            <i>ISMRM</i> 26, 3416,
+            Paris, France.
+  - DOI: ''
+    URL: https://archive.ismrm.org/2013/0948.html
+    OA URL: ''
     Citation: |-
-      Milham, M.,  …  Esteban, O. (2021).
-      Putting pipeline implementation-related variation into perspective for functional connectomics.
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2405.
-      (Virtual Meeting).
-  - DOI:
-    URL:
-    OA URL:
+      Cuadra, M.B., … Krüger, G. (2013).
+            Classical segmentation methods on novel MR imaging: a study of brain tissue segmentation of MP2RAGE vs MPRAGE
+            <i>ISMRM</i> 21, 948,
+            Salt Lake City, UT, USA.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
     Citation: |-
-      Goncalves, M.,  …  Esteban, O. (2021).
-      NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI.
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2452.
-      (Virtual Meeting).
-  - DOI:
-    URL:
-    OA URL:
+      Markiewicz, C.J., … Esteban, O. (2024).
+            FMRIPrep-next: Preprocessing as a fit-transform model
+            <i>OHBM</i> 30, 2257,
+            Seoul, Korea.
+  - DOI: 10.31219/osf.io/7vqzr
+    URL: ''
+    OA URL: ''
     Citation: |-
-      Jarecka, D.,  …  Ghosh, S. (2021).
-      Nipype 2.0: A new ecosystem for neuroimaging workflows.
-      <i>27th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 2796.
-      (Virtual Meeting).
-  - DOI: 10.1109/ISBI48211.2021.9433884
-    URL:
-    OA URL: https://doi.org/10.31219/osf.io/sqxef
+      Provins, C., … Esteban, O. (2023).
+            Signal-to-noise ratio estimates predict head motion presence in T1-weighted MRI
+            <i>OHBM</i> 29, 787,
+            Montréal, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
     Citation: |-
-      MacNicol, E.,  …  Esteban, O. (2021).
-      Atlas-based brain extraction is robust across rat MRI studies.
-      <i>IEEE 18th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 312-315.
-      Nice, France.
-      doi:<a href="https://doi.org/10.1109/ISBI48211.2021.9433884">10.1109/ISBI48211.2021.9433884</a>.
-      <a href="https://doi.org/10.31219/osf.io/sqxef">OA</a>.
-  - DOI:
-    URL: https://archive.ismrm.org/2021/2473.html
-    OA URL:
-    Citation: |-
-      Joseph, M. J.,  …  Esteban, O. (2021).
-      dMRIPrep: a robust preprocessing pipeline for diffusion MRI.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. 30 (ISMRM)</i>, pp. 2473.
-      (Virtual Meeting).
-      <a href="https://archive.ismrm.org/2021/2473.html">URL</a>.
-  - DOI:
-    URL: https://archive.ismrm.org/2021/2655.html
-    OA URL:
-    Citation: |-
-      Di Noto, T.,  …  Richiardi, J. (2021).
-      Improving automated aneurysm detection on multi-site MRA data: lessons learnt from a public machine learning challenge.
-      <i>Proc. Intl. Soc. Mag. Reson. Med. 30 (ISMRM)</i>, pp. 2655.
-      (Virtual Meeting).
-      <a href="https://archive.ismrm.org/2021/2655.html">URL</a>.
-  - DOI: 10.31219/osf.io/ujxp6
-    URL:
-    OA URL: https://doi.org/10.31219/osf.io/ujxp6
-    Citation: |-
-      Esteban, O.,  …  Ghosh, S. (2020).
-      NiPreps: enabling the division of labor in neuroimaging beyond fMRIPrep.
-      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1960.
-      (Virtual Meeting).
-      doi:<a href="https://doi.org/10.31219/osf.io/ujxp6">10.31219/osf.io/ujxp6</a>.
-  - DOI: 10.5281/zenodo.3941040
-    URL:
-    OA URL: https://doi.org/10.5281/zenodo.3941040
-    Citation: |-
-      Markiewicz, C. J.,  …  Harms, M. (2020).
-      BIDS Derivatives – Standardization of Processing Results in Brain Imaging.
-      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1895.
-      (Virtual Meeting).
-      doi:<a href="https://doi.org/10.5281/zenodo.3941040">10.5281/zenodo.3941040</a>.
-  - DOI:
-    URL:
-    OA URL:
-    Citation: |-
-      Goncalves, M.,  …  Esteban, O. (2020).
-      FMRIPrep: extending the scanner to produce ready-for-analysis fMRI data.
-      <i>26th Annual Meeting of the Organization for Human Brain Mapping (OHBM)</i>, pp. 1961.
-      (Virtual Meeting).
+      MacNicol, E., … Esteban, O. (2022).
+            Extending MRIQC to rodents: image quality metrics for rat MRI
+            <i>EMIM</i>, PW23-913,
+            Thessaloniki, Greece.
   - DOI: 10.1109/ISBI45749.2020.9098466
-    URL:
+    URL: ''
     OA URL: https://doi.org/10.31219/osf.io/8aq7b
     Citation: |-
-      Esteban, O.,  …  Poldrack, R. (2020).
-      Software tool to read, represent, manipulate, and apply n-dimensional spatial transforms.
-      <i>IEEE 17th International Symposium on Biomedical Imaging (ISBI)</i>, pp. 709-712.
-      Iowa City, IA, USA.
-      doi:<a href="https://doi.org/10.1109/ISBI45749.2020.9098466">10.1109/ISBI45749.2020.9098466</a>.
-      <a href="https://doi.org/10.31219/osf.io/8aq7b">OA</a>.
-  - DOI: 10.25080/Majora-342d178e-012
-    URL:
-    OA URL:
+      Esteban, O., … Poldrack, R. (2020).
+            Software tool to read, represent, manipulate, and apply n-dimensional spatial transforms
+            <i>ISBI</i>, 709-712,
+            Iowa City, IA, USA.
+  - DOI: 10.7490/f1000research.1114420.1
+    URL: 
+      https://archive.aievolution.com/2017/hbm1701/index.cfm?do=abs.viewAbs&abs=4111
+    OA URL: https://doi.org/10.7490/f1000research.1114420.1
     Citation: |-
-      Jarecka, D.,  …  Ghosh, S. (2020).
-      Pydra-a flexible and lightweight dataflow engine for scientific analyses.
-      <i>Proceedings of the 19th Python in Science Conference (SciPy)</i>, pp. 132-139.
-      Austin, TX, USA.
-      doi:<a href="https://doi.org/10.25080/Majora-342d178e-012">10.25080/Majora-342d178e-012</a>.
+      Esteban, O., … Poldrack, R. (2017).
+            FMRIprep: a robust preprocessing pipeline for task-based and resting-state fMRI data
+            <i>OHBM</i>, 4111,
+            Vancouver, BC, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: http://www2.die.upm.es/im/papers/Medicon2013.pdf
+    Citation: |-
+      Ninerola, A., … Pavia, J. (2014).
+            QuantiDOPA: A Quantification Software for Dopaminergic Neurotransmission SPECT
+            <i>MEDICON</i>, 443-446,
+            Sevilla, Spain.
+  - DOI: ''
+    URL: https://archive.ismrm.org/2012/0753.html
+    OA URL: ''
+    Citation: |-
+      Kober, T., … Krueger, G. (2012).
+            Atlas-free brain tissue segmentation using a single T1-weighted MRI acquisition
+            <i>ISMRM</i> 20, 753,
+            Melbourne, Australia.
+  - DOI: 10.31219/osf.io/hnpyt
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/hnpyt
+    Citation: |-
+      Provins, C., … Esteban, O. (2023).
+            Assessment of B1 field dynamics of rats BOLD fMRI using the wavelet transform
+            <i>OHBM</i> 29, 834,
+            Montréal, Canada.
+  - DOI: ''
+    URL: https://2022.midl.io/papers/e_s_4
+    OA URL: ''
+    Citation: |-
+      Di Noto, T., … Richiardi, J. (2022).
+            Weak labels for deep-learning-based detection of brain aneurysms from MR angiography scans
+            <i>MIDL</i>,
+            Zurich, Switzerland.
+  - DOI: ''
+    URL: https://archive.ismrm.org/2019/2452.html
+    OA URL: ''
+    Citation: |-
+      Esteban, O., … Gorgolewski, K. (2019).
+            TemplateFlow: Standardizing standard 3D spaces in neuroimaging
+            <i>ISMRM</i> 27, 2452,
+            Montréal, QC, Canada.
+  - DOI: 10.7490/f1000research.1114419.1
+    URL: http://cds.ismrm.org/protected/17MPresentations/abstracts/3809.html
+    OA URL: https://doi.org/10.7490/f1000research.1114419.1
+    Citation: |-
+      Esteban, O., … Gorgolewski, K.J. (2017).
+            MRIQC: automated assessment and quality reporting of MRI scans
+            <i>ISMRM</i> 25, 3809,
+            Honolulu, HI, USA.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Tammurello, C., … Fornari, E. (2024).
+            Hi-Fi BOLD fMRI of the human auditory cortex
+            <i>OHBM</i> 30, 2324,
+            Seoul, Korea.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Cionca, A., … Esteban, O. (2024).
+            A high definition anatomical brain template of one individual healthy subject
+            <i>OHBM</i> 30, 2212,
+            Seoul, Korea.
+  - DOI: ''
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/nuqs2
+    Citation: |-
+      Provins, C., … Esteban, O. (2024).
+            Effects of phase-encoding on BOLD data with a positive control task
+            <i>OHBM</i> 30, 1361,
+            Seoul, Korea.
+  - DOI: ''
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/27zfw
+    Citation: |-
+      Esteban, O., … Hagmann, P. (2024).
+            The Human Connectome Phantom (HCPh) dataset
+            <i>OHBM</i> 30, 2233,
+            Seoul, Korea.
+  - DOI: ''
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/epbhx
+    Citation: |-
+      Gomez, T., … Esteban, O. (2024).
+            Harnessing QA/QC protocols for diffusion MRI neuroimaging workflows with MRIQC
+            <i>ISMRM</i> 33, 0539,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: ''
+    OA URL: https://doi.org/10.31219/osf.io/5fhnz
+    Citation: |-
+      Provins, C., … Esteban, O. (2024).
+            QA/QC of the unprocessed anatomical, functional, and diffusion MRI data of the Human Connectome PHantom (HCPh) dataset with MRIQC
+            <i>ISMRM</i> 33, 3001,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2024).
+            A-Eye: quality control and deep learning segmentation of the complete eye in MRI
+            <i>ISMRM</i> 33, 2096,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Alemán-Gómez, Y., … Hagmann, P. (2023).
+            CHIMERA: An open source framework for combining multiple parcellations
+            <i>OHBM</i> 29, 2478,
+            Montréal, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Goncalves, M., … Fair, D.A. (2023).
+            They grow up so fast - Augmenting the NiBabies infant MRI workflow
+            <i>OHBM</i> 29, 2504,
+            Montréal, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Lajous, H., … Bach-Cuadra, M. (2023).
+            Minimizing the Need for Clinical MRI Data in Supervised Fetal Brain Tissue Segmentation
+            <i>OHBM</i> 29, 857,
+            Montréal, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2023).
+            A-Eye: Towards a large-scale MRI-based model of the complete eye
+            <i>ISMRM</i> 32, 3762,
+            Toronto, Canada.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2023).
+            A-Eye: Towards large-scale MRI automated segmentation of the eye
+            <i>Invest. Ophthalmol. Vis. Sci.</i> 64, PP0010,
+            New Orleans, LA, USA.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Barranco, J., … Bach-Cuadra, M. (2023).
+            A-Eye: Large-scale MRI automatic biomarkers extraction
+            <i>Invest. Ophthalmol. Vis. Sci.</i> 64, 5039,
+            New Orleans, LA, USA.
+  - DOI: 10.31219/osf.io/t9ehk
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Provins, C., … Esteban, O. (2022).
+            Defacing biases manual and automated quality assessments of structural MRI with MRIQC
+            <i>OHBM</i>, WTh566,
+            Glasgow, Scotland, UK.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Markiewicz, C.J., … You, X. (2022).
+            Standardizing support for multi-echo fMRI data across the NiPreps ecosystem
+            <i>OHBM</i>, WTh563,
+            Glasgow, Scotland, UK.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Li, X., … Milham, M.P. (2022).
+            Moving beyond processing and analysis-related variation in neuroscience
+            <i>OHBM</i>, WTh877,
+            Glasgow, Scotland, UK.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Ciric, R., … Poldrack, R.A. (2022).
+            Across the multiverse: differentiable programming for deep connectivity pipeline optimisation
+            <i>OHBM</i>, WTh556,
+            Glasgow, Scotland, UK.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Adebimpe, A., … Satterthwaite, T.D. (2021).
+            ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled MRI
+            <i>OHBM</i>, 1814,
+            Virtual Meeting.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Milham, M., … Esteban, O. (2021).
+            Putting pipeline implementation-related variation into perspective for functional connectomics
+            <i>OHBM</i>, 2405,
+            Virtual Meeting.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Jarecka, D., … Ghosh, S. (2021).
+            Nipype 2.0: A new ecosystem for neuroimaging workflows
+            <i>OHBM</i>, 2796,
+            Virtual Meeting.
+  - DOI: ''
+    URL: https://archive.ismrm.org/2021/2655.html
+    OA URL: ''
+    Citation: |-
+      Di Noto, T., … Richiardi, J. (2021).
+            Improving automated aneurysm detection on multi-site MRA data: lessons learnt from a public machine learning challenge
+            <i>ISMRM</i> 30, 2655,
+            Virtual Meeting.
+  - DOI: 10.5281/zenodo.3941040
+    URL: ''
+    OA URL: https://doi.org/10.5281/zenodo.3941040
+    Citation: |-
+      Markiewicz, C.J., … Harms, M. (2020).
+            BIDS Derivatives – Standardization of Processing Results in Brain Imaging
+            <i>OHBM</i>, 1895,
+            Virtual Meeting.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Goncalves, M., … Esteban, O. (2020).
+            FMRIPrep: extending the scanner to produce ready-for-analysis fMRI data
+            <i>OHBM</i>, 1961,
+            Virtual Meeting.
+  - DOI: ''
+    URL: ''
+    OA URL: https://doi.org/10.5281/zenodo.3366302
+    Citation: |-
+      Nielson, D., … Thomas, A. (2019).
+            Distributions of image quality metrics in the MRIQC Web-API
+            <i>OHBM</i>, W586,
+            Roma, Italy.
+  - DOI: ''
+    URL: ''
+    OA URL: https://www.templateflow.org/assets/poster-templateflow.png
+    Citation: |-
+      Esteban, O., … Gorgolewski, K. (2019).
+            TemplateFlow: a 4D standard space of neuroimaging standard spaces
+            <i>OHBM</i>, W571,
+            Roma, Italy.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Esteban, O., … Gorgolewski, K. (2019).
+            Spatial normalization in fMRIPrep
+            <i>OHBM</i>, Th587,
+            Roma, Italy.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Yarkoni, T., … McNamara, Q. (2018).
+            PyBIDS: Python tools for manipulation and analysis of BIDS datasets
+            <i>OHBM</i>, 2011,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1321
+    OA URL: ''
+    Citation: |-
+      Markiewicz, C., … Gorgolewski, K. (2018).
+            FMRIprep: Building a Robust Preprocessing Pipeline for fMRI
+            <i>OHBM</i>, 2035,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: https://ww5.aievolution.com/hbm1801/index.cfm?do=abs.viewAbs&abs=1179
+    OA URL: ''
+    Citation: |-
+      Nielson, D., … Cox, R. (2018).
+            AFNI preprocessing BIDS App with in browser quality control
+            <i>OHBM</i>, 2034,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      DuPre, E., … Spreng, R.N. (2018).
+            Introducing a BIDS-compliant multi-echo fMRI preprocessing pipeline
+            <i>OHBM</i>, 2051,
+            Singapore, Singapore.
+  - DOI: ''
+    URL: ''
+    OA URL: https://oa.upm.es/22221/1/isbi2012_v2.pdf
+    Citation: |-
+      Esteban, O., … Bach Cuadra, M. (2012).
+            Brain tissue segmentation on diffusion weighted magnetic resonance data
+            <i>ISBI</i>,
+            Barcelona, Spain.
+  - DOI: 10.1007/s00259-009-1230-x
+    URL: ''
+    OA URL: ''
+    Citation: |-
+      Martí-Fuster, B., … Pavía, J. (2009).
+            FocusDET: A software tool to locate epileptogenic foci in intractable partial epilepsy
+            <i>EANM</i>, S284-S284,
+            Barcelona, Spain.
+  - DOI: 10.58530/2022/4083
+    URL: https://archive.ismrm.org/2022/4083.html
+    OA URL: ''
+    Citation: |-
+      Goncalves, M., … Fair, D.A. (2022).
+            NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI
+            <i>ISMRM</i> 31, 4083,
+            London, England, UK.

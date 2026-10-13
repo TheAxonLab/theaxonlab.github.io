@@ -9,7 +9,7 @@ permalink: /publications/
 # Scientific outputs
 
 Below we list the most outstanding communications our lab has produced, next to the number of citations if applicable.
-Number of citing references extracted from Google Scholar on Jun 14, 2023.
+Citation counts come from Google Scholar and are refreshed twice a month; the list is updated weekly from the lab's publication index.
   
 <div class="accordion accordion-flush" id="accordionPublications">
 <div class="accordion-item">
