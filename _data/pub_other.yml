@@ -13,6 +13,35 @@
             <i>bioRxiv</i> (under revision at Scientific Data).
     DOI: 10.64898/2026.02.03.703514
     OA: True
+  - Type: Panel
+    Citation: |-
+      Esteban, O. (2026).
+            Welcome to the buffet of Open Science (Table Talk 1)
+            <i>OHBM 2026 Open Science Room</i>, Bordeaux, France.
+  - Type: Educational course
+    Citation: |-
+      Esteban, O. (2026).
+            Better / faster coding with LLMs - and pitfalls warnings
+            <i>OHBM 2026 Educational Course: Using Large Language Models (LLMs) in Neuroimaging Research</i>, Bordeaux, France.
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2026).
+            Functional MRI Data Analysis Pipelines: Five rules from preprocessing to reproducibility
+            <i>ISMRM-ISMRT 2026 Annual Meeting, Weekend Course: Analysis Pipelines: Demos</i>, Cape Town, South Africa.
+    URL: https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/78
+    Slides: https://oesteban.github.io/talks/20260510-ISMRM/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2026).
+            Open, Reliable & Repeatable: Standardizing neuroimaging preprocessing for the age of large-scale brain research
+            <i>Rotman Rounds, Rotman Research Institute (Baycrest)</i>.
+    Slides: https://oesteban.github.io/talks/20260420-RRI/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2026).
+            Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses
+            <i>HEVS-HEI Coffee and Science</i>, Sion, Switzerland.
+    Slides: https://oesteban.github.io/talks/20260210-ISC/
 - Year: 2025
   Items:
   - Type: Chapter
@@ -30,6 +59,36 @@
     URL: https://iris.unil.ch/handle/iris/252793
     OA: 
       https://iris.unil.ch/bitstreams/6ce38b1b-8b3e-4598-8272-406e4d2f5c41/download
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2025).
+            Analysis-Grade MRI at Scale: the NiPreps experience
+            <i>ESMRMB MRI Together 2025</i>, Online.
+    Slides: https://www.nipreps.org/presentations/2025-MRITogether/index.html
+  - Type: Workshop
+    Citation: |-
+      Esteban, O. (2025).
+            Microstructure workshop: Preprocessing & pipelines
+            <i>ESMRMB 2025 Annual Meeting</i>, Marseille, France.
+    Slides: https://www.nipreps.org/presentations/2025-esmrmb/index.html
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2025).
+            Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses
+            <i>Neuroimaging Methods Symposium (NEMES)</i>, Göteborg, Sweden.
+    Slides: https://oesteban.github.io/talks/202509-NEMES-GU/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2025).
+            Brain MRI connectivity in the clinic... a standing promise?
+            <i>MEDGIFT Meeting</i>, Sierre, Switzerland.
+    Slides: https://oesteban.github.io/talks/20250820-medgift/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2025).
+            Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses
+            <i>UCL i4health CDT Seminar</i>, London, United Kingdom.
+    Slides: https://oesteban.github.io/talks/202504-CDT-UCL/
 - Year: Before 2025
   Items:
   - Type: Feature
@@ -74,3 +133,76 @@
             <i>UPM</i>.
     URL: https://oa.upm.es/22152/
     OA: https://oa.upm.es/22152/2/TESIS_MASTER_OSCAR_ESTEBAN_SANZ_DRAGUET.pdf
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2024).
+            Analytical variability in computational neuroscience: the next challenge?
+            <i>Neuroimaging Methods Club, Department of Psychiatry and Behavioral Health, Ohio State University</i>, Columbus, OH, USA.
+    Slides: https://oesteban.github.io/talks/202412-OSU/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2024).
+            Repeatable Research: Don't Repeat History Fishing for Dead Salmons
+            <i>Mat-TechLab Seminar</i>, Sion, Switzerland.
+    Slides: https://oesteban.github.io/talks/202411-Mat-TechLab/
+  - Type: Seminar
+    Citation: |-
+      Esteban, O. (2024).
+            Repeatable Research: Don't Repeat History Fishing for Dead Salmons
+            <i>CIBM Breakfast and Science</i>, Geneva, Switzerland.
+    Slides: https://oesteban.github.io/talks/202409-CIBM-BnS/
+  - Type: Workshop
+    Citation: |-
+      Esteban, O. (2024).
+            QC or not QC
+            <i>INCF Data Engineering Workshop 2024</i>, Online.
+    Slides: https://oesteban.github.io/talks/202407-DataEngWorkshop/
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2024).
+            Imaging Data and Transforms
+            <i>DIPY Workshop 2024</i>, Online.
+    Slides: https://oesteban.github.io/talks/202403-DIPY/
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2023).
+            Pre-registering methods-oriented neuroimaging research, why, when, and how?
+            <i>BrainHack Donostia 2023</i>, San Sebastián, Spain.
+    Slides: https://oesteban.github.io/talks/202311-BHD/
+  - Type: Educational course
+    Citation: |-
+      Provins, C. (2023).
+            Quality control in functional MRI studies with MRIQC and fMRIPrep
+            <i>OHBM 2023 Educational Course: Making Quality Control Part of Your Analysis: Learning with the FMRI Open QC Project</i>, Montréal, Canada.
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2022).
+            The NiPreps Community Unconference
+            <i>BrainHack Donostia 2022</i>, San Sebastián, Spain.
+  - Type: Educational course
+    Citation: |-
+      Esteban, O. (2022).
+            An Introduction to Methods for Analyzing Large Neuroimaging Datasets
+            <i>OHBM 2022 Educational Course</i>, Glasgow, United Kingdom.
+  - Type: Tutorial
+    Citation: |-
+      Esteban, O. (2022).
+            Hands-on quality control of human and preclinical MRI data
+            <i>ISMRM 2022 Member-Initiated Tutorial</i>, London, United Kingdom.
+  - Type: Invited talk
+    Citation: |-
+      Esteban, O. (2021).
+            Building the NiPreps community
+            <i>BrainHack Donostia 2021</i>, San Sebastián, Spain.
+    Slides: https://oesteban.github.io/bhd2021
+  - Type: Panel
+    Citation: |-
+      Esteban, O. (2021).
+            The future of open tools/technologies
+            <i>OHBM 2021 Open Science Room</i>, Online.
+  - Type: Tutorial
+    Citation: |-
+      Esteban, O. (2021).
+            Implementing a head-motion correction algorithm for diffusion MRI
+            <i>ISBI 2021</i>, Online.
+    URL: https://nipreps.org/nipreps-book
