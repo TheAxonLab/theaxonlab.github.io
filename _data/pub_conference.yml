@@ -353,6 +353,13 @@
             <i>OHBM</i>, WTh556,
             Glasgow, Scotland, UK.
   - Citation: |-
+      Goncalves, M., … Fair, D.A. (2022).
+            NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI
+            <i>ISMRM</i> 31, 4083,
+            London, England, UK.
+    DOI: 10.58530/2022/4083
+    URL: https://archive.ismrm.org/2022/4083.html
+  - Citation: |-
       Adebimpe, A., … Satterthwaite, T.D. (2021).
             ASLPrep: A Generalizable Workflow for Processing of Arterial Spin Labeled MRI
             <i>OHBM</i>, 1814,
@@ -436,10 +443,3 @@
             <i>EANM</i>, S284-S284,
             Barcelona, Spain.
     DOI: 10.1007/s00259-009-1230-x
-  - Citation: |-
-      Goncalves, M., … Fair, D.A. (2022).
-            NiBabies: A robust preprocessing workflow tailored for neonate and infant MRI
-            <i>ISMRM</i> 31, 4083,
-            London, England, UK.
-    DOI: 10.58530/2022/4083
-    URL: https://archive.ismrm.org/2022/4083.html

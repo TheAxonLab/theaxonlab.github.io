@@ -67,7 +67,7 @@
     OA: True
 - Year: Before 2025
   Items:
-  - Citations: 5360
+  - Citations: 5384
     DOI: 10.1038/s41592-018-0235-4
     Year: 2019
     Citation: |-
@@ -75,7 +75,7 @@
             fMRIPrep: a robust preprocessing pipeline for functional MRI
             <i>Nat Methods</i> 16(1):111-116.
     OA: https://doi.org/10.1101/306951
-  - Citations: 1728
+  - Citations: 1732
     DOI: 10.1038/s41467-017-01285-x
     Year: 2017
     Citation: |-
@@ -83,7 +83,7 @@
             The challenge of mapping the human connectome based on diffusion tractography
             <i>Nat Commun</i> 8(1):1349.
     OA: True
-  - Citations: 1292
+  - Citations: 1297
     DOI: 10.1371/journal.pone.0184661
     Year: 2017
     Citation: |-
@@ -91,7 +91,7 @@
             MRIQC: Advancing the Automatic Prediction of Image Quality in MRI from Unseen Sites
             <i>PLoS ONE</i> 12(9):e0184661.
     OA: True
-  - Citations: 596
+  - Citations: 597
     DOI: 10.7554/eLife.71774
     Year: 2021
     Citation: |-
@@ -115,7 +115,7 @@
             Analysis of task-based functional MRI data preprocessed with fMRIPrep
             <i>Nat Protoc</i> 15(7):2186-2202.
     OA: https://doi.org/10.1101/694364
-  - Citations: 237
+  - Citations: 239
     DOI: 10.1038/s41592-022-01681-2
     Year: 2022
     Citation: |-
@@ -123,7 +123,7 @@
             TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models
             <i>Nat Methods</i> 19:1568-1571.
     OA: https://doi.org/10.1101/2021.02.10.430678
-  - Citations: 159
+  - Citations: 160
     DOI: 10.1038/s41593-023-01286-8
     Year: 2023
     Citation: |-
@@ -139,7 +139,7 @@
             Open and reproducible neuroimaging: from study inception to publication
             <i>NeuroImage</i> 263:119623.
     OA: True
-  - Citations: 99
+  - Citations: 100
     DOI: 10.1038/s41597-019-0035-4
     Year: 2019
     Citation: |-
@@ -155,7 +155,7 @@
             Moving beyond processing- and analysis-related variation in resting-state functional brain imaging
             <i>Nat Hum Behav</i> 8(10):2003-2017.
     OA: https://doi.org/10.1101/2021.12.01.470790
-  - Citations: 94
+  - Citations: 96
     DOI: 10.1007/s12021-022-09597-0
     Year: 2023
     Citation: |-
@@ -179,7 +179,7 @@
             PyBIDS: Python tools for BIDS datasets
             <i>JOSS</i> 4(40):1294.
     OA: True
-  - Citations: 68
+  - Citations: 69
     DOI: 10.1038/s41592-022-01458-7
     Year: 2022
     Citation: |-
