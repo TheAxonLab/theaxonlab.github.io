@@ -26,6 +26,19 @@
     - **PET preprocessing.** *PETPrep: a robust preprocessing pipeline for positron emission tomography (PET) neuroimaging* (Nørgaard et al.) was presented as an oral at NRM2026 (Uppsala, Sweden).
     - **Diffusion MRI.** The chapter *Diffusion Weighted Imaging: Principles and Applications* (Fischi-Gómez et al.) appeared in *Research Methods for Biological Psychology* (Sep 2026; doi:[10.1007/978-1-0716-5340-1_11](https://doi.org/10.1007/978-1-0716-5340-1_11)).
 
+- date: Aug 2026
+  headline: |
+    Pilot launch of the <a href="https://www.indos-costaction.eu/journal-club/">INDoS Federated Journal Club</a>
+  body: |
+    The Federated Journal Club is a trainee-oriented activity of Working Group 3 of the COST Action INDoS,
+    in which participants collaboratively read and critically annotate the neuroimaging-preprocessing literature
+    across nine imaging modalities plus a cross-modality methods category.
+    It is open to everyone, with no INDoS membership required, and especially welcomes trainees and early-career researchers.
+    For the pilot, Oscar deployed a pipeline that coordinates the club entirely on GitHub (Issues, Actions and Pages):
+    participants claim up to three papers by opening an issue, a bot sets the 12-day deadlines and sends reminders,
+    the annotated reviews are graded against a five-axis rubric, and a live leaderboard shows the progress.
+    [Join the Journal Club](https://www.indos-costaction.eu/journal-club/participate.html)!
+
 - date: Jun 2026
   headline: |
     Three posters at OHBM 2026 in Bordeaux
