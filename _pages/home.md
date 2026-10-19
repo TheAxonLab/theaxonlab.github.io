@@ -77,10 +77,11 @@ In particular, we use anatomical MR schemes (e.g., T1-weighted and T2-weighted),
 We engage in open science and support community tooling.
 In particular, The Axonlab is deeply involved in the development of the [*NeuroImaging PREProcessing toolS (NiPreps)*](https://nipreps.org).
 
-We are part of [the Connectomics Lab](https://wp.unil.ch/connectomics/) at [Department of Radiology of the Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/rad/rad-home).
+The Axonlab is at the School of Engineering (HEI) of [HES-SO Valais-Wallis](https://www.hevs.ch), in Sion (Switzerland).
+It was founded in 2020 at the [Department of Radiology of the Lausanne University Hospital (CHUV)](https://www.chuv.ch/fr/rad/rad-home).
 
 <!--
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 -->
 
-The lab receives financial support from the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)), and from the NIMH ([RF1MH121867](https://reporter.nih.gov/project-details/10260312), PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
+The lab's work has been supported by the SNSF Ambizione project *Uncovering the interplay of structure, function, and dynamics of brain connectivity using MRI* (grant number [185872](https://p3.snf.ch/project-185872)) and by the NIMH ([RF1MH121867](https://reporter.nih.gov/project-details/10260312), PIs: Poldrack, Esteban, Rokem, Satterthwaite, and Milham).
