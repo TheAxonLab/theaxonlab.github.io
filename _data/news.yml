@@ -19,6 +19,21 @@
 
 - date: Sep 2026
   headline: |
+    Congratulations to Philip Nkwam on <a href="https://webmriqc.mailab.io/">WebMRIQC</a>, accepted at the MICCAI 2026 MIRASOL Workshop!
+  body: |
+    *WebMRIQC: A Web-Based Implementation of MRIQC for Accessible MRI Image Quality Assessment in Resource-Constrained Settings*,
+    by Philip Nkwam with Udunna Anazodo, Maruf Adewole, Sekinat Zurakat-Aderibigbe and colleagues at the Medical Artificial Intelligence Laboratory (MAI Lab) and CAMERA MRI Africa,
+    has been accepted at the MIRASOL Workshop of MICCAI 2026 in France.
+    WebMRIQC is a free, zero-installation platform that runs the full, unmodified MRIQC pipeline from the browser:
+    users upload a DICOM or BIDS folder, and it converts DICOM to BIDS, runs MRIQC on shared compute,
+    and returns an interactive quality dashboard with normative benchmarks.
+    Validated against native MRIQC on the BraTS-Africa and BraTS 2021 datasets, it showed near-perfect agreement across all image quality metrics.
+    It lowers the barriers that keep many imaging centres in Africa and other low- and middle-income settings out of standardized MRI quality control.
+    Try it at [webmriqc.mailab.io](https://webmriqc.mailab.io/) and find the code on [GitHub](https://github.com/CAMERA-MRI/WebMRIqc).
+    Thank you, Philip and team, for the kind acknowledgment of Oscar and MRIQC!
+
+- date: Sep 2026
+  headline: |
     New papers in 2026: eye MRI, eye-tracking data standards, PET preprocessing and diffusion MRI
   body: |
     - **Eye MRI.** *A-eye: Automated 3D MRI segmentation and morphometric feature extraction for eye and orbit atlas construction* (Barranco et al.) appeared in *PLoS One* (Jul 2026; doi:[10.1371/journal.pone.0352257](https://doi.org/10.1371/journal.pone.0352257)).
