@@ -6,6 +6,19 @@
     It argues that traditional publishing rewards speed, volume and tidy positive narratives, which blurs the line between exploration and confirmation,
     and that Registered Reports should become the default pathway for publishing confirmatory research.
 
+- date: Oct 2026
+  headline: |
+    NiPreps milestones: fMRIPrep passes 5,000 citations
+  body: |
+    As of October 2026 (citation counts from Google Scholar):
+
+    - The [fMRIPrep](https://fmriprep.org) paper in *Nature Methods* has more than 5,000 citations, up from 2,600 in March 2024,
+      and fMRIPrep's telemetry counted about 14,000 users between March and May 2026.
+    - The [MRIQC](https://mriqc.readthedocs.io) paper in *PLoS ONE* passed 1,000 citations and now has nearly 1,300.
+    - The [TemplateFlow](https://www.templateflow.org) paper in *Nature Methods* has 237 citations, up from 52 in March 2024.
+
+    Thank you to everyone who uses, tests and contributes to these tools!
+
 - date: Oct 2, 2026
   headline: |
     The <a href="https://www.indos-costaction.eu/training">INDoS Working Group 3 Training School</a> in Madrid and online, 30 September to 2 October 2026
@@ -16,6 +29,19 @@
     Oscar and Mélanie Garcia were among the trainers, with Yasser Alemán-Gómez, Lea Waller, Steffen Bollmann and Martin Nørgaard,
     and the programme covered standardized preprocessing, BIDS across modalities, PET, EEG/MEG, and fMRI preprocessing with fMRIPrep.
     The [training materials](https://www.indos-costaction.eu/wg3-ts2026) are openly available under CC BY 4.0.
+
+- date: Sep 2026
+  headline: |
+    Thank you, CZI! The EOSS grant for NiPreps concludes
+  body: |
+    The Chan Zuckerberg Initiative's Essential Open Source Software for Science grant
+    [*NiPreps: a Community Framework for Reproducible Neuroimaging*](https://chanzuckerberg.com/eoss/proposals/nipreps-a-community-framework-for-reproducible-neuroimaging/)
+    (Cycle 5, with Oscar as PI) concluded in September 2026.
+    Since November 2022, it supported the growth of the [NiPreps](https://www.nipreps.org) community through documentation,
+    the maintenance of the foundational components, and the roadmaps of fMRIPrep, dMRIPrep and MRIQC.
+    We are deeply grateful to CZI, which earlier also funded NiBabel through the Cycle 3 grant
+    [*Strengthening Community and Code Foundations for Brain Imaging*](https://chanzuckerberg.com/eoss/proposals/strengthening-community-and-code-foundations-for-brain-imaging/)
+    (2021 to 2024, with Oscar as co-PI).
 
 - date: Sep 2026
   headline: |
@@ -89,6 +115,13 @@
     is a step-by-step protocol for screening unprocessed MRI with MRIQC (doi:[10.1038/s41596-026-01352-y](https://doi.org/10.1038/s41596-026-01352-y)).
     The preprint is openly available on bioRxiv (doi:[10.1101/2024.10.21.619532](https://doi.org/10.1101/2024.10.21.619532)).
 
+- date: Apr 30, 2026
+  headline: |
+    NiPreps hackathon in Copenhagen, April 28 to 30, 2026
+  body: |
+    Oscar organized the fifth [NiPreps](https://www.nipreps.org) hackathon, held in Copenhagen from Tuesday, April 28 to Thursday, April 30, 2026,
+    with contributors to the NiPreps tools.
+
 - date: Dec 2025
   headline: |
     Talks in 2025: London, Sierre, Göteborg, Marseille and MRI Together
@@ -108,6 +141,14 @@
     - **Open science.** The *Proceedings of the OHBM Open Science Room 2024* (Lugtmeijer et al.) appeared in *Aperture Neuro* (Aug 2025; doi:[10.52294/001c.142427](https://doi.org/10.52294/001c.142427)).
     - **Functional MRI.** *Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions* (de Riedmatten et al.) appeared in *Imaging Neuroscience* (Nov 2025; doi:[10.1162/IMAG.a.1020](https://doi.org/10.1162/IMAG.a.1020)).
 
+- date: Oct 2025
+  headline: |
+    Oscar is awarded two Spanish talent-attraction awards
+  body: |
+    Oscar was awarded two talent-attraction awards to join the Department of Bioengineering of the Universidad Carlos III de Madrid (UC3M):
+    the UC3M Atrae Excelencia Internacional (2024 call) and a Beatriz Galindo senior distinguished researcher award (2024 call)
+    from the Spanish Ministry of Science. He declined both to continue with the Axonlab.
+
 - date: Sep 30, 2025
   headline: |
     The COST Action INDoS starts, with Oscar co-chairing its working group on automated preprocessing
@@ -115,6 +156,15 @@
     [COST Action CA24161 *Improving Neuroimaging Data for Sharing* (INDoS)](https://www.cost.eu/actions/CA24161/) brings together European researchers
     working on the preparation and sharing of neuroimaging data, from 2025 to 2029.
     Oscar represents Switzerland on its Management Committee and co-chairs Working Group 3 (Automated Preprocessing Pipelines) with Guiomar Niso.
+
+- date: Sep 2025
+  headline: |
+    New courses at HEI: Data Computation and Medical Informatics
+  body: |
+    In the Informatique et systèmes de communication (ISC) bachelor programme of HES-SO Valais-Wallis, Oscar is responsible for
+    module 302 *Data Computation* (data infrastructures), which started in September 2025 with project-based labs on containerized environments (Docker, Airflow),
+    and, since February 2026, for the *Medical Informatics* major option track (module 304).
+    He also teaches *Signal and information* (UE 204.1).
 
 - date: Aug 1, 2025
   headline: |
@@ -152,6 +202,13 @@
   body: |
     Oscar was elected to the Council of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/OHBMLeadership/),
     as Secretary-Elect for 2025 to 2026 and Secretary for 2026 to 2027.
+
+- date: May 14, 2025
+  headline: |
+    Preprint: <i>fMRIPrep Lifespan</i> extends fMRIPrep to developmental neuroimaging
+  body: |
+    *fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging* (Goncalves et al.)
+    is available on bioRxiv (doi:[10.1101/2025.05.14.654069](https://doi.org/10.1101/2025.05.14.654069)).
 
 - date: May 2025
   headline: |
