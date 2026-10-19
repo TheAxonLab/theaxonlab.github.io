@@ -72,6 +72,7 @@
   body: |
     *Quality assessment and control of unprocessed anatomical, functional and diffusion MRI of the human brain using MRIQC* (Hagen et al.)
     is a step-by-step protocol for screening unprocessed MRI with MRIQC (doi:[10.1038/s41596-026-01352-y](https://doi.org/10.1038/s41596-026-01352-y)).
+    The preprint is openly available on bioRxiv (doi:[10.1101/2024.10.21.619532](https://doi.org/10.1101/2024.10.21.619532)).
 
 - date: Dec 2025
   headline: |
