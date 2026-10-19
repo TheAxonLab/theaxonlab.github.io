@@ -1,3 +1,270 @@
+- date: Oct 15, 2026
+  headline: |
+    Our preprint <a href="https://osf.io/preprints/psyarxiv/cn59h_v2"><i>Registered Reports as the default pathway for confirmatory publication</i></a> is out!
+  body: |
+    After a long collaborative effort led by Dr. Marta Topor and Oscar with 88 authors, the preprint is now available on [PsyArXiv](https://osf.io/preprints/psyarxiv/cn59h_v2).
+    It argues that traditional publishing rewards speed, volume and tidy positive narratives, which blurs the line between exploration and confirmation,
+    and that Registered Reports should become the default pathway for publishing confirmatory research.
+
+- date: Oct 2026
+  headline: |
+    NiPreps milestones: fMRIPrep passes 5,000 citations
+  body: |
+    As of October 2026 (citation counts from Google Scholar):
+
+    - The [fMRIPrep](https://fmriprep.org) paper in *Nature Methods* has more than 5,000 citations, up from 2,600 in March 2024,
+      and fMRIPrep's telemetry counted about 14,000 users between March and May 2026.
+    - The [MRIQC](https://mriqc.readthedocs.io) paper in *PLoS ONE* passed 1,000 citations and now has nearly 1,300.
+    - The [TemplateFlow](https://www.templateflow.org) paper in *Nature Methods* has 237 citations.
+
+    Thank you to everyone who uses, tests and contributes to these tools!
+
+- date: Oct 2, 2026
+  headline: |
+    The <a href="https://www.indos-costaction.eu/training">INDoS Working Group 3 Training School</a> in Madrid and online, 30 September to 2 October 2026
+  body: |
+    Oscar co-organized with Guiomar Niso the Training School of Working Group 3 of the COST Action INDoS,
+    a three-day hybrid event hosted at CSIC (c/ Serrano 113, Madrid).
+    In total, 98 people attended: 30 in person in Madrid and 68 online.
+    Oscar and Mélanie Garcia were among the trainers, with Yasser Alemán-Gómez, Lea Waller, Steffen Bollmann and Martin Nørgaard,
+    and the programme covered standardized preprocessing, BIDS across modalities, PET, EEG/MEG, and fMRI preprocessing with fMRIPrep.
+    The [training materials](https://www.indos-costaction.eu/wg3-ts2026) are openly available under CC BY 4.0.
+
+- date: Sep 2026
+  headline: |
+    Thank you, CZI! The EOSS grant for NiPreps concludes
+  body: |
+    The Chan Zuckerberg Initiative's Essential Open Source Software for Science grant
+    [*NiPreps: a Community Framework for Reproducible Neuroimaging*](https://chanzuckerberg.com/eoss/proposals/nipreps-a-community-framework-for-reproducible-neuroimaging/)
+    (Cycle 5, with Oscar as PI) concluded in September 2026.
+    Since November 2022, it supported the growth of the [NiPreps](https://www.nipreps.org) community through documentation,
+    the maintenance of the foundational components, and the roadmaps of fMRIPrep, dMRIPrep and MRIQC.
+    We are deeply grateful to CZI, which earlier also funded NiBabel through the Cycle 3 grant
+    [*Strengthening Community and Code Foundations for Brain Imaging*](https://chanzuckerberg.com/eoss/proposals/strengthening-community-and-code-foundations-for-brain-imaging/)
+    (2021 to 2024).
+
+- date: Sep 2026
+  headline: |
+    Congratulations to Philip Nkwam on <a href="https://webmriqc.mailab.io/">WebMRIQC</a>, accepted at the MICCAI 2026 MIRASOL Workshop!
+  body: |
+    *WebMRIQC: A Web-Based Implementation of MRIQC for Accessible MRI Image Quality Assessment in Resource-Constrained Settings*,
+    by Philip Nkwam with Udunna Anazodo, Maruf Adewole, Sekinat Zurakat-Aderibigbe and colleagues at the Medical Artificial Intelligence Laboratory (MAI Lab) and CAMERA MRI Africa,
+    has been accepted at the MIRASOL Workshop of MICCAI 2026 in France.
+    WebMRIQC is a free, zero-installation platform that runs the full, unmodified MRIQC pipeline from the browser:
+    users upload a DICOM or BIDS folder, and it converts DICOM to BIDS, runs MRIQC on shared compute,
+    and returns an interactive quality dashboard with normative benchmarks.
+    Validated against native MRIQC on the BraTS-Africa and BraTS 2021 datasets, it showed near-perfect agreement across all image quality metrics.
+    It lowers the barriers that keep many imaging centres in Africa and other low- and middle-income settings out of standardized MRI quality control.
+    Try it at [webmriqc.mailab.io](https://webmriqc.mailab.io/) and find the code on [GitHub](https://github.com/CAMERA-MRI/WebMRIqc).
+    Thank you, Philip and team, for the kind acknowledgment of Oscar and MRIQC!
+
+- date: Sep 2026
+  headline: |
+    New papers in 2026: eye MRI, eye-tracking data standards, PET preprocessing and diffusion MRI
+  body: |
+    - **Eye MRI.** *A-eye: Automated 3D MRI segmentation and morphometric feature extraction for eye and orbit atlas construction* (Barranco et al.) appeared in *PLoS One* (Jul 2026; doi:[10.1371/journal.pone.0352257](https://doi.org/10.1371/journal.pone.0352257)).
+    - **Data standards.** *Eye-Tracking-BIDS: the Brain Imaging Data Structure extended to gaze position and pupil data* (Szinte et al.) was posted on bioRxiv (Feb 2026; doi:[10.64898/2026.02.03.703514](https://doi.org/10.64898/2026.02.03.703514)).
+    - **PET preprocessing.** *PETPrep: a robust preprocessing pipeline for positron emission tomography (PET) neuroimaging* (Nørgaard et al.) was presented as an oral at NRM2026 (Uppsala, Sweden).
+    - **Diffusion MRI.** The chapter *Diffusion Weighted Imaging: Principles and Applications* (Fischi-Gómez et al.) appeared in *Research Methods for Biological Psychology* (Sep 2026; doi:[10.1007/978-1-0716-5340-1_11](https://doi.org/10.1007/978-1-0716-5340-1_11)).
+
+- date: Aug 2026
+  headline: |
+    Pilot launch of the <a href="https://www.indos-costaction.eu/journal-club/">INDoS Federated Journal Club</a>
+  body: |
+    The Federated Journal Club is a trainee-oriented activity of Working Group 3 of the COST Action INDoS,
+    in which participants collaboratively read and critically annotate the neuroimaging-preprocessing literature
+    across nine imaging modalities plus a cross-modality methods category.
+    It is open to everyone, with no INDoS membership required, and especially welcomes trainees and early-career researchers.
+    For the pilot, Oscar deployed a pipeline that coordinates the club entirely on GitHub (Issues, Actions and Pages):
+    participants claim up to three papers by opening an issue, a bot sets the 12-day deadlines and sends reminders,
+    the annotated reviews are graded against a five-axis rubric, and a live leaderboard shows the progress.
+    [Join the Journal Club](https://www.indos-costaction.eu/journal-club/participate.html)!
+
+- date: Jul 15, 2026
+  headline: |
+    The <a href="https://www.nipreps.org/nifreeze/main/gallery.html">NiFreeze prediction gallery</a> is online
+  body: |
+    Oscar added a [prediction gallery](https://www.nipreps.org/nifreeze/main/gallery.html) to the documentation of [NiFreeze](https://www.nipreps.org/nifreeze/).
+    It shows the diffusion volumes predicted by NiFreeze's models on four real OpenNeuro datasets spanning the acquisition-scheme spectrum:
+    legacy DTI (ds000206), single-shell HARDI (ds000114), multi-shell (ds003138) and compressed-sensing DSI (ds004737).
+    Every applicable model runs in two modes: leave-one-volume-out (LOVO), where each held-out orientation is predicted from all the other volumes,
+    and single-fit, where the model is fit once on all volumes.
+    Each page reports a coverage table of what was run and why any combination was skipped,
+    and a GitHub Actions workflow regenerates the panels, so the gallery is a living record of what the models are validated to do on real data.
+
+- date: Jun 2026
+  headline: |
+    Three posters at OHBM 2026 in Bordeaux
+  body: |
+    - Céline Provins: *Naturalistic Viewing and Sparse Models yield more Reliable Functional Connectivity*.
+    - Mélanie Garcia: *Artifact-Specific Feature Signatures in Multi-Echo fMRI: An MRIQC-based Analysis*.
+    - Jon Haitz Legarreta Gorroño: *NiQuery: Stop searching your neuroimaging datasets. Start testing your hypotheses* (preprint: doi:[10.31234/osf.io/7nxwu_v1](https://doi.org/10.31234/osf.io/7nxwu_v1)).
+
+- date: Jun 2026
+  headline: |
+    Talks in 2026: Sion, the Rotman Research Institute, ISMRM in Cape Town and OHBM in Bordeaux
+  body: |
+    Oscar spoke at:
+
+    - *HEVS-HEI Coffee and Science* (Sion, Feb 10): [Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses](https://oesteban.github.io/talks/20260210-ISC/).
+    - *Rotman Rounds*, Rotman Research Institute, Baycrest (Apr 20): [Open, Reliable & Repeatable: Standardizing neuroimaging preprocessing for the age of large-scale brain research](https://oesteban.github.io/talks/20260420-RRI/).
+    - The *ISMRM-ISMRT 2026* weekend course "Analysis Pipelines: Demos" (Cape Town, May 10): [Functional MRI Data Analysis Pipelines: Five rules from preprocessing to reproducibility](https://oesteban.github.io/talks/20260510-ISMRM/).
+    - *OHBM 2026* (Bordeaux): the educational course on large language models in neuroimaging research (Jun 14), and a table talk on open science in the Open Science Room (Jun 15).
+
+- date: Jun 2026
+  headline: |
+    Editorial roles and a push for Registered Reports
+  body: |
+    Oscar has served on the editorial board of [*Scientific Data*](https://www.nature.com/sdata/editors) since 2025.
+    In 2026 he became the Registered Reports Editor of [*Aperture Neuro*](https://apertureneuro.org/editorial-board), where he is setting up the journal's Registered Reports track,
+    and he led the organization of the OHBM 2026 roundtable on Registered Reports (Bordeaux, Jun 15).
+
+- date: May 11, 2026
+  headline: |
+    Our MRIQC protocol is out in <i>Nature Protocols</i>!
+  body: |
+    *Quality assessment and control of unprocessed anatomical, functional and diffusion MRI of the human brain using MRIQC* (Hagen et al.)
+    is a step-by-step protocol for screening unprocessed MRI with MRIQC (doi:[10.1038/s41596-026-01352-y](https://doi.org/10.1038/s41596-026-01352-y)).
+    The preprint is openly available on bioRxiv (doi:[10.1101/2024.10.21.619532](https://doi.org/10.1101/2024.10.21.619532)).
+
+- date: Apr 30, 2026
+  headline: |
+    NiPreps hackathon in Copenhagen, April 28 to 30, 2026
+  body: |
+    Oscar organized the fifth [NiPreps](https://www.nipreps.org) hackathon, held in Copenhagen from Tuesday, April 28 to Thursday, April 30, 2026,
+    with contributors to the NiPreps tools.
+
+- date: Dec 2025
+  headline: |
+    Talks in 2025: London, Sierre, Göteborg, Marseille and MRI Together
+  body: |
+    Oscar spoke at:
+
+    - The *UCL i4health CDT Seminar* (London, Apr): [Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses](https://oesteban.github.io/talks/202504-CDT-UCL/).
+    - The *MEDGIFT Meeting* (Sierre, Aug 20): [Brain MRI connectivity in the clinic... a standing promise?](https://oesteban.github.io/talks/20250820-medgift/).
+    - The *Neuroimaging Methods Symposium (NEMES)* (Göteborg, Sep): [Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses](https://oesteban.github.io/talks/202509-NEMES-GU/).
+    - The microstructure workshop of the *ESMRMB 2025 Annual Meeting* (Marseille, Oct): [Preprocessing & pipelines](https://www.nipreps.org/presentations/2025-esmrmb/index.html).
+    - *ESMRMB MRI Together 2025* (online, Dec): [Analysis-Grade MRI at Scale: the NiPreps experience](https://www.nipreps.org/presentations/2025-MRITogether/index.html).
+
+- date: Nov 2025
+  headline: |
+    New papers in the second half of 2025: open science and ADC-fMRI
+  body: |
+    - **Open science.** The *Proceedings of the OHBM Open Science Room 2024* (Lugtmeijer et al.) appeared in *Aperture Neuro* (Aug 2025; doi:[10.52294/001c.142427](https://doi.org/10.52294/001c.142427)).
+    - **Functional MRI.** *Evaluating the dependence of ADC-fMRI on haemodynamics in breath-hold and resting-state conditions* (de Riedmatten et al.) appeared in *Imaging Neuroscience* (Nov 2025; doi:[10.1162/IMAG.a.1020](https://doi.org/10.1162/IMAG.a.1020)).
+
+- date: Oct 2025
+  headline: |
+    Oscar is awarded two Spanish talent-attraction awards
+  body: |
+    Oscar was awarded two talent-attraction awards to join the Department of Bioengineering of the Universidad Carlos III de Madrid (UC3M):
+    the UC3M Atrae Excelencia Internacional (2024 call) and a Beatriz Galindo senior distinguished researcher award (2024 call)
+    from the Spanish Ministry of Science. He declined both to continue at HES-SO Valais/Wallis in Sion.
+
+- date: Sep 30, 2025
+  headline: |
+    The COST Action INDoS starts, with Oscar co-chairing its working group on automated preprocessing
+  body: |
+    [COST Action CA24161 *Improving Neuroimaging Data for Sharing* (INDoS)](https://www.cost.eu/actions/CA24161/) brings together European researchers
+    working on the preparation and sharing of neuroimaging data, from 2025 to 2029.
+    Oscar represents Switzerland on its Management Committee and co-chairs Working Group 3 (Automated Preprocessing Pipelines) with Guiomar Niso.
+
+- date: Sep 2025
+  headline: |
+    Teaching at [ISC (HES-SO Valais/Wallis)](https://isc.hevs.ch/): Data Computation and Medical Informatics
+  body: |
+    In the Informatique et systèmes de communication (ISC) bachelor programme of HES-SO Valais-Wallis, Oscar is responsible for
+    module 302 *Data Computation* (data infrastructures), which started in September 2025 with project-based labs on containerized environments (Docker, Airflow),
+    and, since February 2026, leads the *Medical Informatics* major option track (module 304).
+
+- date: Aug 1, 2025
+  headline: |
+    The Axonlab moves to the School of Engineering of HES-SO Valais-Wallis
+  body: |
+    Oscar joined the School of Engineering (HEI) of [HES-SO Valais-Wallis](https://www.hevs.ch) in Sion as Associate UAS Professor,
+    and the lab moved with him from the Department of Radiology of the Lausanne University Hospital (CHUV).
+    At HEI, Oscar teaches in the Informatique et systèmes de communication (ISC) bachelor programme.
+
+- date: Jul 2025
+  headline: |
+    Céline leaves the lab. Thank you, Céline!
+  body: |
+    After four and a half years with the Axonlab, first as a PhD student and then as a post-doctoral research software engineer,
+    Céline moves on to her next adventure. We are grateful for everything she brought to the lab and wish her the very best.
+
+- date: Jul 26, 2025
+  headline: |
+    <i>Cerebral Cortex</i> publishes Céline's study of the default mode network in callosal agenesis
+  body: |
+    *Structural mediation of the default mode network in children with callosal agenesis* (Provins et al.)
+    studies how brain structure shapes the default mode network in children born without a corpus callosum
+    (doi:[10.1093/cercor/bhaf190](https://doi.org/10.1093/cercor/bhaf190)).
+
+- date: Jun 2025
+  headline: |
+    Two posters at OHBM 2025 in Brisbane
+  body: |
+    - Céline Provins: *Can Replaying a Movie Clip Reduce Variability in Single-Subject Resting-State fMRI?*
+    - Mélanie Garcia: *MRIQC IQM Variability and Artifact Prediction in Multi-Echo fMRI* (preprint: doi:[10.31219/osf.io/6krp9_v1](https://doi.org/10.31219/osf.io/6krp9_v1)).
+
+- date: Jun 2025
+  headline: |
+    Oscar is elected to the OHBM Council
+  body: |
+    Oscar was elected to the Council of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/OHBMLeadership/),
+    as Secretary-Elect for 2025 to 2026 and Secretary for 2026 to 2027.
+
+- date: May 14, 2025
+  headline: |
+    Preprint: <i>fMRIPrep Lifespan</i> extends fMRIPrep to developmental neuroimaging
+  body: |
+    *fMRIPrep Lifespan: Extending A Robust Pipeline for Functional MRI Preprocessing to Developmental Neuroimaging* (Goncalves et al.)
+    is available on bioRxiv (doi:[10.1101/2025.05.14.654069](https://doi.org/10.1101/2025.05.14.654069)).
+
+- date: May 2025
+  headline: |
+    Jon receives the ISMRM 2025 Diffusion Study Group Trainee Award!
+  body: |
+    Jon Haitz Legarreta Gorroño received the ISMRM 2025 Diffusion Study Group Trainee Award for best methodological paper in Honolulu,
+    for *An open implementation of FSL's eddy with volume-to-volume artifact estimation for neuroimaging beyond diffusion MRI*
+    (doi:[10.31234/osf.io/gfny9](https://doi.org/10.31234/osf.io/gfny9)), the work behind [NiFreeze](https://www.nipreps.org/nifreeze/).
+    Congratulations, Jon!
+
+- date: May 2025
+  headline: |
+    NiPreps hackathon in Boston
+  body: |
+    The NiPreps team organized the fourth [NiPreps](https://www.nipreps.org) hackathon, held in Boston, MA, with contributors to the NiPreps tools.
+
+- date: May 2025
+  headline: |
+    New papers in the first half of 2025: reproducibility, fetal and clinical MRI, eye imaging and eye tracking
+  body: |
+    - **Reproducibility.** Oscar's chapter *Standardized Preprocessing in Neuroimaging: Enhancing Reliability and Reproducibility* appeared in *Methods for Analyzing Large Neuroimaging Datasets* (Neuromethods 218; online Dec 2024; doi:[10.1007/978-1-0716-4260-3_8](https://doi.org/10.1007/978-1-0716-4260-3_8)),
+      and *A numerical variability approach to results stability tests and its application to neuroimaging* (Chatelain et al.) appeared in *IEEE Transactions on Computers* (Jan 2025; doi:[10.1109/TC.2024.3475586](https://doi.org/10.1109/TC.2024.3475586)).
+    - **Fetal MRI.** *A dataset of synthetic, maturation-informed magnetic resonance images of the human fetal brain* (Lajous et al.) appeared in *Scientific Data* (Apr 2025; doi:[10.1038/s41597-025-04926-9](https://doi.org/10.1038/s41597-025-04926-9)),
+      following *FetMRQC: A robust quality control system for multi-centric fetal brain MRI* (Sanchez et al.) in *Medical Image Analysis* (Oct 2024; doi:[10.1016/j.media.2024.103282](https://doi.org/10.1016/j.media.2024.103282)).
+    - **Clinical AI.** *Assessing workflow impact and clinical utility of AI-assisted brain aneurysm detection: a multi-reader study* (Di Noto et al.) appeared in *NeuroImage: Clinical* (doi:[10.1016/j.nicl.2025.103835](https://doi.org/10.1016/j.nicl.2025.103835)).
+    - **Eye imaging and eye tracking.** At ISMRM 2025 (Honolulu), the oral *MR-Eye: A High-Resolution Motion-Resolved MRI Protocol for Anatomical Imaging of the Human Eye* (Jia et al.)
+      and the poster *MR-Eye atlas: a large-scale atlas of the eye based on T1-weighted MR imaging* (Barranco et al.);
+      at VSS 2025, the poster *Eye-Tracking-BIDS: the brain imaging data structure extended to gaze position and pupil data* (Szinte et al.; doi:[10.1167/jov.25.9.2351](https://doi.org/10.1167/jov.25.9.2351)).
+
+- date: Apr 30, 2025
+  headline: |
+    Céline's registered report on defacing biases is out in <i>PLOS Biology</i>!
+  body: |
+    *Removing facial features from structural MRI images biases visual quality assessment* (doi:[10.1371/journal.pbio.3003149](https://doi.org/10.1371/journal.pbio.3003149))
+    completes the registered report that received [Stage 1 in principle acceptance](https://rr.peercommunityin.org/articles/rec?id=346) from PCI RR in May 2023.
+    Defacing structural MRI for privacy biases human visual quality assessment, while MRIQC's automated quality metrics are largely unaffected.
+
+- date: Mar 6, 2025
+  headline: |
+    Céline is now Dr. Provins! Congratulations!
+  body: |
+    Céline defended her thesis *Characterizing and Improving the Reliability of Brain Connectivity extracted with Magnetic Resonance Imaging*
+    at the University of Lausanne ([thesis](https://iris.unil.ch/handle/iris/252793)).
+    She will stay with the lab as a post-doctoral research software engineer.
+
 - date: Jan 14, 2025
   headline: |
     Céline successfully passed her private defense! Congratulations!
