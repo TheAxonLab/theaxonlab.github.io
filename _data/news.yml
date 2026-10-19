@@ -80,6 +80,18 @@
     the annotated reviews are graded against a five-axis rubric, and a live leaderboard shows the progress.
     [Join the Journal Club](https://www.indos-costaction.eu/journal-club/participate.html)!
 
+- date: Jul 15, 2026
+  headline: |
+    The <a href="https://www.nipreps.org/nifreeze/main/gallery.html">NiFreeze prediction gallery</a> is online
+  body: |
+    Oscar added a [prediction gallery](https://www.nipreps.org/nifreeze/main/gallery.html) to the documentation of [NiFreeze](https://www.nipreps.org/nifreeze/).
+    It shows the diffusion volumes predicted by NiFreeze's models on four real OpenNeuro datasets spanning the acquisition-scheme spectrum:
+    legacy DTI (ds000206), single-shell HARDI (ds000114), multi-shell (ds003138) and compressed-sensing DSI (ds004737).
+    Every applicable model runs in two modes: leave-one-volume-out (LOVO), where each held-out orientation is predicted from all the other volumes,
+    and single-fit, where the model is fit once on all volumes.
+    Each page reports a coverage table of what was run and why any combination was skipped,
+    and a GitHub Actions workflow regenerates the panels, so the gallery is a living record of what the models are validated to do on real data.
+
 - date: Jun 2026
   headline: |
     Three posters at OHBM 2026 in Bordeaux
