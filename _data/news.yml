@@ -15,7 +15,7 @@
     - The [fMRIPrep](https://fmriprep.org) paper in *Nature Methods* has more than 5,000 citations, up from 2,600 in March 2024,
       and fMRIPrep's telemetry counted about 14,000 users between March and May 2026.
     - The [MRIQC](https://mriqc.readthedocs.io) paper in *PLoS ONE* passed 1,000 citations and now has nearly 1,300.
-    - The [TemplateFlow](https://www.templateflow.org) paper in *Nature Methods* has 237 citations, up from 52 in March 2024.
+    - The [TemplateFlow](https://www.templateflow.org) paper in *Nature Methods* has 237 citations.
 
     Thank you to everyone who uses, tests and contributes to these tools!
 
@@ -41,7 +41,7 @@
     the maintenance of the foundational components, and the roadmaps of fMRIPrep, dMRIPrep and MRIQC.
     We are deeply grateful to CZI, which earlier also funded NiBabel through the Cycle 3 grant
     [*Strengthening Community and Code Foundations for Brain Imaging*](https://chanzuckerberg.com/eoss/proposals/strengthening-community-and-code-foundations-for-brain-imaging/)
-    (2021 to 2024, with Oscar as co-PI).
+    (2021 to 2024).
 
 - date: Sep 2026
   headline: |
@@ -147,7 +147,7 @@
   body: |
     Oscar was awarded two talent-attraction awards to join the Department of Bioengineering of the Universidad Carlos III de Madrid (UC3M):
     the UC3M Atrae Excelencia Internacional (2024 call) and a Beatriz Galindo senior distinguished researcher award (2024 call)
-    from the Spanish Ministry of Science. He declined both to continue with the Axonlab.
+    from the Spanish Ministry of Science. He declined both to continue at HES-SO Valais/Wallis in Sion.
 
 - date: Sep 30, 2025
   headline: |
@@ -159,12 +159,11 @@
 
 - date: Sep 2025
   headline: |
-    New courses at HEI: Data Computation and Medical Informatics
+    Teaching at [ISC (HES-SO Valais/Wallis)](https://isc.hevs.ch/): Data Computation and Medical Informatics
   body: |
     In the Informatique et systèmes de communication (ISC) bachelor programme of HES-SO Valais-Wallis, Oscar is responsible for
     module 302 *Data Computation* (data infrastructures), which started in September 2025 with project-based labs on containerized environments (Docker, Airflow),
-    and, since February 2026, for the *Medical Informatics* major option track (module 304).
-    He also teaches *Signal and information* (UE 204.1).
+    and, since February 2026, leads the *Medical Informatics* major option track (module 304).
 
 - date: Aug 1, 2025
   headline: |
@@ -223,7 +222,7 @@
   headline: |
     NiPreps hackathon in Boston
   body: |
-    Oscar organized the fourth [NiPreps](https://www.nipreps.org) hackathon, held in Boston, MA, with contributors to the NiPreps tools.
+    The NiPreps team organized the fourth [NiPreps](https://www.nipreps.org) hackathon, held in Boston, MA, with contributors to the NiPreps tools.
 
 - date: May 2025
   headline: |
