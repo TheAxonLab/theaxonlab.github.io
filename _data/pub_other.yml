@@ -1,5 +1,13 @@
 - Year: 2026
   Items:
+  - Type: Preprint
+    Citation: |-
+      Topor, M., … Esteban, O. (2026).
+            Registered Reports as the default pathway for confirmatory publication
+            <i>PsyArXiv</i>.
+    DOI: 10.31234/osf.io/cn59h_v2
+    URL: https://osf.io/preprints/psyarxiv/cn59h_v2
+    OA: True
   - Type: Chapter
     Citation: |-
       Fischi-Gómez, E., … Esteban, O. (2026).
