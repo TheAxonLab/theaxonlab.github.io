@@ -7,7 +7,7 @@
 #
 # Fields: Speakers (quoted "Last, First" strings), Year, Date (YYYY-MM or YYYY-MM-DD; sorts
 # talks within a year group), Kind (shown in the Type column: Invited talk,
-# Seminar, Tutorial, Educational course, Workshop, Panel), Title, Event,
+# Seminar, Tutorial, Educational course, Workshop, Panel, Podcast), Title, Event,
 # Place (optional), Presentation (slides URL, optional), URL (optional).
 
 - Speakers: ["Esteban, Oscar"]
@@ -36,6 +36,14 @@
   Place: Cape Town, South Africa
   Presentation: https://oesteban.github.io/talks/20260510-ISMRM/
   URL: https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/78
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-04-28
+  Kind: Podcast
+  Title: "Better science or just more overhead? (Registered Reports, with Mallar Chakravarty and host Peter Bandettini)"
+  Event: "Neurosalience, the OHBM podcast, S6E12"
+  URL: https://www.youtube.com/watch?v=ttGbPm2ztBs
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
