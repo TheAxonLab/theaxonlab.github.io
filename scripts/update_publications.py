@@ -11,20 +11,26 @@ yaml.default_flow_style = False
 yaml.allow_unicode = True
 yaml.boolean_representation = ['False', 'True']
 
+CONFERENCE_TYPES = {'poster': 'Poster', 'oral': 'Oral', 'roundtable': 'Round table'}
+
+
+def short_name(name):
+    """Return "Last, F." from "Last, First"."""
+    parts = [p.strip() for p in name.split(',')]
+    if len(parts) == 2:
+        last, firsts = parts
+        initials = ''.join(f"{w.strip()[0]}." for w in firsts.split())
+        return f"{last}, {initials}"
+    return name
+
+
 def short_authors(authors):
     """Return shortened author list: first, … last."""
     if not authors:
         return ""
-    def fmt(name):
-        parts = [p.strip() for p in name.split(',')]
-        if len(parts) == 2:
-            last, firsts = parts
-            initials = ''.join(f"{w.strip()[0]}." for w in firsts.split())
-            return f"{last}, {initials}"
-        return name
     if len(authors) == 1:
-        return fmt(authors[0])
-    return f"{fmt(authors[0])}, … {fmt(authors[-1])}"
+        return short_name(authors[0])
+    return f"{short_name(authors[0])}, … {short_name(authors[-1])}"
 
 def article_citation(e):
     pub = e.get('AbbrvPublication') or e.get('Publication') or ''
@@ -64,6 +70,23 @@ def conference_citation(e):
     if place:
         citation += f",\n      {place}"
     citation += "."
+    return citation
+
+def roundtable_citation(e):
+    """Cite a round table like an edited book: the organizers, then each presentation as a chapter."""
+    organizers = ', '.join(short_name(n) for n in e.get('Editors', []))
+    citation = (
+        f"{organizers} (Organizers) ({e.get('Year')}).\n"
+        f"      {e.get('Title')}\n"
+        f"      <i>{e.get('Publication')}, Round table</i>"
+    )
+    if e.get('Place'):
+        citation += f", {e['Place']}"
+    citation += "."
+    chapters = [f"{', '.join(short_name(a) for a in c.get('Authors', []))} {c.get('Title')}."
+                for c in e.get('Chapters', [])]
+    if chapters:
+        citation += "\n      Chapters: " + " ".join(chapters)
     return citation
 
 def other_citation(e):
@@ -152,14 +175,24 @@ def link_fields(e):
     return links
 
 
-def write_conferences(entries, path):
-    sections = group_entries(entries)
+def write_conferences(entries, path, talks=()):
+    # Invited talks marked "Section: conference" in talks.yml follow the
+    # communications of their year group, as in write_others.
+    sections = group_entries(list(entries) + [dict(t, _talk=True) for t in talks])
     out = []
     for label, items in sections:
         year_items = []
         for e in items:
+            ptype = (e.get('Type') or '').lower()
+            if e.get('_talk', False):
+                kind, citation = e.get('Kind') or 'Talk', talk_citation(e)
+            elif ptype == 'roundtable':
+                kind, citation = CONFERENCE_TYPES[ptype], roundtable_citation(e)
+            else:
+                kind, citation = CONFERENCE_TYPES.get(ptype, ptype.title()), conference_citation(e)
             item = {
-                'Citation': LiteralScalarString(conference_citation(e)),
+                'Type': kind,
+                'Citation': LiteralScalarString(citation),
                 **link_fields(e),
             }
             year_items.append(item)
@@ -218,13 +251,16 @@ def main(src, outdir):
         t = (e.get('Type') or '').lower()
         if t == 'article':
             articles.append(e)
-        elif t in {'poster', 'oral'}:
+        elif t in CONFERENCE_TYPES:
             conferences.append(e)
         else:
             others.append(e)
     write_articles(articles, f"{outdir}/pub_journal.yml")
-    write_conferences(conferences, f"{outdir}/pub_conference.yml")
-    write_others(others, f"{outdir}/pub_other.yml", load_talks(f"{outdir}/talks.yml"))
+    talks = load_talks(f"{outdir}/talks.yml")
+    write_conferences(conferences, f"{outdir}/pub_conference.yml",
+                      [t for t in talks if t.get('Section') == 'conference'])
+    write_others(others, f"{outdir}/pub_other.yml",
+                 [t for t in talks if t.get('Section') != 'conference'])
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:

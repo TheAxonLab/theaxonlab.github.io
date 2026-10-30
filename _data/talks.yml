@@ -9,7 +9,8 @@
 # talks within a year group), Kind (shown in the Type column: Invited talk,
 # Seminar, Tutorial, Educational course, Workshop, Panel, Podcast, Training, Training materials), Title, Event,
 # Place (optional), Presentation (slides URL, optional), URL (optional), Materials (URL, optional),
-# DOI (optional).
+# DOI (optional), Section (optional: "conference" lists the entry under
+# "Conference communications & invited talks" instead of "Other outputs").
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
@@ -82,6 +83,7 @@
   Place: Cape Town, South Africa
   Presentation: https://oesteban.github.io/talks/20260510-ISMRM/
   URL: https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/78
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
@@ -94,10 +96,11 @@
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
   Date: 2026-04-20
-  Kind: Seminar
+  Kind: Invited talk
   Title: "Open, Reliable & Repeatable: Standardizing neuroimaging preprocessing for the age of large-scale brain research"
   Event: Rotman Rounds, Rotman Research Institute (Baycrest)
   Presentation: https://oesteban.github.io/talks/20260420-RRI/
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
@@ -116,15 +119,17 @@
   Event: ESMRMB MRI Together 2025
   Place: Online
   Presentation: https://www.nipreps.org/presentations/2025-MRITogether/index.html
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2025
   Date: 2025-10
-  Kind: Workshop
+  Kind: Invited talk
   Title: "Microstructure workshop: Preprocessing & pipelines"
   Event: ESMRMB 2025 Annual Meeting
   Place: Marseille, France
   Presentation: https://www.nipreps.org/presentations/2025-esmrmb/index.html
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2025
@@ -134,6 +139,7 @@
   Event: Neuroimaging Methods Symposium (NEMES)
   Place: Göteborg, Sweden
   Presentation: https://oesteban.github.io/talks/202509-NEMES-GU/
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2025
@@ -147,11 +153,12 @@
 - Speakers: ["Esteban, Oscar"]
   Year: 2025
   Date: 2025-04
-  Kind: Seminar
+  Kind: Invited talk
   Title: "Open, Reliable, and Repeatable: Foundations for Breakthroughs in Network Analyses"
   Event: UCL i4health CDT Seminar
   Place: London, United Kingdom
   Presentation: https://oesteban.github.io/talks/202504-CDT-UCL/
+  Section: conference
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2024
