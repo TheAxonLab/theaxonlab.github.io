@@ -21,6 +21,40 @@
             <i>bioRxiv</i> (under revision at Scientific Data).
     DOI: 10.64898/2026.02.03.703514
     OA: True
+  - Type: Training materials
+    Citation: |-
+      Esteban, O. (2026).
+            INDoS WG3 Training School 2026: standards, data, environments (slides)
+            <i>Zenodo</i>.
+    DOI: 10.5281/zenodo.23162294
+    Slides: https://www.indos-costaction.eu/wg3-ts2026-esteban/
+  - Type: Training materials
+    Citation: |-
+      Garcia, M. (2026).
+            INDoS WG3 Training School 2026: reproducible environments and critical reading materials
+            <i>Zenodo</i>.
+    DOI: 10.5281/zenodo.23164546
+    Slides: https://www.indos-costaction.eu/wg3-ts2026-garcia/
+  - Type: Training materials
+    Citation: |-
+      Waller, L. (2026).
+            INDoS WG3 Training School 2026: functional MRI preprocessing and quality control materials
+            <i>Zenodo</i>.
+    DOI: 10.5281/zenodo.23164400
+    Slides: https://www.indos-costaction.eu/wg3-ts2026-waller/
+  - Type: Training materials
+    Citation: |-
+      Alemán-Gómez, Y. (2026).
+            INDoS WG3 Training School 2026: structural and diffusion MRI materials
+            <i>Zenodo</i>.
+    DOI: 10.5281/zenodo.23164764
+  - Type: Training
+    Citation: |-
+      Esteban, O. (2026).
+            INDoS Working Group 3 Training School, 30 September to 2 October 2026 (co-organized with Guiomar Niso)
+            <i>COST Action CA24161 INDoS</i>, Madrid, Spain, and online.
+    URL: https://www.indos-costaction.eu/training
+    Materials: https://www.indos-costaction.eu/wg3-ts2026
   - Type: Panel
     Citation: |-
       Esteban, O. (2026).

@@ -38,7 +38,9 @@
     In total, 98 people attended: 30 in person in Madrid and 68 online.
     Oscar and Mélanie Garcia were among the trainers, with Yasser Alemán-Gómez, Lea Waller, Steffen Bollmann and Martin Nørgaard,
     and the programme covered standardized preprocessing, BIDS across modalities, PET, EEG/MEG, and fMRI preprocessing with fMRIPrep.
-    The [training materials](https://www.indos-costaction.eu/wg3-ts2026) are openly available under CC BY 4.0.
+    The [training materials](https://www.indos-costaction.eu/wg3-ts2026) are openly available under CC BY 4.0 and archived on Zenodo with DOIs,
+    among them Oscar's slides on standards, data and environments (doi:[10.5281/zenodo.23162294](https://doi.org/10.5281/zenodo.23162294))
+    and Mélanie's materials on reproducible environments and critical reading (doi:[10.5281/zenodo.23164546](https://doi.org/10.5281/zenodo.23164546)).
 
 - date: Sep 2026
   headline: |

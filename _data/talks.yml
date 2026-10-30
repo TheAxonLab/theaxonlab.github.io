@@ -1,4 +1,4 @@
-# Talks by lab members, from 2021 onward. Maintained by hand.
+# Talks and similar outputs (podcasts, training events) by lab members, from 2021 onward. Maintained by hand.
 #
 # scripts/update_publications.py merges these entries into _data/pub_other.yml
 # ("Other outputs"), so edit this file, never pub_other.yml. Contributed
@@ -7,8 +7,54 @@
 #
 # Fields: Speakers (quoted "Last, First" strings), Year, Date (YYYY-MM or YYYY-MM-DD; sorts
 # talks within a year group), Kind (shown in the Type column: Invited talk,
-# Seminar, Tutorial, Educational course, Workshop, Panel, Podcast), Title, Event,
-# Place (optional), Presentation (slides URL, optional), URL (optional).
+# Seminar, Tutorial, Educational course, Workshop, Panel, Podcast, Training, Training materials), Title, Event,
+# Place (optional), Presentation (slides URL, optional), URL (optional), Materials (URL, optional),
+# DOI (optional).
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-10-05
+  Kind: Training materials
+  Title: "INDoS WG3 Training School 2026: standards, data, environments (slides)"
+  Event: Zenodo
+  DOI: 10.5281/zenodo.23162294
+  Presentation: https://www.indos-costaction.eu/wg3-ts2026-esteban/
+
+- Speakers: ["Garcia, Mélanie"]
+  Year: 2026
+  Date: 2026-10-05
+  Kind: Training materials
+  Title: "INDoS WG3 Training School 2026: reproducible environments and critical reading materials"
+  Event: Zenodo
+  DOI: 10.5281/zenodo.23164546
+  Presentation: https://www.indos-costaction.eu/wg3-ts2026-garcia/
+
+- Speakers: ["Waller, Lea"]
+  Year: 2026
+  Date: 2026-10-05
+  Kind: Training materials
+  Title: "INDoS WG3 Training School 2026: functional MRI preprocessing and quality control materials"
+  Event: Zenodo
+  DOI: 10.5281/zenodo.23164400
+  Presentation: https://www.indos-costaction.eu/wg3-ts2026-waller/
+
+- Speakers: ["Alemán-Gómez, Yasser"]
+  Year: 2026
+  Date: 2026-10-05
+  Kind: Training materials
+  Title: "INDoS WG3 Training School 2026: structural and diffusion MRI materials"
+  Event: Zenodo
+  DOI: 10.5281/zenodo.23164764
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-09-30
+  Kind: Training
+  Title: "INDoS Working Group 3 Training School, 30 September to 2 October 2026 (co-organized with Guiomar Niso)"
+  Event: COST Action CA24161 INDoS
+  Place: Madrid, Spain, and online
+  URL: https://www.indos-costaction.eu/training
+  Materials: https://www.indos-costaction.eu/wg3-ts2026
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026

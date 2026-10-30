@@ -131,7 +131,7 @@ def write_articles(entries, path):
 
 
 def link_fields(e):
-    """Return the DOI, URL, OA and Slides links of an entry, without duplicates."""
+    """Return the DOI, URL, OA, Slides and Materials links of an entry, without duplicates."""
     links = {}
     doi = e.get('DOI') or ''
     doi_url = f"https://doi.org/{doi}" if doi else ''
@@ -147,6 +147,8 @@ def link_fields(e):
         links['OA'] = True
     if e.get('Presentation'):
         links['Slides'] = e['Presentation']
+    if e.get('Materials'):
+        links['Materials'] = e['Materials']
     return links
 
 
