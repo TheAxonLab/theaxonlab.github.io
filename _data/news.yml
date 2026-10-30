@@ -104,6 +104,22 @@
     Each page reports a coverage table of what was run and why any combination was skipped,
     and a GitHub Actions workflow regenerates the panels, so the gallery is a living record of what the models are validated to do on real data.
 
+- date: Jun 15, 2026
+  headline: |
+    Oscar leads the OHBM 2026 round table on Registered Reports in Bordeaux
+  body: |
+    Oscar led the organization of *Registered Reports (RRs) in Neuroscience: Trainee-to-Editor Perspectives and Paths to Adoption*,
+    a round table at the OHBM 2026 Annual Meeting in Bordeaux (Jun 15), with Gemma Learmonth, Chris Chambers and Simon Eickhoff as co-organizers,
+    and moderated it with Benedetta Franceschiello.
+    Four presentations covered different positions in the Registered Reports ecosystem:
+
+    - Peter Bandettini (NIMH, *Aperture Neuro*): *A Senior Editor bringing a constructive "devil's advocate" perspective*.
+    - Henrietta Howells (*Nature Neuroscience*): *From Policy to Pipeline: Implementing Registered Reports in High-Impact Journals*.
+    - Céline Provins: *Living a Registered Report: The Trainee Author's Perspective*.
+    - Marta Topor (Linköping University, [PCI Registered Reports](https://rr.peercommunityin.org)): *Registered Reports in Practice: Lessons from PCI-RR*.
+
+    The round table and its chapters are listed under [Conference communications & invited talks](/publications/).
+
 - date: Jun 2026
   headline: |
     Three posters at OHBM 2026 in Bordeaux
