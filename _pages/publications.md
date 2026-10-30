@@ -52,7 +52,7 @@ doi:<a href="https://doi.org/{{ entry.DOI }}">{{ entry.DOI }}</a>.
 <div class="accordion-item">
 <h2 class="accordion-header" id="flush-headingTwo">
 <button class="accordion-button collapsed fs-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-Conference communications
+Conference communications &amp; invited talks
 </button>
 </h2>
 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionPublications">
@@ -63,6 +63,9 @@ Conference communications
 <tbody class="table-group-divider">
 {% for entry in year.Items %}
 <tr class="small">
+<td>
+{{ entry.Type }}
+</td>
 <td>
 {{ entry.Citation }}
 {% include pub-links.html entry=entry %}
