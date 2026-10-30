@@ -1,4 +1,4 @@
-# Talks by lab members, from 2021 onward. Maintained by hand.
+# Talks and similar outputs (podcasts, training events) by lab members, from 2021 onward. Maintained by hand.
 #
 # scripts/update_publications.py merges these entries into _data/pub_other.yml
 # ("Other outputs"), so edit this file, never pub_other.yml. Contributed
@@ -7,8 +7,18 @@
 #
 # Fields: Speakers (quoted "Last, First" strings), Year, Date (YYYY-MM or YYYY-MM-DD; sorts
 # talks within a year group), Kind (shown in the Type column: Invited talk,
-# Seminar, Tutorial, Educational course, Workshop, Panel, Podcast), Title, Event,
-# Place (optional), Presentation (slides URL, optional), URL (optional).
+# Seminar, Tutorial, Educational course, Workshop, Panel, Podcast, Training), Title, Event,
+# Place (optional), Presentation (slides URL, optional), URL (optional), Materials (URL, optional).
+
+- Speakers: ["Esteban, Oscar"]
+  Year: 2026
+  Date: 2026-09-30
+  Kind: Training
+  Title: "INDoS Working Group 3 Training School, 30 September to 2 October 2026 (co-organized with Guiomar Niso)"
+  Event: COST Action CA24161 INDoS
+  Place: Madrid, Spain, and online
+  URL: https://www.indos-costaction.eu/training
+  Materials: https://www.indos-costaction.eu/wg3-ts2026
 
 - Speakers: ["Esteban, Oscar"]
   Year: 2026
